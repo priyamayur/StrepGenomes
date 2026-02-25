@@ -1,0 +1,1816 @@
+file_name	new addition	species	neighbour_count	rgg_gene_count
+GCA_000006785	False	Streptococcus pyogenes M1 GAS, complete genome.	0	3
+GCA_000006885	False	Streptococcus pneumoniae TIGR4, complete genome.	0	3
+GCA_000007045	False	Streptococcus pneumoniae R6, complete genome.	0	7
+GCA_000007265	False	Streptococcus agalactiae 2603V/R, complete genome.	0	2
+GCA_000007285	False	Streptococcus pyogenes MGAS8232, complete genome.	0	3
+GCA_000007425	False	Streptococcus pyogenes MGAS315, complete genome.	0	3
+GCA_000007465	False	Streptococcus mutans UA159, complete genome.	1	2
+GCA_000009545	False	Streptococcus uberis 0140J complete genome	0	0
+GCA_000010705	False	Streptococcus dysgalactiae subsp. equisimilis GGS_124 DNA, complete genome.	0	3
+GCA_000011285	False	Streptococcus pyogenes SSI-1 DNA, complete genome.	0	3
+GCA_000011665	False	Streptococcus pyogenes MGAS10394, complete genome.	0	3
+GCA_000011765	False	Streptococcus pyogenes MGAS5005, complete genome.	0	3
+GCA_000011825	False	Streptococcus thermophilus LMG 18311, complete genome.	4	7
+GCA_000011845	False	Streptococcus thermophilus CNRZ1066, complete genome.	4	7
+GCA_000012165	False	Streptococcus pyogenes MGAS6180 chromosome, complete genome.	0	3
+GCA_000012705	False	Streptococcus agalactiae A909, complete genome.	0	2
+GCA_000013485	False	Streptococcus pyogenes MGAS9429, complete genome.	0	3
+GCA_000013505	False	Streptococcus pyogenes MGAS10270, complete genome.	0	4
+GCA_000013525	False	Streptococcus pyogenes MGAS2096, complete genome.	0	3
+GCA_000013545	False	Streptococcus pyogenes MGAS10750, complete genome.	0	3
+GCA_000014205	False	Streptococcus sanguinis SK36, complete genome.	0	4
+GCA_000014305	False	Streptococcus suis 05ZYH33, complete genome.	1	2
+GCA_000014325	False	Streptococcus suis 98HAH33, complete genome.	1	1
+GCA_000014365	False	Streptococcus pneumoniae D39, complete genome.	0	7
+GCA_000014485	False	Streptococcus thermophilus LMD-9, complete genome.	3	5
+GCA_000017005	False	Streptococcus gordonii str. Challis substr. CH1, complete genome.	0	4
+GCA_000018125	False	Streptococcus pyogenes NZ131, complete genome.	0	3
+GCA_000018185	False	Streptococcus suis GZ1, complete genome.	1	1
+GCA_000018965	False	Streptococcus pneumoniae 70585, complete genome.	0	4
+GCA_000018985	False	Streptococcus pneumoniae JJA, complete genome.	0	7
+GCA_000019005	False	Streptococcus pneumoniae P1031, complete genome.	0	3
+GCA_000019025	False	Streptococcus pneumoniae Taiwan19F-14, complete genome.	0	5
+GCA_000019265	False	Streptococcus pneumoniae Hungary19A-6, complete genome.	0	5
+GCA_000019825	False	Streptococcus pneumoniae G54, complete genome.	0	6
+GCA_000019985	False	Streptococcus pneumoniae CGSP14, complete genome.	0	7
+GCA_000020765	False	Streptococcus equi subsp. zooepidemicus MGCS10565, complete genome.	1	6
+GCA_000026585	False	Streptococcus equi subsp. equi 4047, complete genome	0	6
+GCA_000026605	False	Streptococcus equi subsp. zooepidemicus H70, complete genome	3	6
+GCA_000026665	False	Streptococcus pneumoniae ATCC 700669 complete genome	0	5
+GCA_000026725	False	Streptococcus suis SC84 complete genome, strain SC84	1	1
+GCA_000026745	False	Streptococcus suis BM407 complet genome, strain BM407	1	1
+GCA_000027165	False	Streptococcus mitis B6 complete genome, strain B6	0	7
+GCA_000027185	False	Streptococcus gallolyticus UCN34 complete genome	0	8
+GCA_000091645	False	Streptococcus mutans NN2025 DNA, complete genome.	1	2
+GCA_000091905	False	Streptococcus suis P1/7 complete genome	1	1
+GCA_000146975	False	Streptococcus pneumoniae AP200, complete genome.	0	6
+GCA_000147095	False	Streptococcus pneumoniae 670-6B, complete genome.	0	7
+GCA_000148585	False	Streptococcus mitis NCTC 12261 chromosome, complete genome.	0	4
+GCA_000164675	False	Streptococcus parasanguinis ATCC 15912, complete genome.	0	5
+GCA_000167435	False	Streptococcus pyogenes strain M49 591 chromosome, complete genome.	0	3
+GCA_000168355	False	Streptococcus suis 05HAS68, complete genome.	0	0
+GCA_000180515	False	Streptococcus pneumoniae SPNA45, complete genome	0	7
+GCA_000182875	False	Streptococcus thermophilus ND03, complete genome.	3	6
+GCA_000186405	False	Streptococcus suis JS14, complete genome.	1	1
+GCA_000187585_1	True	Streptococcus peroris ATCC 700780 SCAFFOLD3, whole genome shotgun sequence	0	3
+GCA_000187935	False	Streptococcus parauberis NCFD 2020 Noncontiguous_Finished_Chromosome chromosome, whole genome shotgun sequence.	0	0
+GCA_000188015_2	True	Streptococcus ictaluri 707-05 Contig1217055106, whole genome shotgun sequence	0	0
+GCA_000188715	False	Streptococcus dysgalactiae subsp. equisimilis ATCC 12394, complete genome.	0	4
+GCA_000196055	False	Unknown	0	0
+GCA_000196595	False	Streptococcus pneumoniae TCH8431/19A, complete genome.	0	5
+GCA_000203195	False	Streptococcus gallolyticus subsp. gallolyticus ATCC BAA-2069 complete chromosome sequence, strain ATCC BAA-2069	0	8
+GCA_000204625	False	Streptococcus suis ST3, complete genome.	0	0
+GCA_000210935	False	Streptococcus pneumoniae INV200 genome.	0	6
+GCA_000210955	False	Streptococcus pneumoniae OXC141 complete genome	0	4
+GCA_000210975	False	Streptococcus pneumoniae INV104 genome.	0	3
+GCA_000210995	False	Streptococcus pneumoniae SPN034156 draft genome	0	3
+GCA_000211015	False	Streptococcus pneumoniae SPN034183 draft genome	0	3
+GCA_000211035	False	Streptococcus pneumoniae SPN994038 draft genome	0	3
+GCA_000211055	False	Streptococcus pneumoniae SPN994039 draft genome	0	3
+GCA_000211075	False	Streptococcus pneumoniae SPN032672 draft genome.	0	4
+GCA_000211095	False	Streptococcus pneumoniae SPN033038 draft genome.	0	4
+GCA_000213825	False	Streptococcus parauberis KCTC 11537, complete genome.	1	1
+GCA_000219765	False	Streptococcus equi subsp. zooepidemicus ATCC 35246, complete genome.	2	8
+GCA_000221985	False	Streptococcus pseudopneumoniae IS7493, complete genome.	0	8
+GCA_000230295	False	Streptococcus pyogenes Alab49, complete genome.	0	3
+GCA_000231865	False	Streptococcus suis SS12, complete genome.	1	1
+GCA_000231885	False	Streptococcus suis D9, complete genome.	0	1
+GCA_000231905	False	Streptococcus suis D12, complete genome.	0	1
+GCA_000231925	False	Streptococcus suis ST1, complete genome.	0	1
+GCA_000233575	False	Streptococcus suis A7, complete genome.	1	1
+GCA_000246835	False	Streptococcus infantarius subsp. infantarius CJ18, complete genome.	1	5
+GCA_000250905	False	Streptococcus pyogenes MGAS15252, complete genome.	0	3
+GCA_000250925	False	Streptococcus pyogenes MGAS1882, complete genome.	0	3
+GCA_000251085	False	Streptococcus pneumoniae ST556, complete genome.	0	5
+GCA_000253155	False	Streptococcus oralis Uo5 complete genome sequence	0	4
+GCA_000253315	False	Streptococcus salivarius JIM8777 complete genome	0	1
+GCA_000253335	False	Streptococcus salivarius CCHSS3 complete genome	1	4
+GCA_000253395	False	Streptococcus thermophilus JIM 8232 complete genome	6	8
+GCA_000262145	False	Streptococcus parasanguinis FW213, complete genome.	1	5
+GCA_000262675	False	Streptococcus thermophilus MN-ZLW-002, complete genome.	2	6
+GCA_000270145	False	Streptococcus gallolyticus subsp. gallolyticus ATCC 43143 DNA, complete genome.	0	7
+GCA_000270165	False	Streptococcus pasteurianus ATCC 43144 DNA, complete genome.	0	3
+GCA_000271865	False	Streptococcus mutans GS-5, complete genome.	1	2
+GCA_000273445	False	Streptococcus pneumoniae TIGR4 chromosome, whole genome shotgun sequence.	0	4
+GCA_000275625	False	Streptococcus pyogenes HKU QMH11M0907901 contig00001 chromosome, whole genome shotgun sequence.	0	3
+GCA_000283635	False	Streptococcus macedonicus ACA-DC 198 main chromosome complete genome	0	5
+GCA_000284575	False	Streptococcus mutans LJ23 DNA, complete genome.	1	2
+GCA_000294495	False	Streptococcus suis S735, complete genome.	1	1
+GCA_000299015	False	Streptococcus pneumoniae gamPNI0373, complete genome.	0	3
+GCA_000299135	False	Streptococcus agalactiae GD201008-001, complete genome.	0	2
+GCA_000302475	False	Streptococcus agalactiae strain SA20, complete genome.	0	2
+GCA_000305335	False	Streptococcus phage YMC-2011, complete genome.	0	3
+GCA_000306805	False	Streptococcus intermedius JTH08 DNA, complete genome.	2	4
+GCA_000307185	False	Streptococcus dysgalactiae subsp. equisimilis RE378 DNA, complete genome.	0	4
+GCA_000307535	False	Streptococcus pyogenes A20, complete genome.	0	3
+GCA_000317855	False	Streptococcus dysgalactiae subsp. equisimilis AC-2713, complete genome	0	3
+GCA_000344765	False	Streptococcus suis SC070731, complete genome.	1	1
+GCA_000349925	False	Streptococcus pyogenes M1 476 DNA, complete genome.	0	3
+GCA_000376985_1	True	Streptococcus henryi DSM 19005 F601DRAFT_scaffold00001.1_C, whole genome shotgun sequence	0	0
+GCA_000377005_1	True	Streptococcus minor DSM 17118 F602DRAFT_scaffold00001.1_C, whole genome shotgun sequence	0	1
+GCA_000379985_1	True	Streptococcus caballi DSM 19004 A3GSDRAFT_scaffold_9.10, whole genome shotgun sequence	0	1
+GCA_000380005_1	True	Streptococcus didelphis DSM 15616 A3GUDRAFT_scaffold_9.10, whole genome shotgun sequence	0	1
+GCA_000380025_1	True	Streptococcus entericus DSM 14446 A3GWDRAFT_scaffold_9.10, whole genome shotgun sequence	0	0
+GCA_000380045_1	True	Streptococcus marimammalium DSM 18627 A3I1DRAFT_scaffold_9.10, whole genome shotgun sequence	0	0
+GCA_000380105_1	True	Streptococcus orisratti DSM 15617 A3I7DRAFT_scaffold_9.10, whole genome shotgun sequence	0	0
+GCA_000380125_1	True	Streptococcus ovis DSM 16829 A3I9DRAFT_scaffold_9.10, whole genome shotgun sequence	0	2
+GCA_000380145_1	True	Streptococcus thoraltensis DSM 12221 A3IADRAFT_scaffold_9.10, whole genome shotgun sequence	0	0
+GCA_000385925	False	Streptococcus cristatus AS 1.3089 chromosome, complete genome.	0	3
+GCA_000390245	False	Streptococcus suis TL13, complete genome.	0	0
+GCA_000403625	False	Streptococcus iniae SF1, complete genome.	0	2
+GCA_000420785_1	True	Streptococcus hyovaginalis DSM 12219 G574DRAFT_scaffold00037.37_C, whole genome shotgun sequence	0	1
+GCA_000422045	False	Streptococcus pyogenes HSC5, complete genome.	0	3
+GCA_000423725_1	True	Streptococcus devriesei DSM 19639 G573DRAFT_scaffold00017.17_C, whole genome shotgun sequence	0	0
+GCA_000423745_1	True	Streptococcus plurextorum DSM 22810 G575DRAFT_scaffold00033.33_C, whole genome shotgun sequence	0	0
+GCA_000423765_1	True	Streptococcus porci DSM 23759 G576DRAFT_scaffold00035.35_C, whole genome shotgun sequence	0	0
+GCA_000425025_1	True	Streptococcus castoreus DSM 17536 H346DRAFT_scaffold00042.42_C, whole genome shotgun sequence	0	0
+GCA_000427035	False	Streptococcus agalactiae 09mas018883 complete genome	0	2
+GCA_000427055	False	Streptococcus agalactiae ILRI112 complete genome	0	3
+GCA_000427075	False	Streptococcus agalactiae ILRI005 complete genome	0	3
+GCA_000441535	False	Streptococcus lutetiensis 033, complete genome.	0	3
+GCA_000448685	False	Streptococcus salivarius strain HSISS4, complete genome.	0	2
+GCA_000463355	False	Streptococcus intermedius B196, complete genome.	2	4
+GCA_000463385	False	Streptococcus intermedius C270, complete genome.	0	3
+GCA_000463395	False	Streptococcus constellatus subsp. pharyngis C232, complete genome.	1	5
+GCA_000463425	False	Streptococcus constellatus subsp. pharyngis C1050, complete genome.	1	5
+GCA_000463445	False	Streptococcus constellatus subsp. pharyngis C818, complete genome.	1	5
+GCA_000463465	False	Streptococcus anginosus C1051, complete genome.	0	2
+GCA_000463505	False	Streptococcus anginosus C238, complete genome.	0	2
+GCA_000471985	False	Streptococcus suis YB51, complete genome.	0	0
+GCA_000478925	False	Streptococcus anginosus subsp. whileyi MAS624 DNA, complete genome.	0	2
+GCA_000479315	False	Streptococcus sp. I-P16, complete genome.	0	3
+GCA_000479335	False	Streptococcus sp. I-G2, complete genome.	1	5
+GCA_000479335_1	True	Streptococcus ilei, complete sequence	0	5
+GCA_000493775	False	Streptococcus dysgalactiae subsp. equisimilis 167 DNA, complete genome.	0	4
+GCA_000494895	False	Streptococcus suis T15, complete genome.	0	0
+GCA_000599965	False	Streptococcus agalactiae 138P, complete genome.	0	2
+GCA_000636115	False	Streptococcus agalactiae strain 138spar, complete genome.	0	2
+GCA_000648525	False	Streptococcus iniae strain ISET0901, complete genome.	0	2
+GCA_000648555	False	Streptococcus iniae strain ISNO, complete genome.	0	2
+GCA_000688775	False	Streptococcus sp. VT 162, complete genome.	0	3
+GCA_000689235	False	Streptococcus agalactiae, strain COH1, complete genome.	0	2
+GCA_000696505	False	Streptococcus equi subsp. zooepidemicus CY, complete genome.	2	8
+GCA_000698885	False	Streptococcus thermophilus ASCC 1275, complete genome.	1	5
+GCA_000722765	False	Streptococcus mitis strain SK637 chromosome, complete genome.	0	6
+GCA_000730215	False	Streptococcus agalactiae strain NGBS061, complete genome.	0	2
+GCA_000730255	False	Streptococcus agalactiae strain NGBS572, complete genome.	0	2
+GCA_000732355	False	Streptococcus suis 6407, complete genome.	0	0
+GCA_000732385	False	Streptococcus pyogenes STAB901, complete genome.	0	3
+GCA_000732425	False	Streptococcus pyogenes STAB902, complete genome.	0	3
+GCA_000743015	False	Streptococcus pyogenes strain ATCC 19615, complete genome.	0	3
+GCA_000756485	False	Streptococcus pyogenes strain M23ND, complete genome.	0	3
+GCA_000767505	False	Streptococcus pyogenes strain 7F7, complete genome.	0	3
+GCA_000767835_1	True	Streptococcus sinensis strain HKU4 scaffold9, whole genome shotgun sequence	0	1
+GCA_000772185	False	Streptococcus pyogenes strain HKU360, complete genome.	0	3
+GCA_000772245	False	Streptococcus pyogenes strain 1E1, complete genome.	0	3
+GCA_000782855	False	Streptococcus agalactiae CNCTC 10/84, complete genome.	0	2
+GCA_000785515	False	Streptococcus salivarius strain NCTC 8618, complete genome.	0	2
+GCA_000817005	False	Streptococcus pneumoniae strain NT_110_58, complete genome.	0	7
+GCA_000817065	False	Streptococcus mutans UA159-FR, complete genome.	1	2
+GCA_000831105	False	Streptococcus agalactiae strain GBS6, complete genome.	0	2
+GCA_000831125	False	Streptococcus agalactiae strain GBS2-NM, complete genome.	0	2
+GCA_000831145	False	Streptococcus agalactiae strain GBS1-NY, complete genome.	0	2
+GCA_000831165	False	Streptococcus anginosus strain SA1, complete genome.	0	2
+GCA_000831485	False	Streptococcus iniae strain YSFST01-82, complete genome.	0	2
+GCA_000967445	False	Streptococcus agalactiae 2-22, complete genome.	0	2
+GCA_000970665	False	Streptococcus gordonii strain IE35, complete genome.	0	6
+GCA_000971665	False	Streptococcus thermophilus strain SMQ-301, complete genome.	4	7
+GCA_000993745	False	Streptococcus suis strain ZY05719, complete genome.	1	1
+GCA_000993765	False	Streptococcus pyogenes strain AP1, complete genome.	0	3
+GCA_001008015	False	Streptococcus thermophilus strain MN-BM-A02, complete genome.	2	6
+GCA_001014285	False	Streptococcus pyogenes JRS4, complete genome.	0	3
+GCA_001014305	False	Streptococcus pyogenes strain D471, complete genome.	0	3
+GCA_001019635	False	Streptococcus pyogenes strain NGAS743, complete genome.	0	3
+GCA_001019675	False	Streptococcus pyogenes strain NGAS596, complete genome.	0	3
+GCA_001019695	False	Streptococcus pyogenes strain NGAS327, complete genome.	0	3
+GCA_001020185	False	Streptococcus pyogenes strain M28PF1, complete genome.	0	3
+GCA_001021955	False	Streptococcus pyogenes strain 5448, complete genome.	0	3
+GCA_001023495	False	Streptococcus pyogenes strain STAB10015, complete genome.	0	3
+GCA_001026925	False	Streptococcus agalactiae strain SS1, complete genome.	0	2
+GCA_001039695	False	Streptococcus pyogenes H293, complete genome	0	3
+GCA_001051095	False	Streptococcus pyogenes strain HKU488, complete genome.	0	3
+GCA_001095405	False	Streptococcus pneumoniae strain PT8105 genome assembly, chromosome: 1	0	5
+GCA_001190805	False	Streptococcus agalactiae strain HN016, complete genome.	0	2
+GCA_001190865	False	Streptococcus agalactiae strain GX026, complete genome.	0	2
+GCA_001190885	False	Streptococcus agalactiae strain H002, complete genome.	0	2
+GCA_001255215	False	Streptococcus pneumoniae strain A66 genome assembly, chromosome: I	0	7
+GCA_001266635	False	Streptococcus agalactiae strain GBS85147, complete genome.	0	2
+GCA_001267805	False	Streptococcus pyogenes strain NGAS322, complete genome.	0	3
+GCA_001267845	False	Streptococcus pyogenes strain NGAS638, complete genome.	0	3
+GCA_001272635	False	Streptococcus suis strain NSUI002, complete genome.	0	0
+GCA_001275545	False	Streptococcus agalactiae strain SG-M1, complete genome.	0	2
+GCA_001280285	False	Streptococcus thermophilus strain MN-BM-A01, complete genome.	2	6
+GCA_001281025	False	Streptococcus mitis strain KCOM 1350 (= ChDC B183), complete genome.	0	4
+GCA_001281105	False	Streptococcus gordonii strain KCOM 1506 (= ChDC B679), complete genome.	0	6
+GCA_001296205	False	Streptococcus intermedius strain KCOM 1545, complete genome.	0	4
+GCA_001302265_1	True	Streptococcus phocae strain ATCC 51973 contig_99, whole genome shotgun sequence	0	0
+GCA_001375655_1	True	Streptococcus varani strain FF10, whole genome shotgun sequence	0	1
+GCA_001412635	False	Streptococcus anginosus strain J4211, complete genome.	0	2
+GCA_001431045_1	True	Streptococcus orisasini strain SH06, whole genome shotgun sequence	0	1
+GCA_001448985	False	Streptococcus agalactiae strain GBS ST-1, complete genome.	0	2
+GCA_001457635	False	Streptococcus pneumoniae strain NCTC7465 genome assembly, chromosome: 1	0	5
+GCA_001477575	False	Streptococcus gallolyticus strain ICDDRB-NRC-S1, complete genome.	0	2
+GCA_001477615	False	Streptococcus infantarius strain ICDDRB-NRC-S5, complete genome.	0	3
+GCA_001514435	False	Streptococcus thermophilus strain S9, complete genome.	4	7
+GCA_001535505	False	Streptococcus pyogenes strain MEW427, complete genome.	0	3
+GCA_001535565	False	Streptococcus pyogenes strain MEW123, complete genome.	0	3
+GCA_001543085	False	Streptococcus salivarius strain JF, complete genome.	0	2
+GCA_001547715	False	Streptococcus pyogenes JRS4 DNA, complete genome.	0	3
+GCA_001547815	False	Streptococcus pyogenes DNA, complete genome, strain: MTB313.	0	3
+GCA_001547835	False	Streptococcus pyogenes DNA, complete genome, strain: MTB314.	0	3
+GCA_001552035	False	Streptococcus agalactiae strain NGBS128, complete genome.	0	2
+GCA_001553685	False	Streptococcus sp. oral taxon 431, complete genome.	0	5
+GCA_001558215	False	Streptococcus mutans strain NG8, complete genome.	0	1
+GCA_001559175	False	Streptococcus pyogenes strain FDAARGOS_149, complete genome.	0	3
+GCA_001560895	False	Streptococcus mitis strain SVGS_061, complete genome.	0	5
+GCA_001572685	False	Streptococcus suis strain NSUI060, complete genome.	0	1
+GCA_001587175	False	Streptococcus sp. A12, complete genome.	0	2
+GCA_001592385	False	Streptococcus agalactiae strain CU_GBS_08 chromosome, complete genome.	0	2
+GCA_001592425	False	Streptococcus agalactiae strain CU_GBS_98, complete genome.	0	2
+GCA_001598035	False	Streptococcus halotolerans strain HTS9 chromosome, complete genome.	0	1
+GCA_001610935	False	Streptococcus suis strain 90-1330, complete genome.	0	0
+GCA_001620285	False	Streptococcus pyogenes strain AP53, complete genome.	0	3
+GCA_001623565	False	Streptococcus sp. HTS5, complete genome.	1	6
+GCA_001623565_1	True	Streptococcus marmotae strain HTS5 chromosome, complete genome	0	6
+GCA_001635895	False	Streptococcus pyogenes strain MGAS11027, complete genome.	0	3
+GCA_001635935	False	Streptococcus pyogenes strain MGAS23530, complete genome.	0	3
+GCA_001635975	False	Streptococcus pyogenes strain MGAS27061, complete genome.	0	3
+GCA_001638845	False	Streptococcus pyogenes strain NS53, complete genome.	0	3
+GCA_001640765	False	Streptococcus suis strain DN13, complete genome.	0	0
+GCA_001642085	False	Streptococcus pantholopis strain TA 26, complete genome.	0	2
+GCA_001655175	False	Streptococcus agalactiae strain S25, complete genome.	0	2
+GCA_001663795	False	Streptococcus thermophilus strain KLDS SM, complete genome.	3	7
+GCA_001678885	False	Streptococcus pyogenes strain STAB09014, complete genome.	0	3
+GCA_001683515	False	Streptococcus agalactiae strain FWL1402, complete genome.	0	2
+GCA_001685375	False	Streptococcus thermophilus strain CS8, complete genome.	4	7
+GCA_001697145	False	Streptococcus anginosus strain J4206, complete genome.	0	2
+GCA_001705585	False	Streptococcus thermophilus strain KLDS 3.1003, complete genome.	3	6
+GCA_001708305	False	Streptococcus sp. HTS2, complete genome.	1	6
+GCA_001708305_1	True	Streptococcus himalayensis strain HTS2 chromosome, complete genome	0	5
+GCA_001712835	False	Streptococcus agalactiae strain NGBS357, complete genome.	0	2
+GCA_001721625	False	Streptococcus suis strain GZ0565, complete genome.	0	0
+GCA_001729925	False	Unknown	0	0
+GCA_001855705	False	Streptococcus thermophilus strain ND07, complete genome.	2	7
+GCA_001885095_1	True	Streptococcus bovimastitidis strain NZ1587 contig000008, whole genome shotgun sequence	0	1
+GCA_001885145	False	Streptococcus iniae strain 89353, complete genome.	0	2
+GCA_001896045	False	Streptococcus pneumoniae strain SP49, complete genome.	0	6
+GCA_001896065	False	Streptococcus pneumoniae strain SP61, complete genome.	0	5
+GCA_001896085	False	Streptococcus pneumoniae strain SP64, complete genome.	0	5
+GCA_001902455	False	Streptococcus pneumoniae strain SWU02, complete genome.	0	5
+GCA_001908255	False	Streptococcus agalactiae strain S13, complete genome.	0	2
+GCA_001921845_1	True	Streptococcus cuniculi strain CCUG 65085 9, whole genome shotgun sequence	0	0
+GCA_001932715	False	Streptococcus agalactiae strain GBS-M002, complete genome.	0	2
+GCA_001936415	False	Streptococcus suis strain SS2-1 chromosome, complete genome.	1	1
+GCA_001983955	False	Streptococcus oralis strain S.MIT/ORALIS-351, complete genome.	0	4
+GCA_001984715_1	True	Streptococcus azizii strain 12-5202 9, whole genome shotgun sequence	0	0
+GCA_002000985	False	Streptococcus gallolyticus subsp. gallolyticus DSM 16831, complete genome.	1	7
+GCA_002012365	False	Streptococcus thermophilus strain APC151, complete genome.	3	5
+GCA_002025005	False	Streptococcus agalactiae strain Sag158, complete genome.	0	2
+GCA_002025025	False	Streptococcus agalactiae strain Sag37, complete genome.	0	2
+GCA_002055535	False	Streptococcus pyogenes strain NCTC8198 genome assembly, chromosome: 1	0	3
+GCA_002073355	False	Streptococcus intermedius strain FDAARGOS_233 chromosome, complete genome.	0	4
+GCA_002073435	False	Streptococcus gordonii strain FDAARGOS_257 chromosome, complete genome.	0	6
+GCA_002073515	False	Streptococcus equinus strain FDAARGOS_251 chromosome, complete genome.	0	2
+GCA_002073695	False	Streptococcus agalactiae strain FDAARGOS_254 chromosome, complete genome.	0	2
+GCA_002073795	False	Streptococcus sp. 'group B' strain FDAARGOS_229 chromosome, complete genome.	0	1
+GCA_002073815	False	Streptococcus sp. FDAARGOS_192 chromosome, complete genome.	0	1
+GCA_002073835	False	Streptococcus salivarius strain FDAARGOS_259 chromosome, complete genome.	0	3
+GCA_002094955	False	Streptococcus salivarius strain ATCC 27945, complete genome.	0	2
+GCA_002094975	False	Streptococcus salivarius strain ATCC 25975, complete genome.	1	4
+GCA_002111405	False	Streptococcus suis strain SC19, complete genome.	1	1
+GCA_002163545	False	Streptococcus pyogenes strain STAB14018, complete genome.	0	3
+GCA_002189695	False	Streptococcus suis strain LSM102, complete genome.	1	1
+GCA_002197205	False	Streptococcus agalactiae strain CUGBS591, complete genome.	0	2
+GCA_002197245	False	Streptococcus agalactiae strain SG-M50, complete genome.	0	2
+GCA_002197265	False	Streptococcus agalactiae strain SG-M158, complete genome.	0	2
+GCA_002197285	False	Streptococcus agalactiae strain SG-M29, complete genome.	0	2
+GCA_002197305	False	Streptococcus agalactiae strain SG-M25, complete genome.	0	2
+GCA_002197325	False	Streptococcus agalactiae strain SG-M8, complete genome.	0	2
+GCA_002197365	False	Streptococcus agalactiae strain SG-M6, complete genome.	0	2
+GCA_002197385	False	Streptococcus agalactiae strain SG-M4, complete genome.	0	2
+GCA_002197425	False	Streptococcus agalactiae strain SG-M163, complete genome.	0	2
+GCA_002202295	False	Streptococcus equi subsp. equi strain ATCC 39506, complete genome.	0	7
+GCA_002214425	False	Streptococcus agalactiae strain C001, complete genome.	0	2
+GCA_002220115	False	Streptococcus iniae strain QMA0248 chromosome, complete genome.	0	2
+GCA_002236855	False	Streptococcus pyogenes strain GURSA1 chromosome, complete genome.	0	3
+GCA_002236875	False	Streptococcus pyogenes strain GUR chromosome, complete genome.	0	3
+GCA_002238295	False	Streptococcus pyogenes strain STAB090229, complete genome.	0	3
+GCA_002238315	False	Streptococcus pyogenes strain STAB120304, complete genome.	0	3
+GCA_002285535	False	Streptococcus suis strain SRD478 chromosome, complete genome.	2	2
+GCA_002285735	False	Streptococcus suis strain ISU2812 chromosome, complete genome.	0	1
+GCA_002286255	False	Streptococcus thermophilus strain ST3, complete genome.	4	5
+GCA_002289205	False	Streptococcus agalactiae strain 874391 chromosome, complete genome.	0	1
+GCA_002355175	False	Streptococcus pyogenes DNA, complete genome, strain: M3-b.	0	3
+GCA_002355215	False	Streptococcus troglodytae TKU31 DNA, complete genome.	0	4
+GCA_002355815	False	Streptococcus pyogenes DNA, complete genome, strain: JMUB1235.	0	3
+GCA_002355895	False	Streptococcus sp. NPS 308 DNA, complete genome.	0	5
+GCA_002356055	False	Streptococcus intermedius DNA, complete genome.	2	6
+GCA_002356415	False	Streptococcus oralis subsp. tigurinus DNA, complete genome, strain: osk_001.	0	3
+GCA_002357995	False	Streptococcus pneumoniae DNA, complete genome, strain: KK0981.	0	6
+GCA_002386285	False	Streptococcus gordonii strain FDAARGOS_371 chromosome, complete genome.	0	4
+GCA_002386345	False	Streptococcus oralis strain FDAARGOS_367 chromosome, complete genome.	0	2
+GCA_002443035	False	Streptococcus thermophilus strain B59671 chromosome, complete genome.	1	7
+GCA_002557755	False	Streptococcus pyogenes strain HarveyGAS chromosome, complete genome.	0	3
+GCA_002688665	False	Streptococcus suis strain CS100322 chromosome, complete genome.	1	1
+GCA_002736265	False	Streptococcus suis strain HA0609 chromosome, complete genome.	0	0
+GCA_002787125	False	Streptococcus iniae strain FP5228 chromosome, complete genome.	0	2
+GCA_002803825	False	Streptococcus suis strain CZ130302 chromosome, complete genome.	1	5
+GCA_002812425	False	Streptococcus agalactiae strain SGEHI2015-107 chromosome, complete genome.	0	2
+GCA_002812445	False	Streptococcus agalactiae strain SGEHI2015-95 chromosome, complete genome.	0	2
+GCA_002812465	False	Streptococcus agalactiae strain SGEHI2015-25 chromosome, complete genome.	0	2
+GCA_002812505	False	Streptococcus agalactiae strain SGEHI2015-113 chromosome, complete genome.	0	2
+GCA_002812525	False	Streptococcus suis strain AH681 chromosome, complete genome.	0	3
+GCA_002813535	False	Streptococcus pneumoniae strain BHN97x chromosome, complete genome.	0	5
+GCA_002813955	False	Streptococcus pneumoniae strain 11A chromosome, complete genome.	0	6
+GCA_002814135	False	Streptococcus uberis strain NZ01 chromosome, complete genome.	0	0
+GCA_002831545	False	Streptococcus suis strain HN136 chromosome, complete genome.	1	6
+GCA_002843115	False	Streptococcus thermophilus strain DGCC 7710 chromosome, complete genome.	3	7
+GCA_002843545	False	Streptococcus pneumoniae Xen35, complete genome.	0	3
+GCA_002844355	False	Streptococcus pyogenes strain JS12, complete genome.	0	3
+GCA_002846075	False	Streptococcus thermophilus strain GABA chromosome, complete genome.	3	6
+GCA_002846155	False	Streptococcus thermophilus strain EPS chromosome, complete genome.	3	7
+GCA_002881155	False	Streptococcus agalactiae strain SA30, complete genome.	0	2
+GCA_002881175	False	Streptococcus agalactiae strain SA33, complete genome.	0	2
+GCA_002881195	False	Streptococcus agalactiae strain SA73, complete genome.	0	2
+GCA_002881215	False	Streptococcus agalactiae strain SA1, complete genome.	0	2
+GCA_002881235	False	Streptococcus agalactiae strain SA53, complete genome.	0	1
+GCA_002881255	False	Streptococcus agalactiae strain SA5, complete genome.	0	2
+GCA_002881275	False	Streptococcus agalactiae strain SA9, complete genome.	0	2
+GCA_002881295	False	Streptococcus agalactiae strain SA16, complete genome.	0	2
+GCA_002881315	False	Streptococcus agalactiae strain SA79, complete genome.	0	2
+GCA_002881335	False	Streptococcus agalactiae strain SA81, complete genome.	0	2
+GCA_002881355	False	Streptococcus agalactiae strain SA85, complete genome.	0	2
+GCA_002881375	False	Streptococcus agalactiae strain SA95, complete genome.	0	1
+GCA_002881395	False	Streptococcus agalactiae strain SA102, complete genome.	0	0
+GCA_002881415	False	Streptococcus agalactiae strain SA136, complete genome.	0	1
+GCA_002881435	False	Streptococcus agalactiae strain SA159, complete genome.	0	1
+GCA_002881455	False	Streptococcus agalactiae strain SA184, complete genome.	0	1
+GCA_002881475	False	Streptococcus agalactiae strain SA195, complete genome.	0	0
+GCA_002881495	False	Streptococcus agalactiae strain SA209, complete genome.	0	2
+GCA_002881515	False	Streptococcus agalactiae strain SA218, complete genome.	0	2
+GCA_002881535	False	Streptococcus agalactiae strain SA220, complete genome.	0	2
+GCA_002881555	False	Streptococcus agalactiae strain SA245, complete genome.	0	1
+GCA_002881575	False	Streptococcus agalactiae strain SA256, complete genome.	0	1
+GCA_002881595	False	Streptococcus agalactiae strain SA289, complete genome.	0	2
+GCA_002881615	False	Streptococcus agalactiae strain SA343, complete genome.	0	2
+GCA_002881695	False	Streptococcus agalactiae strain SA374, complete genome.	0	2
+GCA_002881775	False	Streptococcus agalactiae strain SA627, complete genome.	0	2
+GCA_002881865	False	Streptococcus agalactiae strain SA75, complete genome.	0	2
+GCA_002881935	False	Streptococcus agalactiae strain SA97, complete genome.	0	1
+GCA_002882035	False	Streptococcus agalactiae strain SA132, complete genome.	0	2
+GCA_002882125	False	Streptococcus agalactiae strain SA191, complete genome.	0	1
+GCA_002882205	False	Streptococcus agalactiae strain SA201, complete genome.	0	2
+GCA_002882275	False	Streptococcus agalactiae strain SA212, complete genome.	0	2
+GCA_002882375	False	Streptococcus agalactiae strain SA330, complete genome.	0	2
+GCA_002882465	False	Streptococcus agalactiae strain SA333, complete genome.	0	2
+GCA_002882555	False	Streptococcus agalactiae strain SA341, complete genome.	0	2
+GCA_002882645	False	Streptococcus agalactiae strain SA346, complete genome.	0	2
+GCA_002882745	False	Streptococcus agalactiae strain SA375, complete genome.	0	2
+GCA_002882835	False	Streptococcus agalactiae strain SA623, complete genome.	0	2
+GCA_002900385	False	Streptococcus parauberis strain SPOF3K chromosome, complete genome.	1	1
+GCA_002947575	False	Streptococcus pneumoniae strain 335 chromosome, complete genome.	0	6
+GCA_002953735	False	Streptococcus pluranimalium strain TH11417 chromosome, complete genome.	0	0
+GCA_002995555	False	Streptococcus mutans strain LAR01 chromosome, complete genome.	1	4
+GCA_003003495	False	Streptococcus pneumoniae strain D39V chromosome, complete genome.	0	7
+GCA_003025365	False	Streptococcus pyogenes strain TJ11-001 chromosome, complete genome.	0	3
+GCA_003086355	False	Streptococcus chenjunshii strain Z15 chromosome, complete genome.	0	1
+GCA_003143695_2	True	Streptococcus halitosis strain VT-4 NODE_7_length_22581_cov_447.003, whole genome shotgun sequence	0	1
+GCA_003144175	False	Streptococcus suis strain HN105 chromosome, complete genome.	1	5
+GCA_003172975	False	Streptococcus sobrinus strain 10919 chromosome, complete genome.	0	1
+GCA_003172995	False	Streptococcus sobrinus strain SL1 chromosome, complete genome.	0	1
+GCA_003176795	False	Streptococcus sobrinus strain NIDR 6715-7 chromosome, complete genome.	0	1
+GCA_003176815	False	Streptococcus sobrinus strain NIDR 6715-15 chromosome, complete genome.	0	1
+GCA_003186145	False	Streptococcus agalactiae strain QMA0271 chromosome, complete genome.	0	2
+GCA_003203475	False	Streptococcus pyogenes strain NGAS979 chromosome, complete genome.	0	3
+GCA_003285225	False	Streptococcus suis strain 0061 chromosome, complete genome.	0	4
+GCA_003285245	False	Streptococcus suis strain 1081 chromosome, complete genome.	0	4
+GCA_003287995	False	Streptococcus agalactiae strain B509 chromosome, complete genome.	0	1
+GCA_003288015	False	Streptococcus agalactiae strain B508 chromosome, complete genome.	0	2
+GCA_003288035	False	Streptococcus agalactiae strain B105 chromosome, complete genome.	0	2
+GCA_003288055	False	Streptococcus agalactiae strain B507 chromosome, complete genome.	0	2
+GCA_003288075	False	Streptococcus agalactiae strain B111 chromosome, complete genome.	0	2
+GCA_003288175	False	Streptococcus suis strain SH0104 chromosome, complete genome.	0	1
+GCA_003319215	False	Streptococcus agalactiae strain S73 chromosome, complete genome.	0	2
+GCA_003351525	False	Streptococcus pneumoniae strain M23734 chromosome, complete genome.	0	4
+GCA_003351645	False	Streptococcus pneumoniae strain M16808 chromosome, complete genome.	0	7
+GCA_003351705	False	Streptococcus pneumoniae strain M26365 chromosome, complete genome.	0	6
+GCA_003351725	False	Streptococcus pneumoniae strain M26368 chromosome, complete genome.	0	6
+GCA_003352145	False	Streptococcus pyogenes strain DMG1800716 chromosome, complete genome.	0	3
+GCA_003352205	False	Streptococcus suis strain HA1003 chromosome, complete genome.	0	2
+GCA_003352225	False	Streptococcus suis strain SH1510 chromosome, complete genome.	0	1
+GCA_003352995	False	Streptococcus pluranimalium strain 14A0014 chromosome, complete genome.	0	1
+GCA_003354825	False	Streptococcus pneumoniae strain SPN XDR SMC1710-32 chromosome, complete genome.	0	6
+GCA_003402855	False	Streptococcus thermophilus strain ST109 chromosome, complete genome.	2	4
+GCA_003403115	False	Streptococcus agalactiae strain Sag27 chromosome, complete genome.	0	2
+GCA_003443395	False	Streptococcus thermophilus strain ST106 chromosome, complete genome.	2	4
+GCA_003589905	False	Streptococcus iniae strain GX005 chromosome, complete genome.	0	2
+GCA_003589945	False	Streptococcus iniae strain YM011 chromosome, complete genome.	0	2
+GCA_003595525	False	Streptococcus sp. HTS25 chromosome, complete genome.	0	1
+GCA_003595525_1	True	Streptococcus respiraculi strain HTS25 chromosome, complete genome	0	1
+GCA_003609935	False	Streptococcus pneumoniae MDRSPN001 DNA, complete genome.	0	4
+GCA_003609955	False	Streptococcus pyogenes DNA, complete genome, strain: KS030.	0	3
+GCA_003609975	False	Streptococcus ruminantium GUT187T DNA, complete genome.	0	3
+GCA_003626515_1	True	Streptococcus chosunensis strain ChDC B353 KCOM1699_9, whole genome shotgun sequence	0	1
+GCA_003627135	False	Streptococcus koreensis strain JS71, complete genome.	0	2
+GCA_003627155	False	Streptococcus sp. ChDC B345 chromosome, complete genome.	0	4
+GCA_003627155_1	True	Streptococcus gwangjuensis strain KCOM 1679 (=ChDC B345) chromosome, complete genome	0	4
+GCA_003640605	False	Streptococcus pyogenes strain SASM4-Duke chromosome, complete genome.	0	3
+GCA_003691695	False	Streptococcus mutans strain LAB761 chromosome, complete genome.	1	3
+GCA_003698205	False	Streptococcus pyogenes strain ABC020055975 chromosome, complete genome.	0	3
+GCA_003812445	False	Streptococcus sp. FDAARGOS_522 chromosome, complete genome.	0	2
+GCA_003812465	False	Streptococcus sp. FDAARGOS_521 chromosome, complete genome.	0	2
+GCA_003812645	False	Streptococcus pyogenes strain FDAARGOS_534 chromosome, complete genome.	0	3
+GCA_003812685	False	Streptococcus sp. FDAARGOS_520 chromosome, complete genome.	0	2
+GCA_003812725	False	Streptococcus pyogenes strain FDAARGOS_514 chromosome, complete genome.	0	2
+GCA_003812805	False	Streptococcus agalactiae strain FDAARGOS_512 chromosome, complete genome.	0	2
+GCA_003814365	False	Streptococcus pyogenes strain Duke-Large chromosome, complete genome.	0	3
+GCA_003814385	False	Streptococcus pyogenes strain RLGH chromosome, complete genome.	0	3
+GCA_003939065	False	Streptococcus agalactiae strain TFJ0901 chromosome, complete genome.	0	2
+GCA_003963555	False	Streptococcus periodonticum strain KCOM 2412 chromosome, complete genome.	0	2
+GCA_003966485	False	Streptococcus pneumoniae ATCC 49619 DNA, complete genome.	0	7
+GCA_003966505	False	Streptococcus pneumoniae HU-OH DNA, complete genome.	0	5
+GCA_003966525	False	Streptococcus pneumoniae NU83127 DNA, complete genome.	0	5
+GCA_003966545	False	Streptococcus agalactiae HU-GS5823 DNA, complete genome.	0	2
+GCA_003967135	False	Streptococcus dysgalactiae Kdys0611 DNA, complete genome.	0	2
+GCA_003967155	False	Streptococcus pneumoniae ASP0581 DNA, complete genome.	0	6
+GCA_003994915	False	Streptococcus pneumoniae strain HKU1-14 chromosome, complete genome.	0	5
+GCA_004010855	False	Streptococcus pyogenes strain MGAS27961 chromosome, complete genome.	0	3
+GCA_004010875	False	Streptococcus pyogenes strain MGAS28085 chromosome, complete genome.	0	3
+GCA_004028355	False	Streptococcus pyogenes strain CCUG 4207 chromosome, complete genome.	0	3
+GCA_004114735	False	Streptococcus thermophilus strain IDCC2201 chromosome, complete genome.	3	5
+GCA_004123995	False	Streptococcus pyogenes strain TSPY155 chromosome, complete genome.	0	3
+GCA_004124015	False	Streptococcus pyogenes strain TSPY556 chromosome, complete genome.	0	3
+GCA_004124075	False	Streptococcus pyogenes strain TSPY453 chromosome, complete genome.	0	3
+GCA_004124115	False	Streptococcus pyogenes strain TSPY208 chromosome, complete genome.	0	3
+GCA_004124135	False	Streptococcus pyogenes strain TSPY165 chromosome, complete genome.	0	3
+GCA_004135875	False	Streptococcus pyogenes strain M75 chromosome, complete genome.	0	3
+GCA_004153945	False	Streptococcus pyogenes strain MGAS8347 chromosome, complete genome.	0	3
+GCA_004153965	False	Streptococcus pyogenes strain MGAS10786 chromosome, complete genome.	0	3
+GCA_004153985	False	Streptococcus pyogenes strain MGAS7914 chromosome, complete genome.	0	3
+GCA_004154005	False	Streptococcus pyogenes strain MGAS7888 chromosome, complete genome.	0	3
+GCA_004154025	False	Streptococcus pyogenes strain MGAS29409 chromosome, complete genome.	0	2
+GCA_004154045	False	Streptococcus pyogenes strain MGAS29326 chromosome, complete genome.	0	3
+GCA_004154065	False	Streptococcus pyogenes strain MGAS29284 chromosome, complete genome.	0	3
+GCA_004154085	False	Streptococcus pyogenes strain MGAS28746 chromosome, complete genome.	0	3
+GCA_004154105	False	Streptococcus pyogenes strain MGAS28686 chromosome, complete genome.	0	3
+GCA_004154125	False	Streptococcus pyogenes strain MGAS28669 chromosome, complete genome.	0	3
+GCA_004154145	False	Streptococcus pyogenes strain MGAS28650 chromosome, complete genome.	0	3
+GCA_004154165	False	Streptococcus pyogenes strain MGAS28533 chromosome, complete genome.	0	3
+GCA_004154185	False	Streptococcus pyogenes strain MGAS28360 chromosome, complete genome.	0	3
+GCA_004154205	False	Streptococcus pyogenes strain MGAS28330 chromosome, complete genome.	0	3
+GCA_004154225	False	Streptococcus pyogenes strain MGAS28278 chromosome, complete genome.	0	3
+GCA_004154245	False	Streptococcus pyogenes strain MGAS28271 chromosome, complete genome.	0	3
+GCA_004154265	False	Streptococcus pyogenes strain MGAS28191 chromosome, complete genome.	0	3
+GCA_004154285	False	Streptococcus pyogenes strain MGAS11115 chromosome, complete genome.	0	3
+GCA_004154305	False	Streptococcus pyogenes strain MGAS11108 chromosome, complete genome.	0	3
+GCA_004154325	False	Streptococcus pyogenes strain MGAS29064 chromosome, complete genome.	0	3
+GCA_004154345	False	Streptococcus pyogenes strain MGAS28386 chromosome, complete genome.	0	3
+GCA_004154365	False	Streptococcus pyogenes strain MGAS28078 chromosome, complete genome.	0	3
+GCA_004154385	False	Streptococcus pyogenes strain MGAS11052 chromosome, complete genome.	0	3
+GCA_004154405	False	Streptococcus pyogenes strain MGAS10826 chromosome, complete genome.	0	3
+GCA_004193935	False	Streptococcus pyogenes strain SP1336 chromosome, complete genome.	0	3
+GCA_004291255	False	Streptococcus pneumoniae strain EF3030 chromosome, complete genome.	0	4
+GCA_004331935	False	Streptococcus pneumoniae strain 521 chromosome, complete genome.	0	7
+GCA_004353325_1	True	Streptococcus downii strain CECT 9732 contig_9, whole genome shotgun sequence	0	0
+GCA_004843545	False	Streptococcus pasteurianus strain WUSP067 chromosome, complete genome.	0	2
+GCA_004843685	False	Streptococcus suis strain WUSS351 chromosome, complete genome.	1	3
+GCA_005160445	False	Streptococcus pyogenes strain emm57 chromosome, complete genome.	0	3
+GCA_005160565	False	Streptococcus pyogenes strain emm74 chromosome, complete genome.	0	3
+GCA_005160785	False	Streptococcus pyogenes strain emmSTG866.1 chromosome, complete genome.	0	3
+GCA_005160925	False	Streptococcus pyogenes strain emm55 chromosome, complete genome.	0	3
+GCA_005161125	False	Streptococcus pyogenes strain emm105 chromosome, complete genome.	0	3
+GCA_005161325	False	Streptococcus pyogenes strain emm64.3 chromosome, complete genome.	0	3
+GCA_005161465	False	Streptococcus pyogenes strain emm78.3 chromosome, complete genome.	0	3
+GCA_005161605	False	Streptococcus pyogenes strain emm22.8 chromosome, complete genome.	0	3
+GCA_005161825	False	Streptococcus pyogenes strain emm124 chromosome, complete genome.	0	3
+GCA_005161985	False	Streptococcus pyogenes strain emm58 chromosome, complete genome.	0	3
+GCA_005162245	False	Streptococcus pyogenes strain emm97.1 chromosome, complete genome.	0	3
+GCA_005162405	False	Streptococcus pyogenes strain emm56 chromosome, complete genome.	0	3
+GCA_005162565	False	Streptococcus pyogenes strain emm70 chromosome, complete genome.	0	3
+GCA_005162725	False	Streptococcus pyogenes strain emm93.4 chromosome, complete genome.	0	3
+GCA_005162865	False	Streptococcus pyogenes strain emm230 chromosome, complete genome.	0	3
+GCA_005163085	False	Streptococcus pyogenes strain emm123 chromosome, complete genome.	0	3
+GCA_005163245	False	Streptococcus pyogenes strain emm54 chromosome, complete genome.	0	3
+GCA_005163385	False	Streptococcus pyogenes strain emmNA chromosome, complete genome.	0	3
+GCA_005163565	False	Streptococcus pyogenes strain emm11 chromosome, complete genome.	0	3
+GCA_005163705	False	Streptococcus pyogenes strain emm65 chromosome, complete genome.	0	3
+GCA_005163865	False	Streptococcus pyogenes strain emm75.1 chromosome, complete genome.	0	3
+GCA_005164025	False	Streptococcus pyogenes strain emm89.14 chromosome, complete genome.	0	3
+GCA_005164305	False	Streptococcus pyogenes strain emm77 chromosome, complete genome.	0	3
+GCA_005164585	False	Streptococcus pyogenes strain emm1 chromosome, complete genome.	0	3
+GCA_005164705	False	Streptococcus pyogenes strain emm25 chromosome, complete genome.	0	3
+GCA_005164885	False	Streptococcus pyogenes strain emm90.5 chromosome, complete genome.	0	3
+GCA_005165045	False	Streptococcus pyogenes strain emm92 chromosome, complete genome.	0	3
+GCA_005165265	False	Streptococcus pyogenes strain emm100 chromosome, complete genome.	0	3
+GCA_005165385	False	Streptococcus pyogenes strain emm197 chromosome, complete genome.	0	3
+GCA_005222545	False	Streptococcus pyogenes strain emm68.2 chromosome, complete genome.	0	3
+GCA_006228325	False	Streptococcus sp. 1643 chromosome, complete genome.	1	5
+GCA_006364235	False	Streptococcus pyogenes strain FDAARGOS_774 chromosome, complete genome.	0	3
+GCA_006385165_1	True	Streptococcus symci strain C17 Scaffold6, whole genome shotgun sequence	0	2
+GCA_006385785_1	True	Streptococcus shenyangsis strain D19 Scaffold9, whole genome shotgun sequence	0	2
+GCA_006385805_1	True	Streptococcus xiaochunlingii strain E24 Scaffold5, whole genome shotgun sequence	0	2
+GCA_006716245	False	Streptococcus agalactiae strain 32790-3A chromosome, complete genome.	0	1
+GCA_006739205	False	Streptococcus mutans NBRC 13955 DNA, complete genome.	1	3
+GCA_006740645	False	Streptococcus pyogenes 10-85 DNA, complete genome.	0	3
+GCA_006874565	False	Streptococcus agalactiae strain PLGBS13 chromosome, complete genome.	0	2
+GCA_007475365	False	Streptococcus oralis subsp. dentisani strain F0392 chromosome, complete genome.	0	5
+GCA_007724845	False	Streptococcus suis strain INT-01 chromosome, complete genome.	0	0
+GCA_007859195_1	True	Streptococcus cuniculipharyngis strain CCUG 66496 Scaffold9, whole genome shotgun sequence	0	2
+GCA_008253725	False	Streptococcus pneumoniae strain R6CIB17 chromosome, complete genome.	0	7
+GCA_008305695	False	Streptococcus salivarius strain LAB813 chromosome, complete genome.	0	2
+GCA_008693505	False	Streptococcus agalactiae strain FDAARGOS_669 chromosome, complete genome.	0	2
+GCA_008693585	False	Streptococcus agalactiae strain FDAARGOS_670 chromosome, complete genome.	0	2
+GCA_008693725	False	Streptococcus dysgalactiae strain FDAARGOS_654 chromosome, complete genome.	0	4
+GCA_008694005	False	Streptococcus pyogenes strain FDAARGOS_668 chromosome, complete genome.	0	3
+GCA_008726365	False	Streptococcus anginosus strain UMB8616 chromosome, complete genome.	0	1
+GCA_008726525	False	Streptococcus anginosus strain UMB4708 chromosome, complete genome.	0	2
+GCA_008727815	False	Streptococcus sp. LPB0220 chromosome, complete genome.	0	3
+GCA_008803015	False	Streptococcus ratti strain ATCC 31377 chromosome, complete genome.	0	3
+GCA_008831325	False	Streptococcus mutans strain MD chromosome, complete genome.	1	2
+GCA_008831345	False	Streptococcus mutans strain T8 chromosome, complete genome.	1	2
+GCA_008831365	False	Streptococcus mutans strain UA140 chromosome, complete genome.	2	3
+GCA_009664475	False	Streptococcus pneumoniae strain AUSMDU00010538 chromosome, complete genome.	0	7
+GCA_009664495	False	Streptococcus pyogenes strain AUSMDU00010539 chromosome, complete genome.	0	3
+GCA_009676645	False	Streptococcus equi subsp. zooepidemicus strain OH-71905 chromosome, complete genome.	2	8
+GCA_009676685	False	Streptococcus equi subsp. zooepidemicus strain TN-714097 chromosome, complete genome.	1	8
+GCA_009676725	False	Streptococcus equi subsp. zooepidemicus strain AZ-45470 chromosome, complete genome.	2	8
+GCA_009730515	False	Streptococcus mitis strain FDAARGOS_684 chromosome, complete genome.	0	4
+GCA_009730535	False	Streptococcus gordonii strain FDAARGOS_683 chromosome, complete genome.	0	4
+GCA_009731465	False	Streptococcus sp. 116-D4 DNA, complete genome.	0	6
+GCA_009738105	False	Streptococcus mutans strain NCH105 chromosome, complete genome.	0	0
+GCA_009738205	False	Streptococcus salivarius strain ICDC1 chromosome, complete genome.	0	3
+GCA_009738225	False	Streptococcus salivarius strain ICDC2, complete genome.	0	4
+GCA_009738245	False	Streptococcus salivarius strain ICDC3 chromosome, complete genome.	0	3
+GCA_009738475	False	Streptococcus pyogenes strain STAB09023 chromosome, complete genome.	0	3
+GCA_009738495	False	Streptococcus pyogenes strain STAB10048 chromosome, complete genome.	0	3
+GCA_009738555	False	Streptococcus canis strain HL_100 chromosome, complete genome.	2	2
+GCA_009755785	False	Streptococcus ruminicola strain CNU_G3 chromosome, complete genome.	1	9
+GCA_009758075	False	Streptococcus equinus strain CNU 77-23 chromosome, complete genome.	1	4
+GCA_009758095	False	Streptococcus equinus strain CNU G6 chromosome, complete genome.	0	4
+GCA_009792335	False	Streptococcus ruminicola strain CNU_77-61 chromosome, complete genome.	2	6
+GCA_009832845	False	Streptococcus pyogenes strain 1085 chromosome, complete genome.	0	3
+GCA_009856565	False	Streptococcus thermophilus strain EU01 chromosome, complete genome.	4	7
+GCA_009866825	False	Streptococcus sp. DAT741 chromosome, complete genome.	0	2
+GCA_009930895	False	Streptococcus agalactiae strain YZ1605 chromosome, complete genome.	1	3
+GCA_009930915	False	Streptococcus agalactiae strain NJ1606 chromosome, complete genome.	0	2
+GCA_010120595	False	Streptococcus thermophilus strain ATCC 19258 chromosome, complete genome.	3	5
+GCA_010993845	False	Streptococcus canis strain HL_77_2 chromosome, complete genome.	0	3
+GCA_010993865	False	Streptococcus canis strain HL_98_2 chromosome, complete genome.	0	2
+GCA_010993915	False	Streptococcus canis strain HL_77_1 chromosome, complete genome.	0	3
+GCA_011038795_1	True	Streptococcus tangpeifui strain ZJ373 Scaffold9_1, whole genome shotgun sequence	0	1
+GCA_011290565	False	Streptococcus pyogenes strain 1040 chromosome, complete genome.	0	3
+GCA_011290585	False	Streptococcus pyogenes strain 1043 chromosome, complete genome.	0	3
+GCA_011316785	False	Streptococcus equi subsp. zooepidemicus strain ISU38408 chromosome, complete genome.	2	6
+GCA_011383065	False	Streptococcus agalactiae strain ZQ0910 chromosome, complete genome.	0	2
+GCA_011387195	False	Streptococcus sp. CNU G2 chromosome, complete genome.	0	6
+GCA_011421425_1	True	Streptococcus catagoni strain 99-1/2017 NODE_8_length_5032_cov_1180.102956, whole genome shotgun sequence	0	0
+GCA_011612585	False	Streptococcus cristatus ATCC 51100 chromosome, complete genome.	0	2
+GCA_011694695	False	Streptococcus pneumoniae strain PZ900701590 chromosome, complete genome.	0	6
+GCA_011765485	False	Streptococcus mutans strain S4 chromosome, complete genome.	1	2
+GCA_011765505	False	Streptococcus mutans strain S1 chromosome, complete genome.	1	2
+GCA_011765525	False	Streptococcus mutans strain P6 chromosome, complete genome.	1	2
+GCA_011765545	False	Streptococcus mutans strain P1 chromosome, complete genome.	1	2
+GCA_011801285	False	Streptococcus thermophilus strain ST64987 chromosome, complete genome.	3	6
+GCA_012222485	False	Streptococcus agalactiae strain Sag153 chromosome, complete genome.	0	2
+GCA_012396585_1	True	Streptococcus ovuberis strain CCUG 69612 SS2007_9, whole genome shotgun sequence	0	0
+GCA_012572265	False	Streptococcus pyogenes strain MGAS2221 chromosome, complete genome.	0	3
+GCA_012593885	False	Streptococcus agalactiae 515 chromosome, complete genome.	0	2
+GCA_012844385	False	Streptococcus dysgalactiae subsp. equisimilis strain TPCH-A19 chromosome, complete genome.	0	3
+GCA_012844405	False	Streptococcus dysgalactiae subsp. equisimilis strain TPCH-A74 chromosome, complete genome.	0	3
+GCA_013000945	False	Streptococcus agalactiae strain 01173 chromosome, complete genome.	0	2
+GCA_013004125	False	Streptococcus dysgalactiae subsp. equisimilis strain TPCH-A88 chromosome, complete genome.	0	3
+GCA_013047165	False	Streptococcus pneumoniae strain 6A-10 chromosome, complete genome.	0	7
+GCA_013267495	False	Streptococcus salivarius strain FDAARGOS_771 chromosome, complete genome.	0	3
+GCA_013267515	False	Streptococcus intermedius strain FDAARGOS_769 chromosome, complete genome.	0	2
+GCA_013267695	False	Streptococcus gallolyticus strain FDAARGOS_755 chromosome, complete genome.	0	7
+GCA_013305725	False	Streptococcus mitis strain S022-V3-A4 chromosome, complete genome.	2	6
+GCA_013306985	False	Streptococcus pyogenes strain 4063-05 chromosome, complete genome.	0	3
+GCA_013307185	False	Streptococcus thermophilus strain CS5 chromosome, complete genome.	2	7
+GCA_013307265	False	Streptococcus thermophilus strain CS9 chromosome, complete genome.	3	9
+GCA_013307285	False	Streptococcus thermophilus strain CS18 chromosome, complete genome.	2	7
+GCA_013343115	False	Streptococcus sanguinis strain FDAARGOS_770 chromosome, complete genome.	0	4
+GCA_013378335	False	Streptococcus sanguinis strain CGMH010 chromosome, complete genome.	0	3
+GCA_013378355	False	Streptococcus sanguinis strain CGMH058 chromosome, complete genome.	2	5
+GCA_013394695	False	Streptococcus sp. oral taxon 061 strain F0704 chromosome, complete genome.	0	0
+GCA_013414325	False	Streptococcus agalactiae strain S9968 chromosome, complete genome.	0	2
+GCA_013488085	False	Streptococcus suis strain ISU1606 chromosome, complete genome.	1	1
+GCA_013488105	False	Streptococcus suis strain ISU2514 chromosome, complete genome.	0	1
+GCA_013488125	False	Streptococcus suis strain ISU2714 chromosome, complete genome.	1	1
+GCA_013488145	False	Streptococcus suis strain ISU2414 chromosome, complete genome.	0	0
+GCA_013488165	False	Streptococcus suis strain ISU2614 chromosome, complete genome.	0	0
+GCA_013488185	False	Streptococcus suis strain ISU2660 chromosome, complete genome.	1	1
+GCA_013786965	False	Streptococcus agalactiae strain BJ01 chromosome, complete genome.	0	2
+GCA_013822985	False	Streptococcus salivarius strain DB-B5 chromosome, complete genome.	2	4
+GCA_014041875	False	Streptococcus equinus strain MDC1 chromosome, complete genome.	0	5
+GCA_014191695	False	Streptococcus pyogenes NIH34 DNA, complete genome.	0	3
+GCA_014191835	False	Streptococcus pyogenes NIH35 DNA, complete genome.	0	3
+GCA_014192005	False	Streptococcus pyogenes KUN-0012590 DNA, complete genome.	0	3
+GCA_014192175	False	Streptococcus pyogenes KUN-0014944 DNA, complete genome.	0	3
+GCA_014192345	False	Streptococcus suis DAT299 DNA, complete genome.	0	0
+GCA_014192525	False	Streptococcus suis DAT300 DNA, complete genome.	0	0
+GCA_014192695	False	Streptococcus dysgalactiae subsp. equisimilis 89 DNA, complete genome.	0	2
+GCA_014192895	False	Streptococcus dysgalactiae subsp. equisimilis 159 DNA, complete genome.	0	5
+GCA_014218015	False	Streptococcus pyogenes strain 37-97S chromosome, complete genome.	0	3
+GCA_014218075	False	Streptococcus agalactiae strain GBS7 chromosome, complete genome.	0	2
+GCA_014218095	False	Streptococcus agalactiae strain GBS11 chromosome, complete genome.	0	2
+GCA_014218115	False	Streptococcus agalactiae strain GBS19 chromosome, complete genome.	0	2
+GCA_014218135	False	Streptococcus agalactiae strain GBS28 chromosome, complete genome.	0	2
+GCA_014218155	False	Streptococcus agalactiae strain GBS30 chromosome, complete genome.	0	2
+GCA_014287335_1	True	Streptococcus hominis strain NSJ-17 E-D3-64_ctg057, whole genome shotgun sequence	0	0
+GCA_014467095	False	Streptococcus mitis Nm-65 DNA, complete genome.	0	5
+GCA_014495925	False	Streptococcus pyogenes strain BSAC_bs192 isolate Invasive disease.	0	2
+GCA_014495945	False	Streptococcus pyogenes strain BSAC_bs1388 isolate Invasive disease.	0	3
+GCA_014495965	False	Streptococcus pyogenes strain BSAC_bs1802 isolate Invasive disease.	0	3
+GCA_014495985	False	Streptococcus pyogenes strain BSAC_bs472 isolate Invasive disease.	0	3
+GCA_014621675	False	Streptococcus mutans B04Sm5 chromosome, complete genome.	0	1
+GCA_014842815	False	Streptococcus mutans strain 27-3 chromosome, complete genome.	0	1
+GCA_014843055	False	Streptococcus suis strain 16085/3b chromosome.	0	1
+GCA_014843075	False	Streptococcus suis strain 13-00283-02 chromosome.	0	1
+GCA_014843095	False	Streptococcus suis strain 10 chromosome.	1	1
+GCA_014844995	False	Streptococcus sp. KS 6 chromosome, complete genome.	0	3
+GCA_014874555	False	Streptococcus suis strain LSM178 chromosome, complete genome.	1	1
+GCA_015190465	False	Streptococcus thermophilus strain TK-P3A chromosome, complete genome.	2	5
+GCA_015221735	False	Streptococcus agalactiae CJB111 chromosome, complete genome.	0	2
+GCA_015291825	False	Streptococcus suis strain YSJ17 chromosome, complete genome.	0	3
+GCA_015689355	False	Streptococcus equi subsp. zooepidemicus strain SEZ18 chromosome, complete genome.	2	9
+GCA_015689375	False	Streptococcus equi subsp. zooepidemicus strain SEZ25 chromosome, complete genome.	2	8
+GCA_015689395	False	Streptococcus equi subsp. zooepidemicus strain SEZ13 chromosome, complete genome.	2	6
+GCA_015689415	False	Streptococcus equi subsp. zooepidemicus strain SEZ14 chromosome, complete genome.	1	6
+GCA_015689435	False	Streptococcus equi subsp. zooepidemicus strain SEZ28 chromosome, complete genome.	1	6
+GCA_015689455	False	Streptococcus equi subsp. zooepidemicus strain SEZ33 chromosome, complete genome.	1	7
+GCA_015767535	False	Streptococcus equi subsp. zooepidemicus strain SEZ36 chromosome, complete genome.	1	5
+GCA_015767555	False	Streptococcus equi subsp. zooepidemicus strain SEZ46 chromosome, complete genome.	0	4
+GCA_015838875	False	Streptococcus pneumoniae strain 310 chromosome, complete genome.	2	7
+GCA_015839035	False	Streptococcus pneumoniae strain 475 chromosome, complete genome.	2	8
+GCA_015839235	False	Streptococcus pneumoniae strain 521 chromosome, complete genome.	2	8
+GCA_015839415	False	Streptococcus pneumoniae strain 525 chromosome, complete genome.	2	8
+GCA_015839575	False	Streptococcus pneumoniae strain 566 chromosome, complete genome.	2	7
+GCA_015839775	False	Streptococcus pneumoniae strain 573 chromosome, complete genome.	2	7
+GCA_015839915	False	Streptococcus pneumoniae strain 574 chromosome, complete genome.	2	7
+GCA_015840115	False	Streptococcus pneumoniae strain 563 chromosome, complete genome.	2	8
+GCA_015908885	False	Streptococcus suis strain YZDH1 chromosome, complete genome.	0	5
+GCA_015908985	False	Streptococcus suis strain YP20190405 chromosome, complete genome.	1	1
+GCA_016028175	False	Streptococcus oralis strain FDAARGOS_886 chromosome, complete genome.	0	4
+GCA_016028255	False	Streptococcus oralis strain FDAARGOS_885 chromosome, complete genome.	0	4
+GCA_016126835	False	Streptococcus pyogenes strain emm9ST603 chromosome, complete genome.	0	3
+GCA_016127275	False	Streptococcus infantarius strain FDAARGOS_1019 chromosome, complete genome.	0	5
+GCA_016127535	False	Streptococcus salivarius strain FDAARGOS_1045 chromosome, complete genome.	0	4
+GCA_016127555	False	Streptococcus oralis strain FDAARGOS_1020 chromosome, complete genome.	0	1
+GCA_016127735	False	Streptococcus oralis strain FDAARGOS_1075 chromosome, complete genome.	1	5
+GCA_016127875	False	Streptococcus constellatus strain FDAARGOS_1015 chromosome, complete genome.	1	4
+GCA_016127915	False	Streptococcus oralis strain FDAARGOS_1021 chromosome, complete genome.	0	4
+GCA_016128095	False	Streptococcus dysgalactiae strain FDAARGOS_1017 chromosome, complete genome.	0	3
+GCA_016128135	False	Streptococcus dysgalactiae strain FDAARGOS_1016 chromosome, complete genome.	0	3
+GCA_016454805	False	Streptococcus agalactiae strain 2012-845 chromosome, complete genome.	0	1
+GCA_016461705_1	True	Streptococcus vicugnae strain SL1232 NODE_9, whole genome shotgun sequence	0	1
+GCA_016481285_1	True	Streptococcus zalophi strain CSL7508 NODE_9, whole genome shotgun sequence	0	0
+GCA_016481305_1	True	Streptococcus pacificus strain CSL7591 NODE_9, whole genome shotgun sequence	0	0
+GCA_016549335	False	Streptococcus pyogenes strain iGAS426 chromosome, complete genome.	0	3
+GCA_016549355	False	Streptococcus pyogenes strain iGAS376 chromosome, complete genome.	0	3
+GCA_016549375	False	Streptococcus pyogenes strain iGAS391 chromosome, complete genome.	0	3
+GCA_016549395	False	Streptococcus oralis strain SF100 chromosome, complete genome.	0	3
+GCA_016658865	False	Streptococcus mitis strain S022-V7-A3 chromosome, complete genome.	0	4
+GCA_016724885	False	Streptococcus dysgalactiae strain FDAARGOS_1157 chromosome, complete genome.	0	3
+GCA_016725005	False	Streptococcus constellatus strain FDAARGOS_1156 chromosome, complete genome.	0	3
+GCA_016725165	False	Streptococcus lutetiensis strain FDAARGOS_1158 chromosome, complete genome.	0	3
+GCA_016725185	False	Streptococcus anginosus strain FDAARGOS_1155 chromosome, complete genome.	0	2
+GCA_016774475	False	Streptococcus suis strain ID33329 chromosome, complete genome.	0	3
+GCA_016887735	False	Streptococcus suis strain ID32098 chromosome, complete genome.	0	3
+GCA_016888845	False	Streptococcus oralis strain SF100 chromosome, complete genome.	0	3
+GCA_016889885	False	Streptococcus constellatus strain FDAARGOS_1208 chromosome, complete genome.	1	5
+GCA_016903355	False	Streptococcus anginosus strain FDAARGOS_1357 chromosome, complete genome.	0	3
+GCA_016908645_1	True	Streptococcus loxodontisalivarius strain DSM 27382 Ga0454049_95, whole genome shotgun sequence	0	0
+GCA_016908655_1	True	Streptococcus saliviloxodontae strain DSM 27513 Ga0454051_75, whole genome shotgun sequence	0	1
+GCA_017132795	False	Streptococcus pyogenes strain M11318 chromosome, complete genome.	0	3
+GCA_017309405	False	Streptococcus suis strain SC183 chromosome, complete genome.	0	1
+GCA_017315345_1	True	Streptococcus vaginalis strain P1L01 NODE_9_length_88652_cov_869.618, whole genome shotgun sequence	0	0
+GCA_017359825	False	Streptococcus thermophilus strain 24853 chromosome, complete genome.	2	5
+GCA_017359885	False	Streptococcus thermophilus strain 24740 chromosome, complete genome.	2	6
+GCA_017360005	False	Streptococcus thermophilus strain 24739 chromosome, complete genome.	2	5
+GCA_017360085	False	Streptococcus thermophilus strain 24738 chromosome, complete genome.	2	6
+GCA_017360165	False	Streptococcus thermophilus strain 13499 chromosome, complete genome.	2	6
+GCA_017360245	False	Streptococcus thermophilus strain 13498 chromosome, complete genome.	2	5
+GCA_017360305	False	Streptococcus thermophilus strain 13496 chromosome, complete genome.	2	4
+GCA_017372155	False	Streptococcus suis strain 1112S chromosome, complete genome.	0	5
+GCA_017569245	False	Streptococcus pneumoniae strain BVJ1JL chromosome, complete genome.	0	3
+GCA_017584245	False	Streptococcus thermophilus strain MAG_rmk202_sterm chromosome, complete genome.	2	5
+GCA_017638465	False	Streptococcus pyogenes strain M08500 chromosome, complete genome.	0	3
+GCA_017639855	False	Streptococcus sp. zg-86 chromosome, complete genome.	1	3
+GCA_017639855_1	True	Streptococcus zhangguiae strain zg-86 chromosome, complete genome	0	3
+GCA_017883985_1	True	Streptococcus oricebi strain CCUG 70868 contig_9, whole genome shotgun sequence	0	2
+GCA_017884005_1	True	Streptococcus panodentis strain CCUG 70867 contig_9, whole genome shotgun sequence	0	0
+GCA_018127725	False	Streptococcus lactarius strain CCUG 66490 chromosome, complete genome.	0	8
+GCA_018137985	False	Streptococcus sp. HKU75 chromosome, complete genome.	0	2
+GCA_018137985_1	True	Streptococcus oriscaviae strain HKU75 chromosome, complete genome	0	2
+GCA_018140535	False	Streptococcus equi subsp. zooepidemicus strain IN-6992 chromosome, complete genome.	2	6
+GCA_018140985	False	Streptococcus pyogenes strain TSPY1687 chromosome, complete genome.	0	1
+GCA_018219175	False	Streptococcus thermophilus strain DMST-H2 chromosome, complete genome.	3	8
+GCA_018336875	False	Streptococcus pneumoniae strain D39_P0 chromosome, complete genome.	0	7
+GCA_018604625	False	Streptococcus equi subsp. equi strain 489_004 chromosome, complete genome.	0	6
+GCA_018604665	False	Streptococcus equi subsp. equi strain 470_008 chromosome, complete genome.	0	6
+GCA_018604685	False	Streptococcus equi subsp. equi strain 470_007 chromosome, complete genome.	0	6
+GCA_018604745	False	Streptococcus equi subsp. equi strain 470_001 chromosome, complete genome.	0	7
+GCA_018802285	False	Streptococcus sp. ZB199 chromosome, complete genome.	0	4
+GCA_018885285	False	Streptococcus suis strain 39565 chromosome, complete genome.	0	3
+GCA_018986875	False	Streptococcus parasuis strain H35 chromosome, complete genome.	0	2
+GCA_019021805	False	Streptococcus gallolyticus subsp. gallolyticus TX20005 chromosome, complete genome.	0	7
+GCA_019046945	False	Streptococcus gordonii strain FDAARGOS 1454 chromosome, complete genome.	0	4
+GCA_019047505	False	Streptococcus gordonii strain FDAARGOS 1455 chromosome, complete genome.	0	4
+GCA_019047825	False	Streptococcus mitis strain FDAARGOS 1456 chromosome, complete genome.	0	4
+GCA_019048645	False	Streptococcus mutans strain FDAARGOS 1458 chromosome, complete genome.	0	3
+GCA_019076885	False	Streptococcus parasuis strain BS26 chromosome, complete genome.	0	1
+GCA_019218685_1	True	Streptococcus vulneris strain DM3B3 NODE_9_length_102641_cov_308.801636, whole genome shotgun sequence	0	0
+GCA_019297755	False	Streptococcus suis strain ID41570 chromosome, complete genome.	0	3
+GCA_019334565	False	Streptococcus oralis strain 34 chromosome, complete genome.	1	3
+GCA_019334785	False	Streptococcus rubneri strain LPB0404 chromosome, complete genome.	0	3
+GCA_019342845	False	Streptococcus pyogenes strain TSPY806 chromosome, complete genome.	0	3
+GCA_019342865	False	Streptococcus pyogenes strain TSPY637 chromosome, complete genome.	0	3
+GCA_019342885	False	Streptococcus pyogenes strain TSPY515 chromosome, complete genome.	0	3
+GCA_019342905	False	Streptococcus pyogenes strain ABC245 chromosome, complete genome.	0	3
+GCA_019342925	False	Streptococcus pyogenes strain ABC221 chromosome, complete genome.	0	3
+GCA_019342945	False	Streptococcus pyogenes strain ABC208 chromosome, complete genome.	0	3
+GCA_019342965	False	Streptococcus pyogenes strain ABC199 chromosome, complete genome.	0	3
+GCA_019342985	False	Streptococcus pyogenes strain ABC157 chromosome, complete genome.	0	3
+GCA_019343005	False	Streptococcus pyogenes strain ABC155 chromosome, complete genome.	0	3
+GCA_019343025	False	Streptococcus pyogenes strain ABC122 chromosome, complete genome.	0	3
+GCA_019343045	False	Streptococcus pyogenes strain ABC76 chromosome, complete genome.	0	3
+GCA_019343065	False	Streptococcus pyogenes strain ABC25 chromosome, complete genome.	0	3
+GCA_019343085	False	Streptococcus pyogenes strain ABC3 chromosome, complete genome.	0	3
+GCA_019448275_1	True	Streptococcus humanilactis strain IMAU99125 Scaffold9, whole genome shotgun sequence	0	2
+GCA_019448315	False	Streptococcus pyogenes strain TSPY767 chromosome, complete genome.	0	3
+GCA_019454385	False	Streptococcus pneumoniae strain R36A chromosome, complete genome.	0	6
+GCA_019456615	False	Streptococcus pneumoniae strain Rx1 chromosome, complete genome.	0	6
+GCA_019552345	False	Streptococcus agalactiae strain SS1168 chromosome, complete genome.	0	2
+GCA_019645895	False	Streptococcus equi subsp. zooepidemicus strain B630793 chromosome, complete genome.	1	5
+GCA_019774635	False	Streptococcus halichoeri strain Shali_VAS-CPH chromosome, complete genome.	0	2
+GCA_019856275	False	Streptococcus suis strain SS389 chromosome, complete genome.	0	4
+GCA_019856315	False	Streptococcus suis strain NJ3 chromosome, complete genome.	0	2
+GCA_019856335	False	Streptococcus suis strain FJSM5 chromosome, complete genome.	0	3
+GCA_019856355	False	Streptococcus suis strain Transconjugant cNJ3 chromosome, complete genome.	1	1
+GCA_019856375	False	Streptococcus suis strain Transconjugant cFJSM5 chromosome, complete genome.	1	1
+GCA_019856395	False	Streptococcus suis strain Transconjugant cSS389 chromosome, complete genome.	1	1
+GCA_019856415	False	Streptococcus suis strain Transconjugant cDY107 chromosome, complete genome.	1	1
+GCA_019856435	False	Streptococcus dysgalactiae strain DY107 chromosome, complete genome.	1	4
+GCA_019856455	False	Streptococcus suis strain AKJ18 chromosome, complete genome.	0	5
+GCA_019856475	False	Streptococcus suis strain Transconjugant cAKJ18 chromosome, complete genome.	1	1
+GCA_019915285	False	Streptococcus pneumoniae strain SCAID PHRX1-2021 chromosome, complete genome.	0	5
+GCA_019967855	False	Streptococcus suis strain SZ1908 chromosome, complete genome.	1	1
+GCA_020008085	False	Streptococcus pneumoniae strain B1900 chromosome, complete genome.	0	5
+GCA_020089495_2	True	Streptococcus hohhotensis strain IMAU99199 Scaffold9, whole genome shotgun sequence	0	2
+GCA_020097335	False	Streptococcus pneumoniae strain FDAARGOS_1508 chromosome, complete genome.	0	5
+GCA_020177465	False	Streptococcus pneumoniae strain HAC 39-1996 chromosome, complete genome.	0	5
+GCA_020462325	False	Streptococcus suis strain GX69 chromosome, complete genome.	0	0
+GCA_020541945	False	Streptococcus suis strain Ssuis_MA8 chromosome, complete genome.	0	0
+GCA_020541965	False	Streptococcus suis strain Ssuis_MA6 chromosome, complete genome.	0	1
+GCA_020542005	False	Streptococcus suis strain Ssuis_MA4 chromosome, complete genome.	1	6
+GCA_020542025	False	Streptococcus suis strain Ssuis_MA2 chromosome, complete genome.	0	1
+GCA_020542045	False	Streptococcus suis strain Ssuis_MA1 chromosome, complete genome.	1	1
+GCA_020735765	False	Streptococcus anginosus subsp. anginosus strain FDAARGOS_1569 chromosome, complete genome.	0	2
+GCA_020826915	False	Streptococcus pyogenes strain TSPY141 chromosome, complete genome.	0	3
+GCA_020826935	False	Streptococcus pyogenes strain TSPY153 chromosome, complete genome.	0	3
+GCA_020826955	False	Streptococcus pyogenes strain TSPY764 chromosome, complete genome.	0	3
+GCA_020826975	False	Streptococcus pyogenes strain TSPY210 chromosome, complete genome.	0	3
+GCA_020826995	False	Streptococcus pyogenes strain TSPY1312 chromosome, complete genome.	0	3
+GCA_020827015	False	Streptococcus pyogenes strain TSPY416 chromosome, complete genome.	0	3
+GCA_020827035	False	Streptococcus pyogenes strain TSPY1309 chromosome, complete genome.	0	3
+GCA_020827055	False	Streptococcus pyogenes strain TSPY1349 chromosome, complete genome.	0	3
+GCA_020827075	False	Streptococcus pyogenes strain TSPY1026 chromosome, complete genome.	0	3
+GCA_020827095	False	Streptococcus pyogenes strain TSPY136 chromosome, complete genome.	0	3
+GCA_020827115	False	Streptococcus pyogenes strain TSPY383 chromosome, complete genome.	0	3
+GCA_020827135	False	Streptococcus pyogenes strain TSPY270 chromosome, complete genome.	0	3
+GCA_020844005	False	Streptococcus thermophilus strain 4078 chromosome, complete genome.	2	5
+GCA_021029665	False	Streptococcus equi subsp. zooepidemicus strain SEZ_14-145 chromosome, complete genome.	2	9
+GCA_021029685	False	Streptococcus equi subsp. zooepidemicus strain SEZ_18-036 chromosome, complete genome.	1	6
+GCA_021398235	False	Streptococcus pneumoniae strain 19A-19087 chromosome, complete genome.	0	4
+GCA_021398265	False	Streptococcus pneumoniae strain 19A-19343 chromosome, complete genome.	0	4
+GCA_021398285	False	Streptococcus pneumoniae strain 19A-19339 chromosome, complete genome.	0	4
+GCA_021460175	False	Streptococcus agalactiae strain MIN-181 chromosome, complete genome.	0	2
+GCA_021460195	False	Streptococcus agalactiae strain MIN-180 chromosome, complete genome.	0	2
+GCA_021496805	False	Streptococcus agalactiae strain SS114 chromosome, complete genome.	0	2
+GCA_021496825	False	Streptococcus agalactiae strain SS102 chromosome, complete genome.	0	2
+GCA_021496845	False	Streptococcus agalactiae strain SS44 chromosome, complete genome.	0	2
+GCA_021496865	False	Streptococcus agalactiae strain SS43 chromosome, complete genome.	0	2
+GCA_021496885	False	Streptococcus agalactiae strain GBS68 chromosome, complete genome.	0	2
+GCA_021496905	False	Streptococcus agalactiae strain GBS20 chromosome, complete genome.	0	2
+GCA_021496945	False	Streptococcus agalactiae strain SS111 chromosome, complete genome.	0	2
+GCA_021496965	False	Streptococcus agalactiae strain GBS47 chromosome, complete genome.	0	2
+GCA_021497885	False	Streptococcus oralis strain SOD chromosome, complete genome.	0	4
+GCA_021497945	False	Streptococcus oralis strain SOT chromosome, complete genome.	0	3
+GCA_021497965	False	Streptococcus infantis strain SO chromosome, complete genome.	0	1
+GCA_021654435	False	Streptococcus parasuis SUT-7 DNA, complete genome.	1	1
+GCA_021654455	False	Streptococcus parasuis SUT-286 DNA, complete genome.	1	3
+GCA_021654475	False	Streptococcus parasuis SUT-380 DNA, complete genome.	0	3
+GCA_021654495	False	Streptococcus parasuis SUT-503 DNA, complete genome.	1	4
+GCA_021654515	False	Streptococcus ruminantium GUT-183 DNA, complete genome.	1	4
+GCA_021654535	False	Streptococcus ruminantium GUT-184 DNA, complete genome.	1	4
+GCA_021654555	False	Streptococcus ruminantium GUT-189 DNA, complete genome.	0	3
+GCA_021655535	False	Streptococcus agalactiae GCMC97051 DNA, complete genome.	0	2
+GCA_021729385	False	Streptococcus suis strain LSM29 chromosome, complete genome.	1	1
+GCA_021729405	False	Streptococcus suis strain LSM157 chromosome, complete genome.	1	1
+GCA_022024355	False	Streptococcus thermophilus strain CS20 chromosome, complete genome.	3	6
+GCA_022068225	False	Streptococcus pneumoniae strain TVO_TIGR4 chromosome, complete genome.	0	3
+GCA_022068245	False	Streptococcus pneumoniae strain TVO_Taiwan19F-14 chromosome, complete genome.	0	5
+GCA_022068265	False	Streptococcus pneumoniae strain TVO_1901928 chromosome, complete genome.	0	5
+GCA_022068285	False	Streptococcus pneumoniae strain TVO_1901927 chromosome, complete genome.	0	6
+GCA_022068405	False	Streptococcus pneumoniae strain TVO_1901926 chromosome, complete genome.	0	6
+GCA_022068525	False	Streptococcus pneumoniae strain TVO_1901925 chromosome, complete genome.	0	5
+GCA_022068645	False	Streptococcus pneumoniae strain TVO_1901924 chromosome, complete genome.	0	6
+GCA_022068765	False	Streptococcus pneumoniae strain TVO_1901923 chromosome, complete genome.	0	5
+GCA_022068885	False	Streptococcus pneumoniae strain TVO_1901922 chromosome, complete genome.	0	5
+GCA_022069005	False	Streptococcus pneumoniae strain TVO_1901948 chromosome, complete genome.	0	6
+GCA_022069085	False	Streptococcus pneumoniae strain TVO_1901947 chromosome, complete genome.	0	7
+GCA_022069205	False	Streptococcus pneumoniae strain TVO_1901946 chromosome, complete genome.	0	7
+GCA_022069325	False	Streptococcus pneumoniae strain TVO_1901945 chromosome, complete genome.	0	5
+GCA_022069445	False	Streptococcus pneumoniae strain TVO_1901943 chromosome, complete genome.	0	5
+GCA_022069485	False	Streptococcus pneumoniae strain TVO_1901941 chromosome, complete genome.	0	3
+GCA_022069505	False	Streptococcus pneumoniae strain TVO_1901940 chromosome, complete genome.	0	3
+GCA_022069545	False	Streptococcus pneumoniae strain TVO_1901939 chromosome, complete genome.	0	4
+GCA_022069645	False	Streptococcus pneumoniae strain TVO_1901921 chromosome, complete genome.	0	4
+GCA_022069785	False	Streptococcus pneumoniae strain TVO_1901938 chromosome, complete genome.	0	3
+GCA_022069905	False	Streptococcus pneumoniae strain TVO_1901935 chromosome, complete genome.	0	7
+GCA_022070005	False	Streptococcus pneumoniae strain TVO_1901934 chromosome, complete genome.	0	7
+GCA_022070225	False	Streptococcus pneumoniae strain TVO_1901932 chromosome, complete genome.	0	6
+GCA_022070425	False	Streptococcus pneumoniae strain TVO_1901930 chromosome, complete genome.	0	6
+GCA_022070465	False	Streptococcus pneumoniae strain TVO_1901920 chromosome, complete genome.	0	4
+GCA_022070485	False	Streptococcus pneumoniae strain TVO_1902277 chromosome, complete genome.	0	5
+GCA_022070505	False	Streptococcus pneumoniae strain TVO_D39 chromosome, complete genome.	0	7
+GCA_022070545	False	Streptococcus pneumoniae strain TVO_1902276 chromosome, complete genome.	0	5
+GCA_022070565	False	Streptococcus pneumoniae strain TVO_1902282 chromosome, complete genome.	0	5
+GCA_022075545	False	Streptococcus pneumoniae strain TVO_1901936 chromosome, complete genome.	0	3
+GCA_022075645	False	Streptococcus pneumoniae strain TVO_1901944 chromosome, complete genome.	0	5
+GCA_022075745	False	Streptococcus pneumoniae strain TVO_1901929 chromosome, complete genome.	0	5
+GCA_022318385	False	Streptococcus pneumoniae strain BR1268 chromosome, complete genome.	0	5
+GCA_022318405	False	Streptococcus pneumoniae strain CH2241 chromosome, complete genome.	0	4
+GCA_022318425	False	Streptococcus pneumoniae strain LE4448 chromosome, complete genome.	0	5
+GCA_022318445	False	Streptococcus pneumoniae strain MD5403 chromosome, complete genome.	0	5
+GCA_022318465	False	Streptococcus pneumoniae strain ND6401 chromosome, complete genome.	0	4
+GCA_022318485	False	Streptococcus pneumoniae strain NP7513 chromosome, complete genome.	0	3
+GCA_022318505	False	Streptococcus pneumoniae strain NP7536 chromosome, complete genome.	0	4
+GCA_022318525	False	Streptococcus pneumoniae strain PT8465 chromosome, complete genome.	0	2
+GCA_022318545	False	Streptococcus pneumoniae strain CH2439 chromosome, complete genome.	0	5
+GCA_022354845	False	Streptococcus suis strain SFJ44 chromosome, complete genome.	0	2
+GCA_022494495	False	Streptococcus pyogenes strain SHZ-1 chromosome, complete genome.	0	3
+GCA_022532125	False	Streptococcus dysgalactiae subsp. equisimilis strain Karl chromosome, complete genome.	0	3
+GCA_022558605	False	Streptococcus pneumoniae strain PZ900700608 chromosome, complete genome.	0	5
+GCA_022749195	False	Streptococcus oralis strain 1648 chromosome, complete genome.	0	4
+GCA_022810625	False	Streptococcus equinus strain SheepZ001 chromosome, complete genome.	0	6
+GCA_022869605	False	Streptococcus pyogenes strain PartK-Spyogenes-RM8376 chromosome, complete genome.	0	3
+GCA_022936265	False	Streptococcus salivarius strain SALI-10 chromosome, complete genome.	0	2
+GCA_022964955	False	Streptococcus suis strain TJS75 chromosome, complete genome.	0	1
+GCA_023023005	False	Streptococcus suis strain TJS56 chromosome, complete genome.	1	1
+GCA_023161985	False	Streptococcus pasteurianus strain WUSP070 chromosome, complete genome.	0	3
+GCA_023162015	False	Streptococcus pasteurianus strain WUSP074 chromosome, complete genome.	0	4
+GCA_023167545	False	Streptococcus constellatus subsp. constellatus DNA, complete genome, strain: CCUG 24889.	0	3
+GCA_023169525	False	Streptococcus anginosus CCUG 27928 DNA, complete genome.	0	3
+GCA_023207975	False	Streptococcus thermophilus strain CS6 chromosome, complete genome.	1	7
+GCA_023278025	False	Streptococcus thermophilus strain VHProbi R08 chromosome, complete genome.	5	5
+GCA_023278205	False	Streptococcus pyogenes strain MGAS270 chromosome, complete genome.	0	3
+GCA_023380045	False	Streptococcus pyogenes strain 21SPY7071 isolate cerebral abscess chromosome, complete genome.	0	3
+GCA_023611505	False	Streptococcus oralis strain HP01 chromosome, complete genome.	0	3
+GCA_024089335	False	Streptococcus pneumoniae TIGR4 chromosome, complete genome.	0	3
+GCA_024089355	False	Streptococcus pneumoniae strain SN75752 chromosome, complete genome.	0	5
+GCA_024206595	False	Streptococcus suis strain STC78 chromosome, complete genome.	0	0
+GCA_024206615	False	Streptococcus suis strain STC80 chromosome, complete genome.	0	0
+GCA_024206635	False	Streptococcus suis strain STC84 chromosome, complete genome.	0	0
+GCA_024206655	False	Streptococcus suis strain STC83 chromosome, complete genome.	0	0
+GCA_024206675	False	Streptococcus suis strain STC81 chromosome, complete genome.	0	0
+GCA_024206695	False	Streptococcus suis strain STC90 chromosome, complete genome.	0	0
+GCA_024206715	False	Streptococcus suis strain STC86 chromosome, complete genome.	0	0
+GCA_024206735	False	Streptococcus suis strain STC85 chromosome, complete genome.	0	0
+GCA_024206755	False	Streptococcus suis strain STC104 chromosome, complete genome.	0	0
+GCA_024220075	False	Streptococcus suis strain 1521251 chromosome, complete genome.	0	1
+GCA_024220115	False	Streptococcus suis strain LSS42 chromosome, complete genome.	0	0
+GCA_024220135	False	Streptococcus suis T15 chromosome, complete genome.	0	0
+GCA_024334065	False	Streptococcus thermophilus strain CH8 chromosome, complete genome.	1	3
+GCA_024346585	False	Streptococcus toyakuensis TP1632 DNA, complete genome.	1	5
+GCA_024399395	False	Streptococcus constellatus strain TCV107 chromosome, complete genome.	0	3
+GCA_024399415	False	Streptococcus oralis strain CCUG 53468 chromosome, complete genome.	1	5
+GCA_024498155	False	Streptococcus suis strain 2018WUSS151 chromosome, complete genome.	0	1
+GCA_024509515	False	Streptococcus suis strain DE609B chromosome, complete genome.	1	1
+GCA_024582755	False	Streptococcus suis strain 12RC1 chromosome, complete genome.	1	3
+GCA_024582915	False	Streptococcus suis strain DNC49 chromosome, complete genome.	0	0
+GCA_024582935	False	Streptococcus suis strain M106471_S40 chromosome, complete genome.	0	0
+GCA_024582955	False	Streptococcus suis strain M104300_S20 chromosome, complete genome.	1	1
+GCA_024582975	False	Streptococcus suis strain M105052_S26 chromosome, complete genome.	0	5
+GCA_024582995	False	Streptococcus suis strain M102942_S11 chromosome, complete genome.	0	1
+GCA_024583015	False	Streptococcus suis strain DNR43 chromosome, complete genome.	0	0
+GCA_024583035	False	Streptococcus suis strain DNR48 chromosome, complete genome.	0	0
+GCA_024583055	False	Streptococcus suis strain DNS20 chromosome, complete genome.	0	3
+GCA_024583075	False	Streptococcus suis strain DNC15 chromosome, complete genome.	0	1
+GCA_024583095	False	Streptococcus suis strain DNC13 chromosome, complete genome.	1	4
+GCA_024583115	False	Streptococcus suis strain DNS11 chromosome, complete genome.	0	0
+GCA_024583135	False	Streptococcus suis strain SS15055_N2_C15 chromosome, complete genome.	1	1
+GCA_024665315	False	Streptococcus thermophilus strain TH-4 chromosome, complete genome.	3	5
+GCA_024703115	False	Streptococcus pneumoniae strain D39Mega17545 chromosome, complete genome.	0	6
+GCA_024731205	False	Streptococcus thermophilus strain ST057-1 chromosome, complete genome.	5	7
+GCA_024732405	False	Streptococcus equinus strain S1 chromosome, complete genome.	0	5
+GCA_024762155	False	Streptococcus mutans strain UA-159 chromosome, complete genome.	1	2
+GCA_024762175	False	Streptococcus mutans strain COCC33-14R chromosome, complete genome.	0	2
+GCA_024762195	False	Streptococcus mutans strain COCC33-14 chromosome, complete genome.	0	2
+GCA_024814375_1	True	Streptococcus sciuri strain SQ9-PEA NODE_9_length_60459_cov_370.482447, whole genome shotgun sequence	0	0
+GCA_025136435	False	Streptococcus pneumoniae strain 19A-ST320_99-176 chromosome, complete genome.	0	4
+GCA_025152645	False	Streptococcus parauberis strain KSP10 chromosome, complete genome.	1	1
+GCA_025152665	False	Streptococcus parauberis strain KSP14 chromosome, complete genome.	1	1
+GCA_025152685	False	Streptococcus parauberis strain KSP20 chromosome, complete genome.	0	0
+GCA_025201235	False	Streptococcus parauberis strain HFTC0064 chromosome, complete genome.	1	1
+GCA_025349925	False	Streptococcus suis strain ISU2912 chromosome, complete genome.	0	4
+GCA_025402735	False	Streptococcus agalactiae strain TAH 10/84 chromosome, complete genome.	0	2
+GCA_025402755	False	Streptococcus agalactiae strain TAH 10/84 dUdp chromosome, complete genome.	0	2
+GCA_025402775	False	Streptococcus agalactiae strain TAH 10/84 dMrvR chromosome, complete genome.	0	2
+GCA_025447695_1	True	Streptococcus danieliae strain DSM 22233 NODE_9_length_24263_cov_70.495328, whole genome shotgun sequence	0	0
+GCA_025643295	False	Streptococcus pneumoniae strain 3238/09 chromosome, complete genome.	0	4
+GCA_025643315	False	Streptococcus pneumoniae strain 3641/15 chromosome, complete genome.	0	4
+GCA_025739165	False	Streptococcus thermophilus strain UCCSt95 chromosome, complete genome.	2	4
+GCA_025739325	False	Streptococcus thermophilus strain CNRZ1151 chromosome, complete genome.	3	7
+GCA_025739385	False	Streptococcus thermophilus strain 4067 chromosome, complete genome.	2	6
+GCA_025808195	False	Streptococcus agalactiae strain SA5087 chromosome, complete genome.	0	2
+GCA_025946865	False	Streptococcus suis strain ID36054 chromosome, complete genome.	0	1
+GCA_025946885	False	Streptococcus suis strain TRG6 chromosome, complete genome.	0	1
+GCA_025946905	False	Streptococcus suis strain ID38828 chromosome, complete genome.	1	1
+GCA_025946925	False	Streptococcus suis strain ID34572 chromosome, complete genome.	0	1
+GCA_025946945	False	Streptococcus suis strain ID35541 chromosome, complete genome.	1	1
+GCA_025948295	False	Streptococcus thermophilus strain CNRZ385 chromosome, complete genome.	2	6
+GCA_025980045	False	Streptococcus suis strain WUSS030 chromosome, complete genome.	0	1
+GCA_026194135	False	Streptococcus macedonicus strain E37 chromosome, complete genome.	0	6
+GCA_026625945	False	Streptococcus pneumoniae strain NP1 chromosome, complete genome.	0	5
+GCA_026625965	False	Streptococcus pneumoniae strain NP2 chromosome, complete genome.	0	5
+GCA_026683915	False	Streptococcus pneumoniae strain BC2 chromosome, complete genome.	0	6
+GCA_026683935	False	Streptococcus pneumoniae strain BC1 chromosome, complete genome.	0	6
+GCA_026692645	False	Streptococcus dysgalactiae strain WJ001 chromosome, complete genome.	0	2
+GCA_027474505	False	Streptococcus alactolyticus strain LGM chromosome, complete genome.	0	0
+GCA_027474865	False	Streptococcus gallolyticus strain XH2168 chromosome, complete genome.	0	7
+GCA_027557675	False	Streptococcus thermophilus strain EG007 chromosome, complete genome.	2	5
+GCA_027563115	False	Streptococcus pneumoniae strain SP007 chromosome, complete genome.	0	4
+GCA_027943765	False	Streptococcus pneumoniae PZ900700617 DNA, complete genome.	0	6
+GCA_027943785	False	Streptococcus pneumoniae PZ900700792 DNA, complete genome.	0	6
+GCA_027943805	False	Streptococcus pneumoniae PZ900701057 DNA, complete genome.	0	5
+GCA_027943825	False	Streptococcus pneumoniae Utah_35B-24 DNA, complete genome.	0	6
+GCA_027943845	False	Streptococcus pneumoniae PZ900700204 DNA, complete genome.	0	5
+GCA_028215815	False	Streptococcus pyogenes strain 1095 chromosome, complete genome.	0	3
+GCA_028335765	False	Streptococcus sp. HN38 chromosome, complete genome.	1	7
+GCA_028370195	False	Streptococcus pyogenes strain SP1451 chromosome, complete genome.	0	3
+GCA_028370215	False	Streptococcus pyogenes strain SP1450 chromosome, complete genome.	0	3
+GCA_028370235	False	Streptococcus pyogenes strain SP1448 chromosome, complete genome.	0	3
+GCA_028370255	False	Streptococcus pyogenes strain SP1426 chromosome, complete genome.	0	3
+GCA_028370275	False	Streptococcus pyogenes strain SP1384 chromosome, complete genome.	0	3
+GCA_028370295	False	Streptococcus pyogenes strain SP1380 chromosome, complete genome.	0	3
+GCA_028463905	False	Streptococcus thermophilus strain strain TSGB 4141 chromosome, complete genome.	3	6
+GCA_028751645	False	Streptococcus parasuis strain NN1 chromosome, complete genome.	0	0
+GCA_028752615	False	Streptococcus parasuis strain SS20 chromosome, complete genome.	0	2
+GCA_028752635	False	Streptococcus parasuis strain SS17 chromosome, complete genome.	0	2
+GCA_028864795	False	Streptococcus thermophilus strain TCI633 chromosome, complete genome.	2	5
+GCA_028867825	False	Streptococcus pyogenes MGAS10870 chromosome, complete genome.	0	3
+GCA_029010215	False	Streptococcus anginosus strain VSI67 chromosome, complete genome.	0	0
+GCA_029010275	False	Streptococcus anginosus strain VSI85 chromosome, complete genome.	0	1
+GCA_029011195	False	Streptococcus agalactiae strain VSI63 chromosome, complete genome.	0	2
+GCA_029011235	False	Streptococcus anginosus strain VSI52 chromosome, complete genome.	0	1
+GCA_029011295	False	Streptococcus anginosus strain VSI40 chromosome, complete genome.	0	1
+GCA_029011355	False	Streptococcus anginosus strain VSI37 chromosome, complete genome.	0	1
+GCA_029011615	False	Streptococcus anginosus strain VSI16 chromosome, complete genome.	0	1
+GCA_029011635	False	Streptococcus agalactiae strain VSI15 chromosome, complete genome.	0	2
+GCA_029011675	False	Streptococcus agalactiae strain VSI14 chromosome, complete genome.	0	2
+GCA_029011695	False	Streptococcus anginosus strain VSI13 chromosome, complete genome.	0	2
+GCA_029011905	False	Streptococcus anginosus strain VSI68 chromosome, complete genome.	0	1
+GCA_029012025	False	Streptococcus anginosus strain VSI12 chromosome, complete genome.	0	2
+GCA_029203915	False	Streptococcus suis strain 3112 chromosome, complete genome.	0	2
+GCA_029223665	False	Streptococcus parauberis strain SPOF21J2 chromosome, complete genome.	1	1
+GCA_029223685	False	Streptococcus parauberis strain SPOF21J26 chromosome, complete genome.	1	1
+GCA_029223705	False	Streptococcus parauberis strain SPOF19J15 chromosome, complete genome.	1	1
+GCA_029223725	False	Streptococcus parauberis strain KSP45 chromosome, complete genome.	1	1
+GCA_029234045	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36089 chromosome MGCS360898, complete sequence.	1	2
+GCA_029234065	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36083 chromosome MGCS36083, complete sequence.	1	3
+GCA_029234095	False	Streptococcus dysgalactiae subsp. equisimilis strain MGGS36055 chromosome MGGS36055, complete sequence.	0	3
+GCA_029234115	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36044 chromosome MGCS36044, complete sequence.	1	3
+GCA_029234135	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35957 chromosome MGCS35957, complete sequence.	1	3
+GCA_029234155	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35823 chromosome MGCS35823, complete sequence.	0	3
+GCA_029234175	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35922 extrachromosomal.	1	3
+GCA_029278525	False	Streptococcus agalactiae strain Guangzhou-SAG092 chromosome, complete genome.	0	2
+GCA_029280505	False	Streptococcus pyogenes strain 1039 chromosome, complete genome.	0	3
+GCA_029280565	False	Streptococcus pyogenes strain 1042 chromosome, complete genome.	0	3
+GCA_029280585	False	Streptococcus pyogenes strain 1133 chromosome, complete genome.	0	3
+GCA_029323775	False	Streptococcus pyogenes strain 1004 chromosome, complete genome.	0	3
+GCA_029537275	False	Streptococcus agalactiae strain Guangzhou-SAG036 chromosome, complete genome.	0	1
+GCA_029542025	False	Streptococcus suis strain Transconjugant cAKJ47-2 chromosome, complete genome.	1	1
+GCA_029542045	False	Streptococcus parasuis strain SFJ45 chromosome, complete genome.	1	2
+GCA_029542065	False	Streptococcus suis strain Transconjugant cSFJ45 chromosome, complete genome.	1	1
+GCA_029542385	False	Streptococcus suis strain SS/UPM/MY/F001 chromosome, complete genome.	1	4
+GCA_029625255	False	Streptococcus agalactiae strain S5 chromosome, complete genome.	0	2
+GCA_029625275	False	Streptococcus agalactiae strain S1 chromosome, complete genome.	1	3
+GCA_029625395	False	Streptococcus pluranimalium strain SP28 chromosome, complete genome.	0	0
+GCA_029625415	False	Streptococcus ruminicola strain CNU_77-47 chromosome, complete genome.	1	8
+GCA_029637645	False	Streptococcus pyogenes strain 1044 chromosome, complete genome.	0	3
+GCA_029691405	False	Streptococcus sp. D7B5 chromosome, complete genome.	1	4
+GCA_029866925	False	Streptococcus macedonicus strain SGM CIP105683 chromosome, complete genome.	0	5
+GCA_029910475	False	Streptococcus equi strain Kargaly-22 chromosome, complete genome.	0	4
+GCA_029917085	False	Streptococcus agalactiae strain CS2108 chromosome, complete genome.	0	2
+GCA_029948085_1	True	Streptococcus taonis strain ST22-14 NODE_9_length_108251_cov_206.828, whole genome shotgun sequence	0	0
+GCA_030020365	False	Streptococcus iniae strain DFSM220524 chromosome, complete genome.	0	2
+GCA_030020405	False	Streptococcus iniae strain GXAS200705 chromosome, complete genome.	0	2
+GCA_030028375	False	Streptococcus pneumoniae strain 105_Kz chromosome, complete genome.	0	5
+GCA_030034695	False	Streptococcus dysgalactiae subsp. equisimilis strain UT_120444 chromosome, complete genome.	0	4
+GCA_030034715	False	Streptococcus dysgalactiae subsp. equisimilis strain UT_10236 chromosome, complete genome.	1	3
+GCA_030078235	False	Mutant Streptococcus agalactiae strain CNCTC 10/84 dCas9, complete genome.	0	2
+GCA_030078255	False	Mutant Streptococcus agalactiae strain A909 sCas9, complete genome.	0	2
+GCA_030078275	False	Mutant Streptococcus agalactiae strain A909 sCas9revertant, complete genome.	0	2
+GCA_030078295	False	Mutant Streptococcus agalactiae strain CNCTC 10/84 sCas9, complete genome.	0	2
+GCA_030078315	False	Mutant Streptococcus agalactiae strain CNCTC 10/84 sCas9revertant, complete genome.	0	2
+GCA_030078335	False	Mutant Streptococcus agalactiae strain A909 dCas9, complete genome.	0	2
+GCA_030078355	False	Mutant Streptococcus agalactiae strain CNCTC 10/84 Cas9 AEKOrevertant, complete genome.	0	2
+GCA_030078375	False	Mutant Streptococcus agalactiae strain CNCTC 10/84 Cas9 AEKO, complete genome.	0	2
+GCA_030078395	False	Mutant Streptococcus agalactiae strain A909 Cas9 AEKOrevertant, complete genome.	0	2
+GCA_030078415	False	Mutant Streptococcus agalactiae strain A909 Cas9 AEKO, complete genome.	0	2
+GCA_030127445	False	Streptococcus pneumoniae strain BM6001 chromosome, complete genome.	0	5
+GCA_030284685_1	True	Streptococcus raffinosi strain VTCC 12812 NODE_9_length_107831_cov_223.426750, whole genome shotgun sequence	0	1
+GCA_030291215	False	Streptococcus dysgalactiae subsp. equisimilis strain TPCH-F37 chromosome, complete genome.	0	4
+GCA_030294905	False	Streptococcus mutans LP13 DNA, complete genome.	1	2
+GCA_030323365	False	Streptococcus agalactiae strain GBSIR0001 chromosome, complete genome.	0	2
+GCA_030378185	False	Streptococcus parasuis strain 7500 chromosome, complete genome.	0	1
+GCA_030480405	False	Streptococcus equi subsp. zooepidemicus strain BJ-1 chromosome, complete genome.	1	7
+GCA_030489705	False	Streptococcus agalactiae COH1 chromosome, complete genome.	0	1
+GCA_030489725	False	Streptococcus agalactiae strain NEM316 chromosome, complete genome.	0	2
+GCA_030582735	False	Streptococcus iniae strain LSSM211007SI chromosome, complete genome.	0	2
+GCA_030717745	False	Streptococcus pneumoniae strain H1900 chromosome, complete genome.	0	6
+GCA_030717785	False	Streptococcus pneumoniae strain L1900 chromosome, complete genome.	0	6
+GCA_030732225	False	Streptococcus iniae strain BH15-2 chromosome, complete genome.	0	2
+GCA_030732245	False	Streptococcus iniae strain BH16-24 chromosome, complete genome.	0	2
+GCA_030812835_1	True	Streptococcus moroccensis strain DSM 105143 Ga0480510_57, whole genome shotgun sequence	0	0
+GCA_030846755	False	Streptococcus thermophilus strain CICC 20372 chromosome, complete genome.	2	4
+GCA_030908265	False	Streptococcus agalactiae strain 50/20-09 chromosome, complete genome.	0	2
+GCA_030908305	False	Streptococcus agalactiae strain 03/19-13 chromosome, complete genome.	0	2
+GCA_030908345	False	Streptococcus agalactiae strain 18/19-02 chromosome, complete genome.	0	2
+GCA_031191225	False	Streptococcus mitis strain LMG 14557 chromosome, complete genome.	0	4
+GCA_031192325	False	Streptococcus salivarius strain LMG 11489 chromosome, complete genome.	0	2
+GCA_031202875	False	Streptococcus agalactiae strain BCJB4361 chromosome, complete genome.	0	2
+GCA_031202895	False	Streptococcus agalactiae strain BCJB3586 chromosome, complete genome.	0	2
+GCA_031203395	False	Streptococcus agalactiae strain BCJB3344 chromosome, complete genome.	0	2
+GCA_031203445	False	Streptococcus agalactiae strain BCJB3343 chromosome, complete genome.	0	2
+GCA_031203465	False	Streptococcus agalactiae strain BCJB2983 chromosome, complete genome.	0	2
+GCA_031203715	False	Streptococcus agalactiae strain BCJB1835 chromosome, complete genome.	0	2
+GCA_031582885	False	Streptococcus parasanguinis strain B-1756 chromosome, complete genome.	0	3
+GCA_031584935	False	Streptococcus agalactiae strain Alim_agalac_1000 chromosome, complete genome.	0	2
+GCA_031767395	False	Streptococcus suis strain NLS50 chromosome, complete genome.	0	0
+GCA_031767605	False	Streptococcus suis strain NLS40 chromosome, complete genome.	0	1
+GCA_031767625	False	Streptococcus suis strain 1522228 chromosome, complete genome.	0	1
+GCA_031767645	False	Streptococcus suis strain TMW_SS028 chromosome, complete genome.	0	4
+GCA_032147025	False	Streptococcus suis strain ID32563 chromosome, complete genome.	0	2
+GCA_032147105	False	Streptococcus suis strain ID24665 chromosome, complete genome.	0	2
+GCA_032163505	False	Streptococcus parasanguinis strain 30.8.10 chromosome, complete genome.	1	4
+GCA_032230435	False	Streptococcus suis strain ID26102 chromosome, complete genome.	0	2
+GCA_032230945	False	Streptococcus suis strain ID34567 chromosome, complete genome.	0	2
+GCA_032230965	False	Streptococcus suis strain ID48908 chromosome, complete genome.	0	2
+GCA_032230985	False	Streptococcus suis strain 1652329 chromosome, complete genome.	0	1
+GCA_032231005	False	Streptococcus suis strain 1547095 chromosome, complete genome.	0	1
+GCA_032340315	False	Streptococcus sp. DTU_2020_1001019_1_SI_AUS_MUR_006 chromosome, complete genome.	0	5
+GCA_032387735	False	Streptococcus sp. DTU_2020_1000888_1_SI_GRL_NUU_041A chromosome, complete genome.	0	4
+GCA_032594915	False	Streptococcus sp. 29896 chromosome, complete genome.	0	1
+GCA_032594915_1	True	Streptococcus suivaginalis strain 29896 chromosome, complete genome	0	1
+GCA_032594935	False	Streptococcus sp. 29892 chromosome, complete genome.	0	2
+GCA_032595075	False	Streptococcus sp. 29887 chromosome, complete genome.	0	0
+GCA_032595075_1	True	Streptococcus iners strain 29887 chromosome, complete genome	0	0
+GCA_032611355	False	Streptococcus pluranimalium strain SP21-2 chromosome, complete genome.	0	0
+GCA_032616015	False	Streptococcus iniae strain Si 7-21 chromosome, complete genome.	0	2
+GCA_032616875	False	Streptococcus iniae strain Si 6-21 chromosome, complete genome.	0	2
+GCA_032617675	False	Streptococcus iniae strain P3SAB chromosome, complete genome.	0	2
+GCA_032618495	False	Streptococcus iniae strain Si 4-21 chromosome, complete genome.	0	2
+GCA_032619275	False	Streptococcus iniae strain Si 1-19 chromosome, complete genome.	0	2
+GCA_032623075	False	Streptococcus iniae strain CB Si-1 chromosome, complete genome.	0	2
+GCA_032624055	False	Streptococcus iniae strain Si 8-21 chromosome, complete genome.	0	2
+GCA_032880625	False	Streptococcus parauberis strain KRS02083 chromosome, complete genome.	1	1
+GCA_032883655	False	Streptococcus pneumoniae strain ATCC 700671 chromosome, complete genome.	0	5
+GCA_032937075	False	Streptococcus intermedius strain XH2169 chromosome, complete genome.	0	4
+GCA_033036375	False	Streptococcus equi subsp. equi strain HTP133 chromosome, complete genome.	0	6
+GCA_033036395	False	Streptococcus equi subsp. equi strain HTP232 chromosome, complete genome.	0	6
+GCA_033036835	False	Streptococcus equi subsp. equi strain HT1112 chromosome, complete genome.	0	6
+GCA_033037175	False	Streptococcus equi subsp. zooepidemicus strain ZHZ211 chromosome, complete genome.	3	6
+GCA_033037495	False	Streptococcus equi subsp. zooepidemicus strain JMC111 chromosome, complete genome.	3	6
+GCA_033037535	False	Streptococcus equi subsp. zooepidemicus strain HT321 chromosome, complete genome.	0	8
+GCA_033037575	False	Streptococcus equi subsp. equi strain XJ5012 chromosome, complete genome.	0	5
+GCA_033096025	False	Streptococcus pneumoniae PZ900700003 DNA, complete genome.	0	6
+GCA_033096045	False	Streptococcus pneumoniae PZ900700005 DNA, complete genome.	0	4
+GCA_033096065	False	Streptococcus pneumoniae PZ900700006 DNA, complete genome.	0	4
+GCA_033096085	False	Streptococcus pneumoniae PZ900700007 DNA, complete genome.	0	5
+GCA_033096105	False	Streptococcus pneumoniae PZ900700009 DNA, complete genome.	0	6
+GCA_033096125	False	Streptococcus pneumoniae PZ900700012 DNA, complete genome.	0	7
+GCA_033096145	False	Streptococcus pneumoniae PZ900700014 DNA, complete genome.	0	6
+GCA_033096165	False	Streptococcus pneumoniae PZ900700027 DNA, complete genome.	0	4
+GCA_033096185	False	Streptococcus pneumoniae PZ900700038 DNA, complete genome.	0	4
+GCA_033096205	False	Streptococcus pneumoniae PZ900700054 DNA, complete genome.	0	5
+GCA_033096225	False	Streptococcus pneumoniae PZ900700063 DNA, complete genome.	0	6
+GCA_033096245	False	Streptococcus pneumoniae PZ900700097 DNA, complete genome.	0	5
+GCA_033096265	False	Streptococcus pneumoniae PZ900700119 DNA, complete genome.	0	6
+GCA_033096285	False	Streptococcus pneumoniae PZ900700178 DNA, complete genome.	0	5
+GCA_033096305	False	Streptococcus pneumoniae PZ900700406 DNA, complete genome.	0	8
+GCA_033096325	False	Streptococcus pneumoniae PZ900701114 DNA, complete genome.	2	7
+GCA_033096345	False	Streptococcus pneumoniae PZ900701208 DNA, complete genome.	0	4
+GCA_033096365	False	Streptococcus pneumoniae PZ900701541 DNA, complete genome.	0	5
+GCA_033096385	False	Streptococcus pneumoniae PZ900701549 DNA, complete genome.	0	5
+GCA_033100055	False	Streptococcus pneumoniae strain ST62 chromosome, complete genome.	0	5
+GCA_033100235	False	Streptococcus pasteurianus strain WUSP082 chromosome, complete genome.	0	4
+GCA_033142835	False	Streptococcus pneumoniae strain 21334 chromosome, complete genome.	0	5
+GCA_033144075	False	Streptococcus pneumoniae strain 16H2092 chromosome, complete genome.	0	6
+GCA_033144835	False	Streptococcus pneumoniae strain 16P4028 chromosome, complete genome.	0	6
+GCA_033145555	False	Streptococcus pneumoniae strain LYP chromosome, complete genome.	0	5
+GCA_033146375	False	Streptococcus pneumoniae strain 15H4024 chromosome, complete genome.	0	5
+GCA_033147055	False	Streptococcus pneumoniae strain 16H3071-2 chromosome, complete genome.	0	4
+GCA_033147875	False	Streptococcus pneumoniae strain 16P2012-2 chromosome, complete genome.	0	5
+GCA_033148655	False	Streptococcus pneumoniae strain 20824-4 chromosome, complete genome.	0	6
+GCA_033149375	False	Streptococcus pneumoniae strain 02H2025 chromosome, complete genome.	0	6
+GCA_033150235	False	Streptococcus pneumoniae strain 16H2041 chromosome, complete genome.	0	5
+GCA_033151055	False	Streptococcus pneumoniae strain 17023 chromosome, complete genome.	0	6
+GCA_033152035	False	Streptococcus pneumoniae strain 15P3054 chromosome, complete genome.	0	7
+GCA_033152795	False	Streptococcus pneumoniae strain 20614-6 chromosome, complete genome.	0	5
+GCA_033165855	False	Streptococcus pneumoniae strain ZGX chromosome, complete genome.	0	5
+GCA_033166735	False	Streptococcus pneumoniae strain LM chromosome, complete genome.	0	5
+GCA_033167795	False	Streptococcus pneumoniae strain 11012 chromosome, complete genome.	0	7
+GCA_033169215	False	Streptococcus pneumoniae strain OXT chromosome, complete genome.	0	5
+GCA_033344055	False	Streptococcus parasuis strain 221006 chromosome, complete genome.	3	3
+GCA_033798805	False	Streptococcus agalactiae strain R31-snf2-MTast1 chromosome, complete genome.	0	1
+GCA_033798825	False	Streptococcus agalactiae strain R92-rpsI chromosome, complete genome.	0	1
+GCA_033798845	False	Streptococcus agalactiae strain R31-snf2-MTase2 chromosome, complete genome.	0	2
+GCA_033798865	False	Streptococcus agalactiae strain SagR92 chromosome, complete genome.	0	1
+GCA_033798885	False	Streptococcus agalactiae strain SagR31 chromosome, complete genome.	0	2
+GCA_033798905	False	Streptococcus agalactiae strain SagR40 chromosome, complete genome.	0	1
+GCA_033798925	False	Streptococcus agalactiae strain R31-snf2 chromosome, complete genome.	0	2
+GCA_034047115	False	Streptococcus suis strain cnzyss2-311 chromosome, complete genome.	1	1
+GCA_034134805	False	Streptococcus sp. S5 chromosome, complete genome.	1	4
+GCA_034134805_1	True	Streptococcus lingualis strain S5 chromosome, complete genome	0	4
+GCA_034137685	False	Streptococcus sp. S1 chromosome, complete genome.	0	4
+GCA_034137685_1	True	Streptococcus dentalis strain S1 chromosome, complete genome	0	4
+GCA_034329605	False	Streptococcus agalactiae strain SagR40_TC chromosome, complete genome.	0	1
+GCA_034422155	False	Streptococcus pneumoniae strain 21011 chromosome, complete genome.	0	6
+GCA_034422215	False	Streptococcus pneumoniae strain 16H2017-2 chromosome, complete genome.	0	5
+GCA_034422275	False	Streptococcus pneumoniae strain 05H0020-2 chromosome, complete genome.	0	5
+GCA_034422335	False	Streptococcus pneumoniae strain 15P2112 chromosome, complete genome.	0	5
+GCA_034422635	False	Streptococcus pneumoniae strain UK34 chromosome, complete genome.	0	3
+GCA_034430055	False	Streptococcus pyogenes strain NV28 chromosome, complete genome.	0	3
+GCA_034432415	False	Streptococcus pyogenes strain NV27 chromosome, complete genome.	0	3
+GCA_034434355	False	Streptococcus pyogenes strain NV1 chromosome, complete genome.	0	3
+GCA_034436135	False	Streptococcus pyogenes strain NV6 chromosome, complete genome.	0	3
+GCA_034440185	False	Streptococcus suis strain 2022WUSS148 chromosome, complete genome.	0	5
+GCA_035544715_1	True	Streptococcus gingivalis strain S2 contig2, whole genome shotgun sequence	0	1
+GCA_035620135	False	Streptococcus pyogenes strain CQMU_CQ01 chromosome, complete genome.	0	3
+GCA_035666155	False	Streptococcus dysgalactiae strain lu24 chromosome, complete genome.	0	3
+GCA_035758325	False	Streptococcus thermophilus strain SCB0351 chromosome, complete genome.	3	6
+GCA_035918415	False	Streptococcus pyogenes strain 11RS100 chromosome, complete genome.	0	3
+GCA_035918435	False	Streptococcus pyogenes strain SS1445 chromosome, complete genome.	0	3
+GCA_035918455	False	Streptococcus pyogenes strain SS1366 chromosome, complete genome.	0	3
+GCA_035918475	False	Streptococcus pyogenes strain 2907-97 chromosome, complete genome.	0	3
+GCA_035918495	False	Streptococcus pyogenes strain D641 chromosome, complete genome.	0	3
+GCA_035918515	False	Streptococcus pyogenes strain 6745-99 chromosome, complete genome.	0	3
+GCA_035918535	False	Streptococcus pyogenes strain A946 chromosome, complete genome.	0	3
+GCA_035918555	False	Streptococcus pyogenes strain CT95-157 chromosome, complete genome.	0	3
+GCA_035918575	False	Streptococcus pyogenes strain AW-534 chromosome, complete genome.	0	3
+GCA_035918595	False	Streptococcus pyogenes strain 6702-99 chromosome, complete genome.	0	3
+GCA_036320595	False	Streptococcus suis strain HB18 chromosome, complete genome.	1	1
+GCA_036322915	False	Streptococcus pneumoniae PF1 DNA, complete genome.	0	4
+GCA_036322935	False	Streptococcus pneumoniae PF2 DNA, complete genome.	0	6
+GCA_036322955	False	Streptococcus pneumoniae Pne2 DNA, complete genome.	0	6
+GCA_036322975	False	Streptococcus pneumoniae Pne3 DNA, complete genome.	0	6
+GCA_036322995	False	Streptococcus pneumoniae Pne4 DNA, complete genome.	0	5
+GCA_036323015	False	Streptococcus pneumoniae Sep1 DNA, complete genome.	0	5
+GCA_036323035	False	Streptococcus pneumoniae Sep2 DNA, complete genome.	0	6
+GCA_036323055	False	Streptococcus pneumoniae Sep3 DNA, complete genome.	0	4
+GCA_036323075	False	Streptococcus pneumoniae Sep4 DNA, complete genome.	0	8
+GCA_036323095	False	Streptococcus pneumoniae Sep5 DNA, complete genome.	0	5
+GCA_036323375	False	Streptococcus pneumoniae 21P20 DNA, complete genome.	0	5
+GCA_036347555	False	Streptococcus pyogenes strain Spyo01 chromosome, complete genome.	0	3
+GCA_036347575	False	Streptococcus pyogenes strain Spyo06 chromosome, complete genome.	0	3
+GCA_036347595	False	Streptococcus pyogenes strain Spyo09 chromosome, complete genome.	0	3
+GCA_036353505	False	Streptococcus pyogenes strain Isolate 21 chromosome, complete genome.	0	3
+GCA_036509575	False	Streptococcus pneumoniae Sep6 DNA, complete genome.	0	5
+GCA_036815195	False	Streptococcus dysgalactiae subsp. equisimilis strain NS3396 chromosome, complete genome.	0	6
+GCA_036923315	False	Streptococcus thermophilus strain TCI633 chromosome, complete genome.	2	5
+GCA_037076355	False	Streptococcus sp. SP4011 DNA, complete genome.	0	7
+GCA_037076355_1	True	Streptococcus parapneumoniae strain SP4011 chromosome, complete genome	0	7
+GCA_037217205	False	Streptococcus agalactiae strain XM_1 chromosome, complete genome.	0	1
+GCA_037240675	False	Streptococcus agalactiae strain SagR40_TC_rplL chromosome, complete genome.	0	2
+GCA_037242635	False	Streptococcus agalactiae strain SagR272_TC chromosome, complete genome.	0	2
+GCA_037244275	False	Streptococcus agalactiae strain SagR92_TC_rpsI chromosome, complete genome.	0	1
+GCA_037246145	False	Streptococcus agalactiae strain SagR266_TC_rplL chromosome, complete genome.	0	1
+GCA_037248035	False	Streptococcus agalactiae strain SagR266 chromosome, complete genome.	0	1
+GCA_037764615	False	Streptococcus pyogenes strain strain MGAS2221 chromosome, complete genome.	0	3
+GCA_037940715	False	Streptococcus suis strain YA chromosome, complete genome.	0	0
+GCA_037963785	False	Streptococcus sp. FSL W8-0197 chromosome, complete genome.	0	3
+GCA_037966635	False	Streptococcus sp. FSL W7-1342 chromosome, complete genome.	0	2
+GCA_037967965	False	Streptococcus sp. FSL R7-0248 chromosome, complete genome.	0	2
+GCA_038049945	False	Streptococcus thermophilus strain TCI125 chromosome, complete genome.	4	7
+GCA_038385395	False	Streptococcus pyogenes strain MGAS37856 chromosome, complete genome.	0	3
+GCA_038386885	False	Streptococcus pyogenes strain MGAS37835 chromosome, complete genome.	0	3
+GCA_038388625	False	Streptococcus pyogenes strain MGAS37830 chromosome, complete genome.	0	3
+GCA_038390225	False	Streptococcus pyogenes strain MGAS37827 chromosome, complete genome.	0	3
+GCA_038390915	False	Streptococcus pyogenes strain MGAS37824 chromosome, complete genome.	0	3
+GCA_038431325	False	Streptococcus pneumoniae strain 2018N21-288 chromosome, complete genome.	0	5
+GCA_038431465	False	Streptococcus pneumoniae strain 2018C08-270 chromosome, complete genome.	0	5
+GCA_038431575	False	Streptococcus pneumoniae strain 2016C10-332 chromosome, complete genome.	0	6
+GCA_038431685	False	Streptococcus pneumoniae strain 2016S11-245 chromosome, complete genome.	0	4
+GCA_038431715	False	Streptococcus pneumoniae strain 2014S11-203 chromosome, complete genome.	0	5
+GCA_038431725	False	Streptococcus pneumoniae strain 2014C08-275 chromosome, complete genome.	0	4
+GCA_038431755	False	Streptococcus pneumoniae strain 2008C09-280 chromosome, complete genome.	0	6
+GCA_038431765	False	Streptococcus pneumoniae strain 2008C09-276 chromosome, complete genome.	0	5
+GCA_038431775	False	Streptococcus pneumoniae strain 2008C04-309 chromosome, complete genome.	0	5
+GCA_038431785	False	Streptococcus pneumoniae strain 2006C08-243 chromosome, complete genome.	0	5
+GCA_038630745	False	Streptococcus sp. FSL K6-1323 chromosome, complete genome.	1	3
+GCA_038650695	False	Streptococcus suis strain Ss2301 chromosome, complete genome.	1	1
+GCA_039619335	False	Streptococcus pyogenes strain 318231 chromosome, complete genome.	0	3
+GCA_039781665	False	Streptococcus thermophilus strain 4052 chromosome, complete genome.	3	7
+GCA_039782795	False	Streptococcus thermophilus strain 90728 chromosome, complete genome.	1	6
+GCA_039783105	False	Streptococcus thermophilus strain 90729 chromosome, complete genome.	1	6
+GCA_039783195	False	Streptococcus thermophilus strain 90730 chromosome, complete genome.	3	7
+GCA_039783225	False	Streptococcus thermophilus strain CNRZ760 chromosome, complete genome.	1	7
+GCA_039783255	False	Streptococcus thermophilus strain MM1 chromosome, complete genome.	3	7
+GCA_039783285	False	Streptococcus thermophilus strain MM20 chromosome, complete genome.	4	7
+GCA_039783295	False	Streptococcus thermophilus strain R1 chromosome, complete genome.	2	6
+GCA_039783405	False	Streptococcus thermophilus strain ST19 chromosome, complete genome.	4	7
+GCA_039783475	False	Streptococcus thermophilus strain AVA1121 chromosome, complete genome.	1	4
+GCA_039783625	False	Streptococcus thermophilus strain CNRZ302 chromosome, complete genome.	2	5
+GCA_039783635	False	Streptococcus thermophilus strain CNRZ1575 chromosome, complete genome.	2	4
+GCA_039783785	False	Streptococcus thermophilus strain CNRZ887 chromosome, complete genome.	3	7
+GCA_039783955	False	Streptococcus thermophilus strain 4145 chromosome, complete genome.	2	5
+GCA_039784265	False	Streptococcus thermophilus strain 1A chromosome, complete genome.	2	6
+GCA_039784555	False	Streptococcus thermophilus strain 4021 chromosome, complete genome.	2	6
+GCA_039784805	False	Streptococcus thermophilus strain AVA116 chromosome, complete genome.	1	5
+GCA_039784855	False	Streptococcus thermophilus strain CNRZ1202 chromosome, complete genome.	1	6
+GCA_039784885	False	Streptococcus thermophilus strain ST128 chromosome, complete genome.	2	5
+GCA_039784895	False	Streptococcus thermophilus strain ST55 chromosome, complete genome.	3	9
+GCA_039784985	False	Streptococcus thermophilus strain 4147 chromosome, complete genome.	3	7
+GCA_040207525	False	Streptococcus sp. KHUD_010 chromosome, complete genome.	0	3
+GCA_040225085_1	True	Streptococcus jiangjianxini strain ZJ99 Scaffold50_1, whole genome shotgun sequence	0	0
+GCA_040364775	False	Streptococcus salivarius NBRC 13956 DNA, complete genome: sequence1.	0	2
+GCA_040545225_1	True	Streptococcus rupicaprae strain DSM 28303 Ga0480211_60, whole genome shotgun sequence	2	2
+GCA_040545265_1	True	Streptococcus porcorum strain DSM 28302 Ga0480210_69, whole genome shotgun sequence	0	0
+GCA_040545695_1	True	Streptococcus gallinaceus strain DSM 15349 Ga0480208_13, whole genome shotgun sequence	0	0
+GCA_040687855	False	Streptococcus pneumoniae strain SN36255 chromosome, complete genome.	0	4
+GCA_040687865	False	Streptococcus pneumoniae strain SP264 chromosome, complete genome.	0	6
+GCA_040687875	False	Streptococcus pneumoniae strain TL7/1993 chromosome, complete genome.	0	5
+GCA_040687885	False	Streptococcus pneumoniae strain Spn1439-106 chromosome, complete genome.	0	5
+GCA_040687895	False	Streptococcus pneumoniae strain DCC1476 chromosome, complete genome.	0	5
+GCA_040687905	False	Streptococcus pneumoniae strain PJ755/1 chromosome, complete genome.	0	3
+GCA_040687915	False	Streptococcus pneumoniae strain M264-3 chromosome, complete genome.	0	5
+GCA_040687925	False	Streptococcus pneumoniae strain DP1322 chromosome, complete genome.	0	6
+GCA_040687935	False	Streptococcus pneumoniae strain BHN418 chromosome, complete genome.	0	5
+GCA_040687945	False	Streptococcus pneumoniae TIGR4 chromosome, complete genome.	0	3
+GCA_040687955	False	Streptococcus pneumoniae strain R1501 chromosome, complete genome.	0	7
+GCA_040731245	False	Streptococcus sp. ZY19097 chromosome, complete genome.	1	10
+GCA_040733935	False	Streptococcus mutans strain UA159-WCSS chromosome, complete genome.	1	2
+GCA_040733985	False	Streptococcus mutans strain UA159 ykuR deletion chromosome, complete genome.	1	2
+GCA_040782655	False	Streptococcus iniae strain QMA0445 chromosome, complete genome.	0	0
+GCA_040782665	False	Streptococcus iniae strain QMA0462 chromosome, complete genome.	0	1
+GCA_040782815	False	Streptococcus agalactiae strain QMA0274 chromosome, complete genome.	0	1
+GCA_040782825	False	Streptococcus iniae strain QMA0139 chromosome, complete genome.	0	2
+GCA_040782835	False	Streptococcus iniae strain QMA0186 chromosome, complete genome.	0	0
+GCA_040782845	False	Streptococcus iniae strain QMA0177 chromosome, complete genome.	0	1
+GCA_040782855	False	Streptococcus iniae strain QMA0139_CTAB chromosome, complete genome.	0	2
+GCA_040782895	False	Streptococcus agalactiae strain QMA0321 chromosome, complete genome.	0	1
+GCA_040783455	False	Streptococcus agalactiae strain QMA0539 chromosome, complete genome.	0	1
+GCA_040783465	False	Streptococcus agalactiae strain QMA0522 chromosome, complete genome.	0	1
+GCA_040783475	False	Streptococcus agalactiae strain QMA0496 chromosome, complete genome.	0	0
+GCA_040801805	False	Streptococcus pluranimalium strain SS-15 chromosome, complete genome.	0	0
+GCA_040836615	False	Streptococcus sp. ZY1909104 chromosome, complete genome.	1	3
+GCA_040888245_1	True	Streptococcus wuxiensis strain 21WXBC0057M1 Scaffold9, whole genome shotgun sequence	0	0
+GCA_040888305_1	True	Streptococcus fermentans strain BJSWXB5TM5 Scaffold9, whole genome shotgun sequence	0	0
+GCA_040888325_1	True	Streptococcus jiangnanensis strain 21WXBC0044M1 Scaffold9, whole genome shotgun sequence	0	1
+GCA_040930395	False	Streptococcus iniae strain ZQ2205 chromosome, complete genome.	0	2
+GCA_040930515_1	True	Streptococcus huangxiaojuni strain H31 Scaffold9_1, whole genome shotgun sequence	0	0
+GCA_040984445_1	True	Streptococcus sp. ZJ93 Scaffold131_1, whole genome shotgun sequence	0	0
+GCA_041026655	False	Streptococcus sp. CP1998 chromosome, complete genome.	0	3
+GCA_041071735	False	Streptococcus pyogenes strain 8373/17 chromosome, complete genome.	0	3
+GCA_041071845	False	Streptococcus pyogenes strain 4958/15 chromosome, complete genome.	0	3
+GCA_041072535	False	Streptococcus pyogenes strain 1966/14 chromosome, complete genome.	0	3
+GCA_041072725	False	Streptococcus pyogenes strain 9606/11 chromosome, complete genome.	0	3
+GCA_041072835	False	Streptococcus pyogenes strain 1510/08 chromosome, complete genome.	0	3
+GCA_041073745	False	Streptococcus pyogenes strain 997/08 chromosome, complete genome.	0	3
+GCA_041074175	False	Streptococcus pyogenes strain 1851/03 chromosome, complete genome.	0	2
+GCA_041074825	False	Streptococcus pyogenes strain 400/03 chromosome, complete genome.	0	3
+GCA_041081565	False	Streptococcus hillyeri strain S23-3001-2 chromosome, complete genome.	0	5
+GCA_041081655	False	Streptococcus hillyeri strain S23-3001-1 chromosome, complete genome.	0	5
+GCA_041154385	False	Streptococcus sp. SN-1 DNA, complete genome.	0	6
+GCA_041154395	False	Streptococcus pneumoniae 16P28 DNA, complete genome.	0	6
+GCA_041154405	False	Streptococcus pneumoniae 16P29 DNA, complete genome.	0	6
+GCA_041228315	False	Streptococcus pneumoniae strain serotype 4 chromosome, complete genome.	0	5
+GCA_041429915	False	Streptococcus pyogenes strain Isolate 34 chromosome, complete genome.	0	3
+GCA_041429935	False	Streptococcus pyogenes strain Isolate 35 chromosome, complete genome.	0	3
+GCA_041429945	False	Streptococcus pyogenes strain Isolate 33 chromosome, complete genome.	0	3
+GCA_041430105	False	Streptococcus pyogenes strain Isolate 31 chromosome, complete genome.	0	3
+GCA_041430535	False	Streptococcus pyogenes strain Isolate 30 chromosome, complete genome.	0	3
+GCA_041430835	False	Streptococcus pyogenes strain Isolate 29 chromosome, complete genome.	0	3
+GCA_041430845	False	Streptococcus pyogenes strain Isolate 28 chromosome, complete genome.	0	3
+GCA_041430855	False	Streptococcus pyogenes strain Isolate 27 chromosome, complete genome.	0	3
+GCA_041430865	False	Streptococcus pyogenes strain Isolate 26 chromosome, complete genome.	0	3
+GCA_041430875	False	Streptococcus pyogenes strain Isolate 23 chromosome, complete genome.	0	3
+GCA_041430885	False	Streptococcus pyogenes strain Isolate 24 chromosome, complete genome.	0	3
+GCA_041430895	False	Streptococcus pyogenes strain Isolate 22 chromosome, complete genome.	0	3
+GCA_041430905	False	Streptococcus pyogenes strain Isolate 20 chromosome, complete genome.	0	3
+GCA_041430915	False	Streptococcus pyogenes strain Isolate 18 chromosome, complete genome.	0	3
+GCA_041430925	False	Streptococcus pyogenes strain Isolate 17 chromosome, complete genome.	0	3
+GCA_041430935	False	Streptococcus pyogenes strain Isolate 16 chromosome, complete genome.	0	3
+GCA_041430945	False	Streptococcus pyogenes strain Isolate 11 chromosome, complete genome.	0	3
+GCA_041430955	False	Streptococcus pyogenes strain Isolate 12 chromosome, complete genome.	0	3
+GCA_041430965	False	Streptococcus pyogenes strain Isolate 10 chromosome, complete genome.	0	3
+GCA_041430975	False	Streptococcus pyogenes strain Isolate 9 chromosome, complete genome.	0	3
+GCA_041430985	False	Streptococcus pyogenes strain Isolate 8 chromosome, complete genome.	0	3
+GCA_041430995	False	Streptococcus pyogenes strain Isolate 7 chromosome, complete genome.	0	3
+GCA_041431005	False	Streptococcus pyogenes strain Isolate 6 chromosome, complete genome.	0	3
+GCA_041431015	False	Streptococcus pyogenes strain Isolate 4 chromosome, complete genome.	0	3
+GCA_041431025	False	Streptococcus pyogenes strain Isolate 5 chromosome, complete genome.	0	3
+GCA_041431035	False	Streptococcus pyogenes strain Isolate 3 chromosome, complete genome.	0	3
+GCA_041431045	False	Streptococcus pyogenes strain Isolate 2 chromosome, complete genome.	0	2
+GCA_041431055	False	Streptococcus pyogenes strain Isolate 1 chromosome, complete genome.	0	3
+GCA_041447185	False	Streptococcus pyogenes strain Isolate 32 chromosome, complete genome.	0	3
+GCA_041447195	False	Streptococcus pyogenes strain Isolate 13 chromosome, complete genome.	0	3
+GCA_041509385	False	Streptococcus thermophilus strain S24750 chromosome, complete genome.	2	5
+GCA_041510115	False	Streptococcus thermophilus strain S24749 chromosome, complete genome.	2	4
+GCA_041510825	False	Streptococcus thermophilus strain S24747 chromosome, complete genome.	2	4
+GCA_041511495	False	Streptococcus thermophilus strain S24746 chromosome, complete genome.	2	6
+GCA_041512205	False	Streptococcus thermophilus strain S24745 chromosome, complete genome.	2	6
+GCA_041512935	False	Streptococcus thermophilus strain S24743 chromosome, complete genome.	1	4
+GCA_041513585	False	Streptococcus thermophilus strain S24742 chromosome, complete genome.	2	5
+GCA_041514255	False	Streptococcus thermophilus strain S24736 chromosome, complete genome.	2	3
+GCA_041514265	False	Streptococcus thermophilus strain S24735 chromosome, complete genome.	1	3
+GCA_041514275	False	Streptococcus thermophilus strain S24734 chromosome, complete genome.	1	3
+GCA_041514285	False	Streptococcus thermophilus strain S24733 chromosome, complete genome.	2	5
+GCA_041514295	False	Streptococcus thermophilus strain S24732 chromosome, complete genome.	2	5
+GCA_041514325	False	Streptococcus thermophilus strain S24730 chromosome, complete genome.	2	4
+GCA_041514335	False	Streptococcus thermophilus strain S24728 chromosome, complete genome.	1	3
+GCA_041514345	False	Streptococcus thermophilus strain S24726 chromosome, complete genome.	2	4
+GCA_041514355	False	Streptococcus thermophilus strain S24724 chromosome, complete genome.	1	3
+GCA_041720885	False	Streptococcus pneumoniae strain FC2 chromosome, complete genome.	0	3
+GCA_041728555	False	Streptococcus agalactiae strain SA2BKE chromosome, complete genome.	0	2
+GCA_041729265	False	Streptococcus pneumoniae strain FC1 chromosome, complete genome.	0	5
+GCA_041804565	False	Streptococcus agalactiae strain GBS-B4009 chromosome, complete genome.	0	2
+GCA_041893975	False	Streptococcus thermophilus strain S24748 chromosome, complete genome.	2	5
+GCA_041937135	False	Streptococcus pneumoniae strain 20234295 chromosome, complete genome.	0	4
+GCA_041937145	False	Streptococcus pneumoniae strain 20155336 chromosome, complete genome.	0	4
+GCA_041937155	False	Streptococcus pneumoniae strain 20234287 chromosome, complete genome.	0	5
+GCA_041955655	False	Streptococcus pneumoniae strain 6_2F1 chromosome, complete genome.	0	8
+GCA_042140045	False	Streptococcus nidrosiense strain SO-23-1 chromosome, complete genome.	0	4
+GCA_042649745_1	True	Streptococcus caprae strain CCUG 67170 velvet_auto_127_53, whole genome shotgun sequence	0	0
+GCA_042649885_1	True	Streptococcus dentapri strain CCUG 58728 GCM70011762_74, whole genome shotgun sequence	0	0
+GCA_042656225_1	True	Streptococcus caledonicus strain CCUG 73951 velvet_auto_105_33, whole genome shotgun sequence	0	3
+GCA_042821045	False	Streptococcus dysgalactiae subsp. equisimilis strain MGGS36030 chromosome, complete genome.	0	3
+GCA_042821135	False	Streptococcus dysgalactiae subsp. equisimilis strain MGGS36021 chromosome, complete genome.	0	3
+GCA_042822305	False	Streptococcus dysgalactiae subsp. equisimilis strain MGGS35977 chromosome, complete genome.	0	4
+GCA_042822795	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36101 chromosome, complete genome.	1	3
+GCA_042823405	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36090 chromosome, complete genome.	1	2
+GCA_042823915	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36086 chromosome, complete genome.	1	3
+GCA_042824005	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36085 chromosome, complete genome.	1	3
+GCA_042824935	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36071 chromosome, complete genome.	2	2
+GCA_042825465	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36067 chromosome, complete genome.	1	3
+GCA_042826005	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36066 chromosome, complete genome.	1	3
+GCA_042826515	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36061 chromosome, complete genome.	1	3
+GCA_042826985	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36060 chromosome, complete genome.	1	3
+GCA_042827775	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36051 chromosome, complete genome.	1	3
+GCA_042828865	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36049 chromosome, complete genome.	1	3
+GCA_042829395	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36046 chromosome, complete genome.	1	3
+GCA_042829845	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36045 chromosome, complete genome.	1	3
+GCA_042830455	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36042 chromosome, complete genome.	1	3
+GCA_042830985	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36038 chromosome, complete genome.	0	2
+GCA_042831615	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36035 chromosome, complete genome.	1	3
+GCA_042832205	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36034 chromosome, complete genome.	1	3
+GCA_042832795	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36033 chromosome, complete genome.	0	2
+GCA_042833365	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36028 chromosome, complete genome.	1	3
+GCA_042833835	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36025 chromosome, complete genome.	1	3
+GCA_042834645	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36023 chromosome, complete genome.	1	3
+GCA_042835325	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36020 chromosome, complete genome.	1	3
+GCA_042835875	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36018 chromosome, complete genome.	1	3
+GCA_042836465	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36016 chromosome, complete genome.	1	3
+GCA_042836995	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36014 chromosome, complete genome.	1	3
+GCA_042837585	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36011 chromosome, complete genome.	1	3
+GCA_042838115	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36009 chromosome, complete genome.	1	3
+GCA_042838705	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36005 chromosome, complete genome.	0	2
+GCA_042839455	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS36000 chromosome, complete genome.	1	3
+GCA_042839885	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35999 chromosome, complete genome.	1	3
+GCA_042840455	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35997 chromosome, complete genome.	1	3
+GCA_042840885	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35988 chromosome, complete genome.	1	3
+GCA_042841075	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35987 chromosome, complete genome.	1	3
+GCA_042841845	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35984 chromosome, complete genome.	2	3
+GCA_042842215	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35983 chromosome, complete genome.	1	3
+GCA_042842865	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35980 chromosome, complete genome.	1	3
+GCA_042843455	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35978 chromosome, complete genome.	1	3
+GCA_042844005	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35973 chromosome, complete genome.	1	3
+GCA_042844555	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35972 chromosome, complete genome.	1	3
+GCA_042845125	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35970 chromosome, complete genome.	1	2
+GCA_042845655	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35965 chromosome, complete genome.	0	3
+GCA_042847285	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35960 chromosome, complete genome.	1	3
+GCA_042848965	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35953 chromosome, complete genome.	1	3
+GCA_042850475	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35952 chromosome, complete genome.	1	3
+GCA_042852015	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35941 chromosome, complete genome.	1	3
+GCA_042853255	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35940 chromosome, complete genome.	1	3
+GCA_042854115	False	Streptococcus pasteurianus k46-0107-A9 DNA, complete genome.	0	3
+GCA_042854585	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35939 chromosome, complete genome.	1	3
+GCA_042855555	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35926 chromosome, complete genome.	0	3
+GCA_042856145	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35921 chromosome, complete genome.	1	3
+GCA_042856795	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35917 chromosome, complete genome.	1	3
+GCA_042857585	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35907 chromosome, complete genome.	1	3
+GCA_042858075	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35904 chromosome, complete genome.	1	3
+GCA_042858705	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35901 chromosome, complete genome.	1	2
+GCA_042859375	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35898 chromosome, complete genome.	1	3
+GCA_042859885	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35894 chromosome, complete genome.	1	3
+GCA_042860615	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35893 chromosome, complete genome.	1	3
+GCA_042861675	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35892 chromosome, complete genome.	1	3
+GCA_042863435	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35887 chromosome, complete genome.	1	3
+GCA_042866015	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35876 chromosome, complete genome.	1	3
+GCA_042868505	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35873 chromosome, complete genome.	1	3
+GCA_042871315	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35871 chromosome, complete genome.	1	3
+GCA_042873075	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35869 chromosome, complete genome.	1	3
+GCA_042876235	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35868 chromosome, complete genome.	1	3
+GCA_042878675	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35867 chromosome, complete genome.	1	3
+GCA_042881415	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35861 chromosome, complete genome.	1	3
+GCA_042884265	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35858 chromosome, complete genome.	1	3
+GCA_042887365	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35856 chromosome, complete genome.	1	3
+GCA_042890665	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35855 chromosome, complete genome.	1	3
+GCA_042895565	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35853 chromosome, complete genome.	1	3
+GCA_042899835	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35850 chromosome, complete genome.	1	3
+GCA_042902765	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35844 chromosome, complete genome.	1	3
+GCA_042903515	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35838 chromosome, complete genome.	1	3
+GCA_042904165	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35828 chromosome, complete genome.	1	3
+GCA_042904735	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35822 chromosome, complete genome.	1	3
+GCA_042905385	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35817 chromosome, complete genome.	1	3
+GCA_042905975	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35810 chromosome, complete genome.	1	3
+GCA_042906585	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35808 chromosome, complete genome.	1	3
+GCA_042907155	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35799 chromosome, complete genome.	1	3
+GCA_042907745	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35798 chromosome, complete genome.	1	3
+GCA_042908255	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35785 chromosome, complete genome.	1	3
+GCA_042908825	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35780 chromosome, complete genome.	1	3
+GCA_042909395	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35777 chromosome, complete genome.	1	3
+GCA_042909985	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35757 chromosome, complete genome.	1	3
+GCA_042910495	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35755 chromosome, complete genome.	1	3
+GCA_042911105	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35754 chromosome, complete genome.	1	3
+GCA_042911635	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35744 chromosome, complete genome.	1	3
+GCA_042912165	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35741 chromosome, complete genome.	1	3
+GCA_042912675	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35737 chromosome, complete genome.	1	3
+GCA_042913305	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35730 chromosome, complete genome.	1	3
+GCA_042913815	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35725 chromosome, complete genome.	1	3
+GCA_042914585	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35718 chromosome, complete genome.	1	3
+GCA_042914955	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35716 chromosome, complete genome.	1	3
+GCA_042915565	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35714 chromosome, complete genome.	1	3
+GCA_042916075	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35713 chromosome, complete genome.	1	3
+GCA_042916705	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35710 chromosome, complete genome.	1	3
+GCA_042917235	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35707 chromosome, complete genome.	1	3
+GCA_042917805	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35706 chromosome, complete genome.	1	3
+GCA_042918355	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35705 chromosome, complete genome.	1	3
+GCA_042918885	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35698 chromosome, complete genome.	1	3
+GCA_042920665	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35703 chromosome, complete genome.	1	3
+GCA_042921085	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35689 chromosome, complete genome.	1	3
+GCA_042921695	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35685 chromosome, complete genome.	1	3
+GCA_042922305	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35681 chromosome, complete genome.	1	3
+GCA_042922855	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35679 chromosome, complete genome.	1	3
+GCA_042923325	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35678 chromosome, complete genome.	1	3
+GCA_042924555	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35665 chromosome, complete genome.	1	3
+GCA_042925125	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35660 chromosome, complete genome.	1	3
+GCA_042925415	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35648 chromosome, complete genome.	1	3
+GCA_042925425	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35642 chromosome, complete genome.	1	3
+GCA_042925715	False	Streptococcus dysgalactiae subsp. equisimilis strain MGCS35633 chromosome, complete genome.	1	3
+GCA_042926125	False	Streptococcus dysgalactiae subsp. equisimilis strain MGAS35772 chromosome, complete genome.	0	3
+GCA_043099355	False	Streptococcus parasuis strain FZ1 chromosome, complete genome.	1	3
+GCA_043099365	False	Streptococcus parasuis strain FZ2 chromosome, complete genome.	0	2
+GCA_043231225	False	Streptococcus pyogenes M1 GAS strain SF370 chromosome, complete genome.	0	3
+GCA_043507435	False	Streptococcus anginosus strain CGMH_KH1 chromosome, complete genome.	0	1
+GCA_043656315_1	True	Streptococcus hepaticus strain 20-1249 9, whole genome shotgun sequence	0	0
+GCA_043702715	False	Streptococcus parauberis strain DB-WT chromosome, complete genome.	1	1
+GCA_043703385	False	Streptococcus parauberis strain DB-M1 chromosome, complete genome.	1	1
+GCA_043704035	False	Streptococcus parauberis strain DB-M3 chromosome, complete genome.	1	1
+GCA_043704665	False	Streptococcus parauberis strain DB-M5 chromosome, complete genome.	1	1
+GCA_043705335	False	Streptococcus parauberis strain DB-M9 chromosome, complete genome.	1	1
+GCA_043705905	False	Streptococcus parauberis strain DB-M11 chromosome, complete genome.	1	1
+GCA_043706535	False	Streptococcus parauberis strain DB-M18 chromosome, complete genome.	1	1
+GCA_043707145	False	Streptococcus parauberis strain DB-M23 chromosome, complete genome.	1	1
+GCA_043707715	False	Streptococcus parauberis strain DB-M17 chromosome, complete genome.	1	1
+GCA_044360185	False	Streptococcus mutans strain LMG 14558 chromosome, complete genome.	0	3
+GCA_044360805	False	Streptococcus pyogenes strain 20154608 chromosome, complete genome.	0	3
+GCA_044360885	False	Streptococcus pyogenes strain 20200554 chromosome, complete genome.	0	3
+GCA_044360945	False	Streptococcus pyogenes strain 20203206 chromosome, complete genome.	0	3
+GCA_044361035	False	Streptococcus pyogenes strain 20192362 chromosome, complete genome.	0	3
+GCA_044361075	False	Streptococcus pyogenes strain 20154051 chromosome, complete genome.	0	3
+GCA_044361135	False	Streptococcus pyogenes strain 20164915 chromosome, complete genome.	0	3
+GCA_044361195	False	Streptococcus pyogenes strain 20181688 chromosome, complete genome.	0	3
+GCA_044361245	False	Streptococcus pyogenes strain 20185322 chromosome, complete genome.	0	3
+GCA_044361285	False	Streptococcus pyogenes strain 20160179 chromosome, complete genome.	0	3
+GCA_044361625	False	Streptococcus parasuis strain 1628469 chromosome, complete genome.	0	2
+GCA_044361715	False	Streptococcus suis strain MY1C3_3B chromosome, complete genome.	0	2
+GCA_044503215	False	Streptococcus sp. ZJ 1593 chromosome, complete genome.	0	1
+GCA_044740735	False	Streptococcus mutans strain DPC6143 chromosome, complete genome.	1	4
+GCA_044879805	False	Streptococcus pneumoniae strain 262 chromosome, complete genome.	0	7
+GCA_045159845	False	Streptococcus thermophilus strain 4134 chromosome, complete genome.	1	7
+GCA_045159855	False	Streptococcus thermophilus strain MM8 chromosome, complete genome.	2	5
+GCA_045159865	False	Streptococcus thermophilus strain RR chromosome, complete genome.	3	7
+GCA_045290375	False	Streptococcus pyogenes strain MGAS37817 chromosome, complete genome.	0	3
+GCA_045290385	False	Streptococcus pyogenes strain MGAS37822 chromosome, complete genome.	0	3
+GCA_045290395	False	Streptococcus pyogenes strain MGAS37823 chromosome, complete genome.	0	3
+GCA_045290405	False	Streptococcus pyogenes strain MGAS37829 chromosome, complete genome.	0	3
+GCA_045290415	False	Streptococcus pyogenes strain MGAS37837 chromosome, complete genome.	0	3
+GCA_045290435	False	Streptococcus pyogenes strain MGAS37843 chromosome, complete genome.	0	3
+GCA_045290545	False	Streptococcus pyogenes strain MGAS37844 chromosome, complete genome.	0	3
+GCA_045290615	False	Streptococcus pyogenes strain MGAS37850 chromosome, complete genome.	0	3
+GCA_045290705	False	Streptococcus pyogenes strain MGAS37857 chromosome, complete genome.	0	3
+GCA_045290995	False	Streptococcus pyogenes strain MGAS38345 chromosome, complete genome.	0	3
+GCA_045345455	False	Streptococcus pyogenes strain EMM113 chromosome, complete genome.	0	3
+GCA_045345565	False	Streptococcus dysgalactiae subsp. equisimilis strain STG643 chromosome, complete genome.	1	5
+GCA_045345895	False	Streptococcus pyogenes strain GAS strain MGAS2221 chromosome, complete genome.	0	2
+GCA_045690025	False	Streptococcus pyogenes strain MGAS37826 chromosome, complete genome.	0	3
+GCA_045690035	False	Streptococcus pyogenes strain MGAS37828 chromosome, complete genome.	0	3
+GCA_045690045	False	Streptococcus pyogenes strain MGAS37831 chromosome, complete genome.	0	3
+GCA_045690055	False	Streptococcus pyogenes strain MGAS37832 chromosome, complete genome.	0	3
+GCA_045690065	False	Streptococcus pyogenes strain MGAS37833 chromosome, complete genome.	0	3
+GCA_045690075	False	Streptococcus pyogenes strain MGAS37834 chromosome, complete genome.	0	3
+GCA_045690085	False	Streptococcus pyogenes strain MGAS37836 chromosome, complete genome.	0	3
+GCA_045690095	False	Streptococcus pyogenes strain MGAS37839 chromosome, complete genome.	0	3
+GCA_045690105	False	Streptococcus pyogenes strain MGAS37842 chromosome, complete genome.	0	3
+GCA_045690115	False	Streptococcus pyogenes strain MGAS37847 chromosome, complete genome.	0	3
+GCA_045690125	False	Streptococcus pyogenes strain MGAS37848 chromosome, complete genome.	0	3
+GCA_045690135	False	Streptococcus pyogenes strain MGAS37849 chromosome, complete genome.	0	3
+GCA_045690145	False	Streptococcus pyogenes strain MGAS37853 chromosome, complete genome.	0	3
+GCA_045690155	False	Streptococcus pyogenes strain MGAS37854 chromosome, complete genome.	0	3
+GCA_045690165	False	Streptococcus pyogenes strain MGAS37859 chromosome, complete genome.	0	3
+GCA_045690175	False	Streptococcus pyogenes strain MGAS37861 chromosome, complete genome.	0	3
+GCA_045690185	False	Streptococcus pyogenes strain MGAS37637 chromosome, complete genome.	0	3
+GCA_045690195	False	Streptococcus pyogenes strain MGAS37641 chromosome, complete genome.	0	3
+GCA_045690205	False	Streptococcus pyogenes strain MGAS37642 chromosome, complete genome.	0	3
+GCA_045690215	False	Streptococcus pyogenes strain MGAS37644 chromosome, complete genome.	0	3
+GCA_045690225	False	Streptococcus pyogenes strain MGAS37674 chromosome, complete genome.	0	3
+GCA_045690235	False	Streptococcus pyogenes strain MGAS38289 chromosome, complete genome.	0	3
+GCA_045690245	False	Streptococcus pyogenes strain MGAS38337 chromosome, complete genome.	0	3
+GCA_045690255	False	Streptococcus pyogenes strain MGAS38343 chromosome, complete genome.	0	3
+GCA_045690265	False	Streptococcus pyogenes strain MGAS38362 chromosome, complete genome.	0	3
+GCA_046245185	False	Streptococcus suis strain KKAHC02 chromosome, complete genome.	1	4
+GCA_046352925	False	Streptococcus sp. KHUD_011 chromosome KHUD011, complete sequence.	2	7
+GCA_046529645	False	Streptococcus agalactiae strain HU05/19 chromosome, complete genome.	0	2
+GCA_046529655	False	Streptococcus agalactiae strain MA07 chromosome, complete genome.	0	2
+GCA_046529665	False	Streptococcus agalactiae strain HU13/21 chromosome, complete genome.	0	3
+GCA_046529675	False	Streptococcus agalactiae strain HU32/21 chromosome, complete genome.	0	3
+GCA_046529685	False	Streptococcus agalactiae strain HU36/21 chromosome, complete genome.	0	2
+GCA_046529705	False	Streptococcus agalactiae strain MA15 chromosome, complete genome.	0	2
+GCA_046529745	False	Streptococcus sp. VEG1o chromosome, complete genome.	0	0
+GCA_046529765	False	Streptococcus sp. LysM4 chromosome, complete genome.	0	0
+GCA_046531375	False	Streptococcus salivarius strain KSS1 chromosome, complete genome.	0	2
+GCA_046531385	False	Streptococcus salivarius strain KSS11 chromosome, complete genome.	0	2
+GCA_046531395	False	Streptococcus salivarius strain KSS3 chromosome, complete genome.	0	2
+GCA_046531505	False	Streptococcus salivarius strain KSS2 chromosome, complete genome.	0	2
+GCA_046531515	False	Streptococcus salivarius strain KSS4 chromosome, complete genome.	0	3
+GCA_046531525	False	Streptococcus salivarius strain KSS6 chromosome, complete genome.	0	3
+GCA_046531535	False	Streptococcus salivarius strain KSS7 chromosome, complete genome.	0	2
+GCA_046531545	False	Streptococcus salivarius strain KSS8 chromosome, complete genome.	0	2
+GCA_046531555	False	Streptococcus salivarius strain KSS9 chromosome, complete genome.	0	1
+GCA_046531605	False	Streptococcus salivarius strain KSS10 chromosome, complete genome.	0	2
+GCA_046531615	False	Streptococcus salivarius strain KSS12 chromosome, complete genome.	0	3
+GCA_046531625	False	Streptococcus salivarius strain KSS5 chromosome, complete genome.	0	3
+GCA_046603845	False	Streptococcus anginosus strain SFAD 40 chromosome, complete genome.	0	1
+GCA_046763045	False	Streptococcus salivarius strain MRD-NRLLH chromosome, complete genome.	0	3
+GCA_046763055	False	Streptococcus salivarius strain MRD-KRBY chromosome, complete genome.	0	4
+GCA_046763065	False	Streptococcus salivarius strain MRD1919 chromosome, complete genome.	0	3
+GCA_046763075	False	Streptococcus salivarius strain MRD6060 chromosome, complete genome.	0	4
+GCA_050314295_1	True	Streptococcus hyointestinalis strain SGI.104 HD223_243, whole genome shotgun sequence	0	0
+GCA_900078265	False	Streptococcus agalactiae isolate SA111 genome assembly, chromosome: I	0	2
+GCA_900094135	False	Streptococcus thermophilus strain ACA-DC 2 genome assembly, chromosome: I	1	4
+GCA_900095845_1	True	Streptococcus timonensis strain Marseille-P2915, whole genome shotgun sequence	0	2
+GCA_900143575	False	Streptococcus suis strain LS9N genome assembly, chromosome: I	0	4
+GCA_900155855	False	Streptococcus agalactiae isolate BM110 genome assembly, chromosome: I	0	2
+GCA_900187085	False	Streptococcus merionis strain NCTC13788 genome assembly, chromosome: 1	0	7
+GCA_900187245	False	Streptococcus acidominimus strain NCTC11291 genome assembly, chromosome: 1	0	2
+GCA_900459175_1	True	Streptococcus downei MFe28 strain NCTC 11391, whole genome shotgun sequence	0	1
+GCA_900459215_1	True	Streptococcus criceti strain NCTC12277, whole genome shotgun sequence	0	0
+GCA_900459365_1	True	Streptococcus massiliensis strain NCTC13765, whole genome shotgun sequence	0	2
+GCA_900459485_1	True	Streptococcus macacae NCTC 11558, whole genome shotgun sequence	0	2
+GCA_900474455	False	Streptococcus pyogenes strain NCTC8225 genome assembly, chromosome: 1	0	3
+GCA_900474645	False	Streptococcus pyogenes strain NCTC5163 genome assembly, chromosome: 1	0	3
+GCA_900474745	False	Streptococcus pyogenes strain NCTC12059 genome assembly, chromosome: 1	0	3
+GCA_900474765	False	Streptococcus pyogenes strain NCTC8314 genome assembly, chromosome: 1	0	3
+GCA_900474775	False	Streptococcus pyogenes strain NCTC12066 genome assembly, chromosome: 1	0	3
+GCA_900474785	False	Streptococcus dysgalactiae subsp. equisimilis strain NCTC5370 genome assembly, chromosome: 1	0	4
+GCA_900474795	False	Streptococcus pyogenes strain NCTC5164 genome assembly, chromosome: 1	0	3
+GCA_900474805	False	Streptococcus equi subsp. zooepidemicus strain NCTC7022 genome assembly, chromosome: 1	3	8
+GCA_900474815	False	Streptococcus pyogenes strain NCTC8300 genome assembly, chromosome: 1	0	3
+GCA_900474825	False	Streptococcus pyogenes strain NCTC12045 genome assembly, chromosome: 1	0	3
+GCA_900474835	False	Streptococcus pyogenes strain NCTC12069 genome assembly, chromosome: 1	0	3
+GCA_900474845	False	Streptococcus pyogenes strain NCTC12057 genome assembly, chromosome: 1	0	3
+GCA_900474855	False	Streptococcus pyogenes strain NCTC8328 genome assembly, chromosome: 1	0	3
+GCA_900474865	False	Streptococcus pyogenes strain NCTC12058 genome assembly, chromosome: 1	0	3
+GCA_900474875	False	Streptococcus equi subsp. zooepidemicus strain NCTC12090 genome assembly, chromosome: 1	2	7
+GCA_900474885	False	Streptococcus pyogenes strain NCTC12046 genome assembly, chromosome: 1	0	3
+GCA_900474895	False	Streptococcus pyogenes strain NCTC12696 genome assembly, chromosome: 1	0	3
+GCA_900474905	False	Streptococcus agalactiae strain NCTC11930 genome assembly, chromosome: 1	0	2
+GCA_900474915	False	Streptococcus pyogenes strain NCTC12048 genome assembly, chromosome: 1	0	3
+GCA_900474925	False	Streptococcus pyogenes strain NCTC12050 genome assembly, chromosome: 1	0	3
+GCA_900474935	False	Streptococcus pyogenes strain NCTC12047 genome assembly, chromosome: 1	0	3
+GCA_900474945	False	Streptococcus pyogenes strain NCTC8316 genome assembly, chromosome: 1	0	3
+GCA_900474955	False	Streptococcus pyogenes strain NCTC8332 genome assembly, chromosome: 1	0	3
+GCA_900474965	False	Streptococcus pyogenes strain NCTC8231 genome assembly, chromosome: 1	0	3
+GCA_900474975	False	Streptococcus pyogenes strain NCTC12052 genome assembly, chromosome: 1	0	3
+GCA_900474985	False	Streptococcus thermophilus strain NCTC12958 genome assembly, chromosome: 1	3	5
+GCA_900474995	False	Streptococcus pyogenes strain NCTC12840 genome assembly, chromosome: 1	0	3
+GCA_900475005	False	Streptococcus pyogenes strain NCTC12062 genome assembly, chromosome: 1	0	3
+GCA_900475015	False	Streptococcus gordonii strain NCTC7865 genome assembly, chromosome: 1	0	4
+GCA_900475025	False	Streptococcus ferus strain NCTC12278 genome assembly, chromosome: 1	1	2
+GCA_900475035	False	Streptococcus pyogenes strain NCTC12064 genome assembly, chromosome: 1	0	3
+GCA_900475045	False	Streptococcus sanguinis strain NCTC11085 genome assembly, chromosome: 1	0	5
+GCA_900475065	False	Streptococcus lutetiensis strain NCTC8738 genome assembly, chromosome: 1	0	5
+GCA_900475075	False	Streptococcus pyogenes strain NCTC8195 genome assembly, chromosome: 1	0	3
+GCA_900475085	False	Streptococcus pyogenes strain NCTC8324 genome assembly, chromosome: 1	0	3
+GCA_900475095	False	Streptococcus mutans strain NCTC10449 genome assembly, chromosome: 1	1	3
+GCA_900475105	False	Streptococcus pyogenes strain NCTC4001 genome assembly, chromosome: 1	0	3
+GCA_900475115	False	Streptococcus pyogenes strain NCTC8326 genome assembly, chromosome: 1	0	3
+GCA_900475125	False	Streptococcus equi subsp. zooepidemicus strain NCTC11606 genome assembly, chromosome: 1	1	6
+GCA_900475135	False	Streptococcus pyogenes strain NCTC12067 genome assembly, chromosome: 1	0	3
+GCA_900475145	False	Streptococcus dysgalactiae subsp. equisimilis strain NCTC5371 genome assembly, chromosome: 1	0	3
+GCA_900475155	False	Streptococcus pyogenes strain NCTC12068 genome assembly, chromosome: 1	0	3
+GCA_900475165	False	Streptococcus pyogenes strain NCTC8230 genome assembly, chromosome: 1	0	4
+GCA_900475175	False	Streptococcus pyogenes strain NCTC10876 genome assembly, chromosome: 1	0	3
+GCA_900475185	False	Streptococcus dysgalactiae subsp. equisimilis strain NCTC6179 genome assembly, chromosome: 1	0	4
+GCA_900475225	False	Streptococcus salivarius strain NCTC7366 genome assembly, chromosome: 1	1	3
+GCA_900475255	False	Streptococcus dysgalactiae subsp. equisimilis strain NCTC9414 genome assembly, chromosome: 1	0	3
+GCA_900475275	False	Streptococcus sanguinis strain NCTC11086 genome assembly, chromosome: 1	0	3
+GCA_900475295	False	Streptococcus equi subsp. zooepidemicus strain NCTC6176 genome assembly, chromosome: 1	0	6
+GCA_900475305	False	Streptococcus pneumoniae strain NCTC7466 genome assembly, chromosome: 1	0	7
+GCA_900475335	False	Streptococcus pyogenes strain NCTC8322 genome assembly, chromosome: 1	0	2
+GCA_900475355	False	Streptococcus agalactiae strain NCTC8187 genome assembly, chromosome: 1	0	2
+GCA_900475365	False	Streptococcus sobrinus strain NCTC10921 genome assembly, chromosome: 1	0	1
+GCA_900475385	False	Streptococcus gordonii strain NCTC3165 genome assembly, chromosome: 1	0	4
+GCA_900475395	False	Streptococcus sobrinus strain NCTC12279 genome assembly, chromosome: 1	0	1
+GCA_900475415	False	Streptococcus porcinus strain NCTC10999 genome assembly, chromosome: 1	0	2
+GCA_900475425	False	Streptococcus pyogenes strain NCTC10874 genome assembly, chromosome: 1	0	3
+GCA_900475435	False	Streptococcus equi subsp. zooepidemicus strain NCTC11824 genome assembly, chromosome: 1	2	9
+GCA_900475445	False	Streptococcus cristatus strain NCTC12479 genome assembly, chromosome: 1	0	2
+GCA_900475455	False	Streptococcus pyogenes strain NCTC10879 genome assembly, chromosome: 1	0	3
+GCA_900475465	False	Streptococcus pyogenes strain NCTC8224 genome assembly, chromosome: 1	0	3
+GCA_900475475	False	Streptococcus pyogenes strain NCTC13738 genome assembly, chromosome: 1	0	3
+GCA_900475485	False	Streptococcus pyogenes strain NCTC8320 genome assembly, chromosome: 1	0	3
+GCA_900475495	False	Streptococcus pyogenes strain NCTC13742 genome assembly, chromosome: 1	0	3
+GCA_900475505	False	Streptococcus sanguinis strain NCTC7863 genome assembly, chromosome: 1	0	4
+GCA_900475515	False	Streptococcus pneumoniae strain NCTC13276 genome assembly, chromosome: 1	0	7
+GCA_900475525	False	Streptococcus pyogenes strain NCTC13743 genome assembly, chromosome: 1	0	3
+GCA_900475565	False	Streptococcus pyogenes strain NCTC10880 genome assembly, chromosome: 1	0	3
+GCA_900475585	False	Streptococcus suis strain NCTC10234 genome assembly, chromosome: 1	1	1
+GCA_900475595	False	Streptococcus uberis strain NCTC3858 genome assembly, chromosome: 1	0	1
+GCA_900475615	False	Streptococcus pyogenes strain NCTC8227 genome assembly, chromosome: 1	0	3
+GCA_900475645	False	Streptococcus pyogenes strain NCTC10085 genome assembly, chromosome: 1	0	3
+GCA_900475675	False	Streptococcus lutetiensis strain NCTC13774 genome assembly, chromosome: 1	0	4
+GCA_900475695	False	Streptococcus uberis strain NCTC4674 genome assembly, chromosome: 1	0	1
+GCA_900475705	False	Streptococcus pyogenes strain NCTC13744 genome assembly, chromosome: 1	0	3
+GCA_900475715	False	Streptococcus gallolyticus strain NCTC13773 genome assembly, chromosome: 1	1	7
+GCA_900475725	False	Streptococcus dysgalactiae subsp. equisimilis strain NCTC7136 genome assembly, chromosome: 1	1	7
+GCA_900475765	False	Streptococcus pyogenes strain NCTC13736 genome assembly, chromosome: 1	0	3
+GCA_900475785	False	Streptococcus pyogenes strain NCTC10877 genome assembly, chromosome: 1	0	3
+GCA_900475795	False	Streptococcus pyogenes strain NCTC8304 genome assembly, chromosome: 1	0	3
+GCA_900475805	False	Streptococcus pneumoniae strain NCTC11902 genome assembly, chromosome: 1	0	6
+GCA_900475865	False	Streptococcus pyogenes strain NCTC13739 genome assembly, chromosome: 1	0	3
+GCA_900475875	False	Streptococcus pyogenes strain NCTC13737 genome assembly, chromosome: 1	0	3
+GCA_900475925	False	Streptococcus pyogenes strain NCTC12044 genome assembly, chromosome: 1	0	3
+GCA_900475955	False	Streptococcus pyogenes strain NCTC13745 genome assembly, chromosome: 1	0	3
+GCA_900475975	False	Streptococcus intermedius strain NCTC11324 genome assembly, chromosome: 1	3	4
+GCA_900475985	False	Streptococcus pyogenes strain NCTC13751 genome assembly, chromosome: 1	0	3
+GCA_900476015	False	Streptococcus pyogenes strain NCTC8370 genome assembly, chromosome: 1	0	3
+GCA_900476055	False	Streptococcus australis strain NCTC13166 genome assembly, chromosome: 1	0	4
+GCA_900476445	False	Streptococcus pneumoniae strain 4041STDY6836167 genome assembly, chromosome: 1	0	5
+GCA_900476455	False	Streptococcus pneumoniae strain 4041STDY6836169 genome assembly, chromosome: 1	0	6
+GCA_900476465	False	Streptococcus pneumoniae strain 4041STDY6836170 genome assembly, chromosome: 1	0	5
+GCA_900476475	False	Streptococcus pneumoniae strain 4041STDY6583227 genome assembly, chromosome: 1	0	6
+GCA_900476505	False	Streptococcus pneumoniae strain 4041STDY6836166 genome assembly, chromosome: 1	0	7
+GCA_900478025	False	Streptococcus pasteurianus strain NCTC13784 genome assembly, chromosome: 1	0	3
+GCA_900478185	False	Streptococcus cristatus strain NCTC13807 genome assembly, chromosome: 1	0	3
+GCA_900492165	False	Streptococcus thermophilus strain N4L genome assembly, chromosome: 1	5	7
+GCA_900608505	False	Streptococcus pyogenes strain S119 genome assembly, chromosome: 1	0	3
+GCA_900618545	False	Streptococcus pneumoniae strain 4496 genome assembly, chromosome: 1	0	5
+GCA_900618555	False	Streptococcus pneumoniae strain 947 genome assembly, chromosome: 1	0	6
+GCA_900618575	False	Streptococcus pneumoniae strain 180-2 genome assembly, chromosome: 1	0	6
+GCA_900618585	False	Streptococcus pneumoniae strain 180-15 genome assembly, chromosome: 1	0	6
+GCA_900619585	False	Streptococcus pyogenes strain 5448 genome assembly, chromosome: 1	0	3
+GCA_900619595	False	Streptococcus pyogenes strain SP444 genome assembly, chromosome: 1	0	3
+GCA_900619605	False	Streptococcus pyogenes strain HKU419 genome assembly, chromosome: 1	0	2
+GCA_900619615	False	Streptococcus pyogenes strain PS003 genome assembly, chromosome: 1	0	3
+GCA_900619625	False	Streptococcus pyogenes strain PS006 genome assembly, chromosome: 1	0	3
+GCA_900622505	False	Streptococcus pneumoniae strain 4559 genome assembly, chromosome: 1	0	6
+GCA_900635155	False	Streptococcus sanguinis strain NCTC10904 genome assembly, chromosome: 1	0	3
+GCA_900635345	False	Streptococcus dysgalactiae subsp. dysgalactiae strain NCTC4669 genome assembly, chromosome: 1	2	5
+GCA_900635935	False	Streptococcus lutetiensis strain NCTC11436 genome assembly, chromosome: 1	0	4
+GCA_900636365	False	Streptococcus viridans strain NCTC3166 genome assembly, chromosome: 1	0	2
+GCA_900636375	False	Streptococcus agalactiae strain NCTC8184 genome assembly, chromosome: 1	0	2
+GCA_900636415	False	Streptococcus equi subsp. equi strain NCTC12091 genome assembly, chromosome: 1	2	8
+GCA_900636425	False	Streptococcus pyogenes strain NCTC12060 genome assembly, chromosome: 1	0	3
+GCA_900636435	False	Streptococcus salivarius strain NCTC8618 genome assembly, chromosome: 1	0	2
+GCA_900636445	False	Streptococcus vestibularis strain NCTC12167 genome assembly, chromosome: 1	0	0
+GCA_900636465	False	Streptococcus equinus strain NCTC8140 genome assembly, chromosome: 1	0	5
+GCA_900636475	False	Streptococcus anginosus strain NCTC10713 genome assembly, chromosome: 1	0	3
+GCA_900636485	False	Streptococcus pyogenes strain NCTC8232 genome assembly, chromosome: 1	0	3
+GCA_900636505	False	Streptococcus australis strain NCTC3168 genome assembly, chromosome: 1	0	3
+GCA_900636525	False	Streptococcus milleri strain NCTC11169 genome assembly, chromosome: 1	0	3
+GCA_900636555	False	Streptococcus gordonii strain NCTC7868 genome assembly, chromosome: 1	0	4
+GCA_900636565	False	Streptococcus equinus strain NCTC10389 genome assembly, chromosome: 1	0	3
+GCA_900636575	False	Streptococcus canis strain NCTC12191 genome assembly, chromosome: 1	0	2
+GCA_900636585	False	Streptococcus pneumoniae strain NCTC12977 genome assembly, chromosome: 1	0	7
+GCA_900636715	False	Streptococcus milleri strain NCTC10708 genome assembly, chromosome: 1	0	4
+GCA_900636725	False	Streptococcus pyogenes strain NCTC8302 genome assembly, chromosome: 1	0	3
+GCA_900636805	False	Streptococcus equi subsp. zooepidemicus strain NCTC6180 genome assembly, chromosome: 1	0	7
+GCA_900636815	False	Streptococcus dysgalactiae subsp. equisimilis strain NCTC6181 genome assembly, chromosome: 1	0	4
+GCA_900636835	False	Streptococcus mutans strain NCTC10832 genome assembly, chromosome: 1	1	2
+GCA_900636885	False	Streptococcus urinalis strain NCTC13766 genome assembly, chromosome: 1	0	0
+GCA_900637025	False	Streptococcus oralis strain NCTC11427 genome assembly, chromosome: 1	0	2
+GCA_900637075	False	Streptococcus pseudoporcinus strain NCTC13786 genome assembly, chromosome: 1	0	2
+GCA_900637675	False	Streptococcus equi subsp. equi strain NCTC9682 genome assembly, chromosome: 1	0	7
+GCA_900638045	False	Streptococcus mutans strain NCTC10920 genome assembly, chromosome: 1	0	3
+GCA_900638415	False	Streptococcus agalactiae strain NCTC13949 genome assembly, chromosome: 1	0	2
+GCA_900638495	False	Streptococcus agalactiae strain NCTC13947 genome assembly, chromosome: 1	0	2
+GCA_900692935	False	Streptococcus pneumoniae isolate GPS_US_PATH396-sc-2296505 genome assembly, chromosome: 1	0	6
+GCA_900693025	False	Streptococcus pneumoniae strain 2245STDY6178787 genome assembly, chromosome: 1	0	4
+GCA_900693055	False	Streptococcus pneumoniae isolate 55896440-41bd-11e5-998e-3c4a9275d6c6 genome assembly, chromosome: 1	0	7
+GCA_900693075	False	Streptococcus pneumoniae isolate 569492b0-41bd-11e5-998e-3c4a9275d6c6 genome assembly, chromosome: 1	0	5
+GCA_900795205	False	Streptococcus pneumoniae isolate b04a6400-1f66-11e7-b93e-3c4a9275d6c8 genome assembly, chromosome: 1	0	6
+GCA_901472475	False	Streptococcus pyogenes strain NCTC8193 genome assembly, chromosome: 1	0	3
+GCA_901472575	False	Streptococcus equi subsp. zooepidemicus strain NCTC11854 genome assembly, chromosome: 1	1	6
+GCA_901482645	False	Streptococcus pyogenes strain NCTC8318 genome assembly, chromosome: 1	0	3
+GCA_901521425	False	Streptococcus canis strain B700072 genome assembly, chromosome: 1	2	3
+GCA_901542335	False	Streptococcus porcinus strain NCTC10710 genome assembly, chromosome: 1	0	3
+GCA_901542365	False	Streptococcus dysgalactiae subsp. equisimilis strain NCTC8546 genome assembly, chromosome: 1	0	6
+GCA_901542385	False	Streptococcus equi subsp. zooepidemicus strain NCTC4675 genome assembly, chromosome: 1	1	8
+GCA_901542435	False	Streptococcus pseudoporcinus strain NCTC5385 genome assembly, chromosome: 1	0	1
+GCA_901542485	False	Streptococcus anginosus strain NCTC11064 genome assembly, chromosome: 1	0	2
+GCA_901543175	False	Streptococcus australis strain NCTC5338 genome assembly, chromosome: 1	0	3
+GCA_901543415	False	Streptococcus gordonii strain NCTC9124 genome assembly, chromosome: 1	1	5
+GCA_901543475	False	Streptococcus equinus strain NCTC8133 genome assembly, chromosome: 1	0	5
+GCA_901543605	False	Streptococcus lutetiensis strain NCTC8796 genome assembly, chromosome: 1	0	4
+GCA_901543615	False	Streptococcus dysgalactiae subsp. equisimilis strain NCTC9413 genome assembly, chromosome: 1	0	6
+GCA_901543625	False	Streptococcus suis strain NCTC10237 genome assembly, chromosome: 1	0	1
+GCA_901543725	False	Streptococcus dysgalactiae strain NCTC6403 genome assembly, chromosome: 1	0	3
+GCA_901543995	False	Streptococcus dysgalactiae subsp. equisimilis strain NCTC11554 genome assembly, chromosome: 1	0	4
+GCA_901544215	False	Streptococcus dysgalactiae subsp. equisimilis strain NCTC11556 genome assembly, chromosome: 1	0	2
+GCA_901544385	False	Streptococcus gordonii strain NCTC10231 genome assembly, chromosome: 1	0	4
+GCA_901553735	False	Streptococcus porcinus strain NCTC10925 genome assembly, chromosome: 1	0	2
+GCA_901553755	False	Streptococcus porcinus strain NCTC10924 genome assembly, chromosome: 1	0	2
+GCA_902141215	False	Streptococcus sp. NCTC 11567 strain NCTC11567 genome assembly, chromosome: 1	0	3
+GCA_902141225	False	Streptococcus pseudoporcinus strain NCTC10228 genome assembly, chromosome: 1	0	2
+GCA_902702745	False	Streptococcus suis isolate 861160 genome assembly, chromosome: 1	0	0
+GCA_902702755	False	Streptococcus suis isolate S10 genome assembly, chromosome: 1	1	1
+GCA_902702765	False	Streptococcus suis isolate GD-0088 genome assembly, chromosome: 1	0	0
+GCA_902702775	False	Streptococcus suis isolate 9401240 genome assembly, chromosome: 1	0	1
+GCA_902702785	False	Streptococcus suis isolate GD-0001 genome assembly, chromosome: 1	0	0
+GCA_903645285_1	True	Streptococcus thalassemiae strain Marseille-Q2617, whole genome shotgun sequence	0	4
+GCA_903884415	False	Streptococcus thermophilus isolate STH_CIRM_16 genome assembly, chromosome: STHERMO	3	7
+GCA_903885985	False	Streptococcus thermophilus isolate STH_CIRM_18 genome assembly, chromosome: STHERMO	4	5
+GCA_903886075	False	Streptococcus thermophilus isolate STH_CIRM_19 genome assembly, chromosome: STHERMO	4	5
+GCA_903886195	False	Streptococcus thermophilus isolate STH_CIRM_23 genome assembly, chromosome: STHERMO	3	7
+GCA_903886205	False	Streptococcus thermophilus isolate STH_CIRM_29 genome assembly, chromosome: STHERMO	3	7
+GCA_903886285	False	Streptococcus thermophilus isolate STH_CIRM_30 genome assembly, chromosome: STHERMO	6	5
+GCA_903886345	False	Streptococcus thermophilus isolate STH_CIRM_32 genome assembly, chromosome: STHERMO	4	5
+GCA_903886385	False	Streptococcus thermophilus isolate STH_CIRM_36 genome assembly, chromosome: STHERMO	3	7
+GCA_903886475	False	Streptococcus thermophilus isolate STH_CIRM_65 genome assembly, chromosome: STHERMO	3	7
+GCA_903886505	False	Streptococcus thermophilus isolate STH_CIRM_336 genome assembly, chromosome: STHERMO	0	2
+GCA_903886595	False	Streptococcus thermophilus isolate STH_CIRM_956 genome assembly, chromosome: STHERMO	0	3
+GCA_903886635	False	Streptococcus thermophilus isolate STH_CIRM_772 genome assembly, chromosome: STHERMO	2	6
+GCA_903886645	False	Streptococcus thermophilus isolate STH_CIRM_368 genome assembly, chromosome: STHERMO	0	3
+GCA_903886745	False	Streptococcus thermophilus isolate STH_CIRM_961 genome assembly, chromosome: STHERMO	0	2
+GCA_903890635	False	Streptococcus thermophilus isolate STH_CIRM_967 genome assembly, chromosome: STHERMO	0	3
+GCA_903890695	False	Streptococcus thermophilus isolate STH_CIRM_998 genome assembly, chromosome: STHERMO	0	2
+GCA_903890795	False	Streptococcus thermophilus isolate STH_CIRM_1046 genome assembly, chromosome: STHERMO	4	6
+GCA_903890815	False	Streptococcus thermophilus isolate STH_CIRM_1035 genome assembly, chromosome: STHERMO	3	4
+GCA_903890825	False	Streptococcus thermophilus isolate STH_CIRM_1047 genome assembly, chromosome: STHERMO	4	7
+GCA_903890905	False	Streptococcus thermophilus isolate STH_CIRM_1048 genome assembly, chromosome: STHERMO	3	7
+GCA_903890925	False	Streptococcus thermophilus isolate STH_CIRM_1049 genome assembly, chromosome: STHERMO	3	7
+GCA_903890945	False	Streptococcus thermophilus isolate STH_CIRM_1050 genome assembly, chromosome: STHERMO	2	7
+GCA_903891015	False	Streptococcus thermophilus isolate STH_CIRM_1051 genome assembly, chromosome: STHERMO	5	6
+GCA_903891025	False	Streptococcus thermophilus isolate STH_CIRM_1055 genome assembly, chromosome: STHERMO	4	5
+GCA_903891105	False	Streptococcus thermophilus isolate STH_CIRM_1116 genome assembly, chromosome: STHERMO	3	7
+GCA_903891135	False	Streptococcus thermophilus isolate STH_CIRM_1121 genome assembly, chromosome: STHERMO	3	5
+GCA_903891195	False	Streptococcus thermophilus isolate STH_CIRM_1122 genome assembly, chromosome: STHERMO	3	7
+GCA_903891205	False	Streptococcus thermophilus isolate STH_CIRM_1125 genome assembly, chromosome: STHERMO	4	6
+GCA_903891245	False	Streptococcus thermophilus isolate STH_CIRM_1358 genome assembly, chromosome: STHERMO	3	4
+GCA_903891305	False	Streptococcus thermophilus isolate STH_CIRM_2101 genome assembly, chromosome: STHERMO	3	7
+GCA_903960675	False	Streptococcus thermophilus isolate STH_CIRM_67 genome assembly, chromosome: STHERMO	3	7
+GCA_930986525	False	Streptococcus pneumoniae strain RMV7 genome assembly, chromosome: 1	0	5
+GCA_940796315	False	Streptococcus sp. Marseille-Q3533 genome assembly, chromosome: contig00001	0	1
+GCA_943193075_1	True	Streptococcus caecimuris strain DSM 110150 NODE_44_length_2323_cov_57.871327, whole genome shotgun sequence	0	0
+GCA_946902905	False	Streptococcus sp. Marseille-Q6470 genome assembly, chromosome: contig00001	0	2
+GCA_947096915	False	Streptococcus suis isolate 861160_dxerD_hsdSA genome assembly, chromosome: 1	0	0
+GCA_947097575	False	Streptococcus suis isolate 861160_dxerD_hsdSE genome assembly, chromosome: 1	0	0
+GCA_947098765	False	Streptococcus suis isolate 861160_LM_H genome assembly, chromosome: 1	0	0
+GCA_947098835	False	Streptococcus suis isolate 861160_LM_A genome assembly, chromosome: 1	0	0
+GCA_947098855	False	Streptococcus suis isolate 861160_WT genome assembly, chromosome: 1	0	0
+GCA_947099305	False	Streptococcus suis isolate 861160_dhsdS genome assembly, chromosome: 1	0	0
+GCA_947313835	False	Streptococcus agalactiae isolate MRI Z2-336 genome assembly, chromosome: 23220_1_11_h	0	2
+GCA_948472335_1	True	Streptococcus bouchesdurhonensis strain Marseille-Q6994 contig00042, whole genome shotgun sequence	0	1
+GCA_949787155	False	Streptococcus agalactiae isolate MRI Z2-265 genome assembly, chromosome: 23495_7_299_h	0	2
+GCA_949787645	False	Streptococcus agalactiae isolate MRI Z2-329 genome assembly, chromosome: 23220_1_50_h	0	2
+GCA_949787715	False	Streptococcus agalactiae isolate MRI Z2-322 genome assembly, chromosome: 23220_1_89_h	0	2
+GCA_949788565	False	Streptococcus agalactiae isolate MRI Z2-174 genome assembly, chromosome: 23495_7_283_h	0	2
+GCA_949788745	False	Streptococcus agalactiae isolate MRI Z2-286 genome assembly, chromosome: 23495_7_372_h	0	2
+GCA_949788775	False	Streptococcus agalactiae isolate MRI Z2-335 genome assembly, chromosome: 23220_1_3_h	0	2
+GCA_949788785	False	Streptococcus agalactiae isolate MRI Z2-318 genome assembly, chromosome: 23220_1_57_h	1	3
+GCA_949788915	False	Streptococcus agalactiae isolate MRI Z2-304 genome assembly, chromosome: 23495_7_326_h	1	3
+GCA_949788925	False	Streptococcus agalactiae isolate MRI Z2-179 genome assembly, chromosome: 23495_7_322_h	0	2
+GCA_949788935	False	Streptococcus agalactiae isolate MRI Z2-328 genome assembly, chromosome: 23220_1_42_h	0	2
+GCA_949788945	False	Streptococcus agalactiae isolate MRI Z2-158 genome assembly, chromosome: 23495_7_344_h	1	3
+GCA_949789875	False	Streptococcus agalactiae isolate MRI Z2-299 genome assembly, chromosome: 23495_7_287_h	1	3
+GCA_949790125	False	Streptococcus agalactiae isolate MRI Z2-342 genome assembly, chromosome: 23220_1_59_h	0	2
+GCA_949790945	False	Streptococcus agalactiae isolate MRI Z2-172 genome assembly, chromosome: 23495_7_361_h	0	2
+GCA_949791205	False	Streptococcus agalactiae isolate MRI Z2-307 genome assembly, chromosome: 23495_7_350_h	0	2
+GCA_949792585	False	Streptococcus agalactiae isolate MRI Z2-338 genome assembly, chromosome: 23220_1_27_h	0	2
+GCA_949793775	False	Streptococcus agalactiae isolate MRI Z2-149 genome assembly, chromosome: 23495_7_367_h	0	2
+GCA_949794475	False	Streptococcus agalactiae isolate MRI Z2-182 genome assembly, chromosome: 23495_7_346_l	0	2
+GCA_951392265	False	Streptococcus agalactiae isolate MRI Z2-270 genome assembly, chromosome: 23495_7_339_h	0	2
+GCA_963669195	False	Streptococcus oralis subsp. dentisani isolate Streptococcus dentisani 7746 genome assembly, chromosome: 1	0	4
+GCA_965111685	False	Streptococcus oralis isolate S. oralis A22 genome assembly, chromosome: 1	1	4
+GCA_965111695	False	Streptococcus mitis isolate S. mitis G22 genome assembly, chromosome: 1	0	4
+GCA_965111705	False	Streptococcus mitis isolate S. mitis E22 genome assembly, chromosome: 1	0	5
+GCA_965111715	False	Streptococcus mitis isolate S. mitis F22 genome assembly, chromosome: 1	0	6
+GCA_965111725	False	Streptococcus mitis isolate S. mitis C22 genome assembly, chromosome: 1	2	6
+GCA_965111735	False	Streptococcus mitis isolate S. mitis D22 genome assembly, chromosome: 1	2	8
+GCA_965111745	False	Streptococcus mitis isolate S. mitis B22 genome assembly, chromosome: 1	0	5
+GCA_965139625_1	True	Streptococcus penaeicida strain CIP111643T isolate CIP111643T NODE_0046, whole genome shotgun sequence	0	0
