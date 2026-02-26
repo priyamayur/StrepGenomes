@@ -9,27 +9,18 @@ from datetime import datetime
 import pandas as pd
 
 
-output_directory = "output/"
-out_direc = "c:\\Users\\pb11\\Documents\\Projects\\ras_ripp\\output\\"
-gpt_out_direc = "c:\\Users\\pb11\\Documents\\Projects\\ras_ripp\\output\\chatgpt\\"
-# pmid_neighbours_updated = pd.read_csv(output_directory + "pmid_neighbours_updated.tsv", sep='\t')
-pmid_neighbours_updated = pd.read_csv(output_directory + "only_neighbours_new_strep.tsv", sep='\t')
+pmid_neighbours_updated = pd.read_csv("only_neighbours_new_strep.tsv", sep='\t')
+chatgpt_file = pd.read_excel( "abstract_improved_merged_new_strep_sept_12.xlsx")
+previous_chatgpt_file = pd.read_excel("final_chatgpt_aug_combined_results_21.xlsx")
 
-# host_info = pd.read_excel(output_directory + "host_information_chatgpt_combined.xlsx")
-chatgpt_file = pd.read_excel(gpt_out_direc + "abstract_improved_merged_new_strep_sept_12.xlsx")
-previous_chatgpt_file = pd.read_excel(output_directory + "final_chatgpt_aug_combined_results_21.xlsx")
-
-with open(output_directory +'filename_pmid_species_new_strep.json') as f:
+with open('filename_pmid_species_new_strep.json') as f:
     species = json.load(f)
 
-host_information = pd.read_excel(out_direc + "host_information_new_strep.xlsx")
-gene_count_info = pd.read_csv(output_directory + "gene_count_information_including_new_strep.tsv", sep='\t')
+host_information = pd.read_excel( "host_information_new_strep.xlsx")
+gene_count_info = pd.read_csv("gene_count_information_including_new_strep.tsv", sep='\t')
 
-pathogenecity=pd.read_excel(out_direc + "Streptococcus_Pathogenicity.xlsx")
+pathogenecity=pd.read_excel("Streptococcus_Pathogenicity.xlsx")
 pathogenecity_dict = pathogenecity.set_index("Species")["Pathogenicity"].to_dict()
-# print(pathogenecity_dict)
-# print("all records=",len(host_information))
-# print(host_information.head())
 
 host_information_chromosome = host_information[host_information["plasmid"] == False]
 print("chromosome records=", len(host_information_chromosome))
@@ -110,13 +101,10 @@ file_species_host_df = pd.DataFrame(file_species_host,
                                              'host', 'isolation_source', 
                                               'chatgpt_host_host_site', 'host_normalized',
                                              'pathogenecity','chatgpt_pathogenicity_rating'])
-# print("file_species_host_df shape: ", file_species_host_df.shape)
-# print(file_species_host_df.head())
-# print("file_species_host_df: ", file_species_host_df)
 print("length final==>",len(file_species_host_df))
 print("file_species_host_df shape: ", file_species_host_df.head())
 
 
-file_species_host_df.to_excel(output_directory + 'chatgpt_plus_original_sep_12_new_strep.xlsx', index=False)
+file_species_host_df.to_excel('chatgpt_plus_original_sep_12_new_strep.xlsx', index=False)
 
 

@@ -7,10 +7,9 @@ from Bio import SeqIO
 import logging
 from datetime import datetime
 
-# directory = "/work/idoerg/britta_strep/embl"
-# output_directory = "/work/idoerg/britta_strep/output/"
+
 directory = "embl_short"
-# directory = "combined_bakta_original_annotations_plus_new"
+
 output_directory = "output/"
 output_filename = "pubmedIds_short_sept_10.json"
 output_filename = "pubmedIds_chromosomes_plasmids_plus_new.json"

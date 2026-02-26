@@ -8,11 +8,9 @@ import logging
 from datetime import datetime
 import pandas as pd
 
-# directory = "/work/idoerg/britta_strep/embl"
-# output_directory = "/work/idoerg/britta_strep/output/"
+
 directory = "embl_short"
 output_directory = "output/"
-# output_filename = "neighbours_and_pmids_updated_with_more_annotated.json"
 Entrez.email = "pb11@iastate.edu"
 
 

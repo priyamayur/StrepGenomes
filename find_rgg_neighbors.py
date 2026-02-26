@@ -14,7 +14,7 @@ from Bio.SeqRecord import SeqRecord
 import argparse
 
 
-BASE_PATH = Path('/mnt/c/Users/pb11/Documents/Projects/ras_ripp')
+BASE_PATH =  Path.cwd()
 
 def neighboring_genes(json_list):
     plus_list = []
@@ -416,9 +416,9 @@ if __name__ == '__main__':
     get_all_neighbors(args.pfam1, args.pfam2, args.outfolder, embldir)
     print("Neighbor detection complete.")
     
-    print("Getting single gene hits for Pfam1...")
+    print("Getting single gene hits for Pfam2 (default: PF21259)...")
     
-    get_single_gene_hit(args.pfam1, f'{args.outfolder}/{args.pfam1}_hits.json', embldir)
-    print(f"Single gene hit detection for {args.pfam1} complete. Saved to {args.pfam1}_hits.json")
+    get_single_gene_hit(args.pfam2, f'{args.outfolder}/{args.pfam2}_hits.json', embldir)
+    print(f"Single gene hit detection for {args.pfam2} complete. Saved to {args.pfam2}_hits.json")
     
 

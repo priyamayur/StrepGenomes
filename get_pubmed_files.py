@@ -2,10 +2,9 @@ import pandas as pd
 from Bio import Entrez
 import json
 
-source_folder= "c:\\Users\\pb11\\Documents\\Projects\\ras_ripp\\output\\"
-# pmid_neighbours = pd.read_csv(source_folder + 'pmid_neighbours.tsv', sep='\t')
-pmid_neighbours_old = pd.read_csv(source_folder + 'pmid_filenames_all.tsv', sep='\t')
-pmid_neighbours_new_strep = pd.read_csv(source_folder + 'pmid_filenames_all_new_strep.tsv', sep='\t')
+
+pmid_neighbours_old = pd.read_csv( 'pmid_filenames_all.tsv', sep='\t')
+pmid_neighbours_new_strep = pd.read_csv('pmid_filenames_all_new_strep.tsv', sep='\t')
 
 pmid_neighbours = pmid_neighbours_new_strep[~pmid_neighbours_new_strep['pmid'].isin(pmid_neighbours_old['pmid'])]
 
@@ -40,7 +39,7 @@ for index, row in pmid_neighbours.iterrows():
 
 # json_output_path = source_folder + "pmid_abstracts.json"
 
-json_output_path = source_folder + "pmid_abstracts_new_strep.json"
+json_output_path = "pmid_abstracts_new_strep.json"
 
 with open(json_output_path, 'w') as json_file:
     json.dump(file_abstract_dict, json_file)

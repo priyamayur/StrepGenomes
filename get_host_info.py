@@ -9,9 +9,8 @@ from datetime import datetime
 import pandas as pd
 
 
-# out_direc = "c:\\Users\\pb11\\Documents\\Projects\\ras_ripp\\combined_bakta_original_annotations\\"
-out_direc = "c:\\Users\\pb11\\Documents\\Projects\\ras_ripp\\combined_bakta_original_annotations_plus_new\\"
-file_name_to_source = {}
+
+out_direc = "combined_bakta_original_annotations_plus_new" #<Path to EMBL files> 
 file_name_to_host=[]
 count = 0
 for filename in os.listdir(out_direc):

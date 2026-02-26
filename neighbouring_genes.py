@@ -8,26 +8,15 @@ import logging
 from datetime import datetime
 import pandas as pd
 
-# directory = "/work/idoerg/britta_strep/embl"
-# output_directory = "/work/idoerg/britta_strep/output/"
+
 directory = "embl_short"
 output_directory = "output/"
 output_filename = "neighbours_and_pmids_updated_with_more_annotated.json"
 Entrez.email = "pb11@iastate.edu"
 
 
-
-# with open(output_directory +'all_neighbors_updated.json') as f:
-#     all_neighbours = json.load(f)
-
 with open(output_directory +'all_neighbors_updated_new_strep.json') as f:
     all_neighbours = json.load(f)
-
-    # print(all_neighbours.keys())
-# print("all neighbours length: ", len(all_neighbours.keys()))
-
-# with open(output_directory +'pubmedIds_updated2_chromosomes_plasmids_corrected.json') as f:
-#     pubmedIds = json.load(f)
     
 with open(output_directory +'pubmedIds_chromosomes_plasmids_plus_new.json') as f:
     pubmedIds = json.load(f)
@@ -79,12 +68,9 @@ britta_txt_df = pd.DataFrame(britta_txt, columns=['file_name', 'pmid'])
 txt_only_neighbours_df = pd.DataFrame(txt_only_neighbours, columns=['file_name', 'pmid'])
 all_pmids_df = pd.DataFrame(all_pmids, columns=['file_name', 'pmid'])
 all_pmids_df = all_pmids_df.drop_duplicates()
-# all_pmids_df.to_csv(output_directory + "all_pmids_new_strep.tsv", sep='\t', index=False)
+
 txt_only_neighbours_df.to_csv(output_directory + "only_neighbours_new_strep.tsv", sep='\t', index=False)
-# britta_txt_df.to_csv(output_directory + "pmid_neighbours_updated_new_strep.tsv", sep='\t',index=False)
-# with open(output_directory + output_filename , "w") as json_file:
-#     json.dump(neighbours_pmid, json_file, indent=4)
-    
+
 print("total_count_overlap: ", total_count_overlap)
 print("count_overlap_neighbours: ", count_overlap_neighbours)
 print("only_neighbours: ", only_neighbours)
