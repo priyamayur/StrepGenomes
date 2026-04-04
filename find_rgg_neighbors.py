@@ -217,12 +217,12 @@ def get_hmmr_hits(hmmsrch_path,eval_threshold=0.001):
     hmmr_hits['hit_ids'] = hit_ids  
     return(hmmr_hits)
 
-def get_hits_positions(hmmr_hits):
+def get_hits_positions(hmmr_hits,proteome_path):
     """
     Get the relative positions in the genome (gene number on strand, or gene number in both strands)
     from a hmmr hit list
     """
-    proteome_path = BASE_PATH / 'proteome'
+    # proteome_path = BASE_PATH / 'proteome'
     json_file_plus = proteome_path / f'{hmmr_hits["genome_id"]}_aa_l2n+.json'
     json_file_minus = proteome_path / f'{hmmr_hits["genome_id"]}_aa_l2n-.json'
     json_file_all = proteome_path / f'{hmmr_hits["genome_id"]}_aa_l2na.json'
@@ -265,7 +265,7 @@ def get_hit_distances(hmmr_hits_1, hmmr_hits_2,max_distance = 4):
                     neighbors.append((hit_pair, gene_distance))
     return(neighbors)
 
-def get_neighboring_hmm_hits(pfam1, pfam2, proteome):
+def get_neighboring_hmm_hits(pfam1, pfam2, proteome,proteome_path):
     # proteome_path = BASE_PATH / 'proteome'
     hmmrsrch_path_1 = f'{pfam1}_{proteome}_aa.hmmsrch'
     hmmrsrch_path_2 = f'{pfam2}_{proteome}_aa.hmmsrch'
@@ -279,12 +279,15 @@ def get_neighboring_hmm_hits(pfam1, pfam2, proteome):
     except ValueError:
         print (f'{hmmrsrch_path_2} empty')
         return ([])
-    hmmr_hits_pos_1 = get_hits_positions(hmmr_hits_1)
-    hmmr_hits_pos_2 = get_hits_positions(hmmr_hits_2)
+    hmmr_hits_pos_1 = get_hits_positions(hmmr_hits_1, proteome_path)
+    
+    hmmr_hits_pos_2 = get_hits_positions(hmmr_hits_2, proteome_path)
+    
     neighbors = get_hit_distances(hmmr_hits_pos_1, hmmr_hits_pos_2)
+    
     return(neighbors)
 
-def get_all_neighbors(pfam1, pfam2,outfolder,embl_dir):
+def get_all_neighbors(pfam1, pfam2,outfolder,embl_dir,proteome_path):
     outfile = f'{outfolder}/{pfam1}_{pfam2}_neighbors.txt'
     fout = open(outfile,"w")
     # proteome_dir = BASE_PATH / 'embl'
@@ -293,7 +296,7 @@ def get_all_neighbors(pfam1, pfam2,outfolder,embl_dir):
     for pfile in proteome_files:
         gca_id = f'{Path(pfile).stem.split(".")[0]}'
         try:
-            neighbors = get_neighboring_hmm_hits(pfam1, pfam2, gca_id)
+            neighbors = get_neighboring_hmm_hits(pfam1, pfam2, gca_id,proteome_path)
         except FileNotFoundError:
             print(f'problem with {gca_id}: not annotated?')
             neighbors_dict[gca_id] = None
@@ -370,7 +373,7 @@ if __name__ == '__main__':
 
     parser.add_argument(
         "--embldir",
-        default=str(BASE_PATH / "combined_bakta_original_annotations_plus_new"),
+        default=str(BASE_PATH),
         help="Path to directory containing .embl.gz files"
     )
 
@@ -394,14 +397,16 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
 
-    proteome_path = BASE_PATH / 'proteome'
-    proteome_path.mkdir(parents=True, exist_ok=True)
-
     embldir = Path(args.embldir)
+
+    output_path = Path(args.outfolder)
+    output_path.mkdir(parents=True, exist_ok=True)
+    proteome_path = output_path / 'proteome'
+    proteome_path.mkdir(parents=True, exist_ok=True)
 
     print(f"Using EMBL directory: {embldir}")
     print(f"Using Pfam IDs: {args.pfam1}, {args.pfam2}")
-    print(f"Output will be written to: {args.outfile}")
+    print(f"Output will be written to: {args.outfolder}")
     
     print("Creating proteome database...")
     create_proteome_db(embldir, proteome_path)
@@ -413,7 +418,7 @@ if __name__ == '__main__':
     
     print("Finding neighboring hits...")
     
-    get_all_neighbors(args.pfam1, args.pfam2, args.outfolder, embldir)
+    get_all_neighbors(args.pfam1, args.pfam2, args.outfolder, embldir, proteome_path)
     print("Neighbor detection complete.")
     
     print("Getting single gene hits for Pfam2 (default: PF21259)...")
