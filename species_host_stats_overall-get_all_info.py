@@ -105,6 +105,6 @@ print("length final==>",len(file_species_host_df))
 print("file_species_host_df shape: ", file_species_host_df.head())
 
 
-file_species_host_df.to_excel('chatgpt_plus_original_sep_12_new_strep.xlsx', index=False)
+file_species_host_df.to_excel('chatgpt_combined_file.xlsx', index=False)
 
 
