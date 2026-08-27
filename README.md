@@ -8,7 +8,7 @@ All the genome files used can be found here: [strep genomes](https://drive.googl
 
 **script: find_rgg_neighbors.py**
 
-This script identifies neighboring genes in annotated bacterial genomes based on Pfam HMM hits. It extracts proteomes from EMBL genome files ([strep genomes](https://drive.google.com/drive/folders/1F-sI_ro7On3kW2aRG4iMaWyJcQLgv1it?usp=drive_link), performs HMM searches using HMMER, and detects gene pairs that occur within a defined genomic distance. By default, it will find neighbouring genes between RaS-RiPPs (PF04055) and Rggs (PF21259). In addition the script finds single hit results for Rggs (PF21259).
+This script identifies neighboring genes in annotated bacterial genomes based on Pfam HMM hits. It extracts proteomes from EMBL genome files ([strep genomes](https://drive.google.com/drive/folders/1F-sI_ro7On3kW2aRG4iMaWyJcQLgv1it?usp=drive_link)), performs HMM searches using HMMER, and detects gene pairs that occur within a defined genomic distance. By default, it will find neighbouring genes between RaS-RiPPs (PF04055) and Rggs (PF21259). In addition the script finds single hit results for Rggs (PF21259).
 
 Python dependencies:
 Biopython
